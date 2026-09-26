@@ -14,24 +14,24 @@
 you|kamu, Anda (satu orang atau lebih)|f2s2p
 i|saya (yang berbicara)|f1s
 the|(menandai benda yang sudah diketahui)|o
-to|ke (arah, tujuan); (menandai kata kerja: to go = pergi)|v;v
+to|ke (arah, tujuan); (menandai kata kerja: to go = pergi); sampai (dari Senin sampai Jumat)|v;v;v
 a|sebuah, satu (bukan yang tertentu)|o
 's|milik, -nya (kepunyaan); adalah; sudah (bentuk perfek)|o;f3s;f3s
-it|itu, dia (benda yang sudah disebut)|f3s
-that|itu (yang di sana); bahwa (menandai anak kalimat)|o;o
+it|itu, dia (benda yang sudah disebut); (subjek kosong: hujan, sudah larut)|f3s;f3s
+that|itu (yang di sana); bahwa (menandai anak kalimat); begitu (tidak begitu buruk)|o;o;o
 and|dan|o
 't|tidak, bukan (dalam don't, can't, isn't)|o
-of|dari, milik|o
+of|dari, milik; dari (bagian dari kelompok: salah satu dari kami); dari, berisi (secangkir teh); tentang (memikirkan, kisah tentang)|o;o;o;o
 is|dia adalah|f3s
-in|di, di dalam|o
-what|apa|o
+in|di, di dalam; pada (waktu: pada bulan Mei, pada 2010, di pagi hari); dalam (dua hari lagi); memakai (bergaun merah); ada di tempat (apakah dia ada?)|o;o;o;o;o
+what|apa; apa yang (yang kubutuhkan adalah waktu); sungguh (hari yang luar biasa!)|o;o;o
 we|kami, kita|f1p
 me|saya, aku|o
-this|ini (yang dekat saya)|o
+this|ini (yang dekat saya); ini (minggu ini, pagi ini)|o;o
 he|dia (laki-laki)|f3s
-do|melakukan; (membuat pertanyaan dan kalimat negatif: do you know?)|v;g
+do|melakukan; (membuat pertanyaan dan kalimat negatif: do you know?); do without: hidup tanpa; do away with: menghapuskan|v;g;n;n
 my|saya, -ku|o
-on|di, di atas; pada (hari atau tanggal); tentang, mengenai (suatu topik); menyala, hidup, berjalan|o;o;o;o
+on|di, di atas; pada (hari atau tanggal); tentang, mengenai (suatu topik); menyala, hidup, berjalan; terus (melanjutkan); lewat (di telepon, di TV)|o;o;o;o;o;o
 your|kamu, -mu|o
 was|saya adalah (bentuk lampau); dia adalah (bentuk lampau)|f1s;f3s
 'm|saya adalah|f1s
@@ -41,37 +41,37 @@ be|adalah, menjadi|v
 are|kami/mereka adalah; kamu adalah|f1p;f2s2p
 don|(tidak, dalam don't)|g
 're|kamu adalah; kami/mereka adalah|f2s2p;f1p
-with|dengan|o
+with|dengan; dengan (memotong dengan pisau); yang ber- (gadis berambut merah); karena (gemetar karena takut); mendukung, paham (aku bersamamu)|o;o;o;o;o
 but|tetapi, tapi, namun; kecuali (semua kecuali satu)|o;o
-all|semua, segalanya|o
-go|pergi|v
+all|semua, segalanya; sama sekali, benar-benar (sendirian); all right: baik, tidak apa-apa, oke; all over: di mana-mana, selesai; all along: sejak awal|o;o;n;n;n
+go|pergi; go on: terus, berlanjut, terjadi (what's going on: ada apa); go through: mengalami, menjalani, memeriksa; go ahead: silakan, lanjutkan; go off: meledak, berbunyi (alarm), pergi, menjadi basi; go over: menghampiri, menyeberang, meninjau, memeriksa; go by: berlalu, lewat, berpedoman pada; go about: menangani, mengerjakan (tugas); go along with: setuju dengan, mengikuti; go wrong: gagal, ada masalah|v;n;n;n;n;n;n;n;n;n
 there|di sana (tempat itu); there is: ada|o;n
 here|di sini (tempat ini)|o
-like|seperti, mirip; suka|o;v
+like|seperti, mirip; suka; seperti (kota seperti Paris); sepertinya (sepertinya akan hujan)|o;v;o;o
 they|mereka|f3p
 'll|akan|o
 she|dia (perempuan)|f3s
-come|datang|v
+come|datang; come on: ayo!, cepat!, sudahlah!; come up with: menemukan, mencetuskan (gagasan); come along: ikut, berkembang, muncul; come over: menghampiri, mampir, (perasaan) tiba-tiba menguasai; come across: menemukan secara kebetulan, terkesan; come by: mampir, mendapatkan; come about: terjadi; come upon: menemukan secara kebetulan; come round: berkunjung, berubah pikiran, siuman; come true: menjadi kenyataan|v;n;n;n;n;n;n;n;n;n;n
 if|jika, kalau (dengan syarat); apakah, entah|o;o
 want|mau, ingin|v
-out|keluar, di luar|o
-about|tentang, mengenai; kira-kira, sekitar; about to: hampir, akan segera|o;o;n
-up|ke atas, di atas; bangun, sudah bangun dari tidur; habis, selesai (waktunya habis)|o;o;o
-at|di (suatu tempat); pada (suatu waktu); ke arah (melihat ke, melempar ke)|o;o;o
+out|keluar, di luar; keluar, tidak di rumah (dia sedang keluar); padam (lampunya padam); dengan suara keras; sepenuhnya; out of: dari (satu dari sepuluh), kehabisan (uang), karena (takut)|o;o;o;o;o;n
+about|tentang, mengenai; kira-kira, sekitar; about to: hampir, akan segera; ke sana kemari (berjalan-jalan); what about / how about: bagaimana kalau…?, bagaimana dengan…?|o;o;n;o;n
+up|ke atas, di atas; bangun, sudah bangun dari tidur; habis, selesai (waktunya habis); habis, penuh (makan habis, mengisi penuh); terjadi (ada apa?); (up to) sampai, terserah (terserah kamu), sedang melakukan|o;o;o;o;o;o
+at|di (suatu tempat); pada (suatu waktu); ke arah (melihat ke, melempar ke); dalam keadaan (berperang, berisiko); dengan (kecepatan 50 km/jam); at all: sama sekali; at least: setidaknya|o;o;o;o;o;n;n
 him|dia (laki-laki)|o
 now|sekarang|o
 oh|oh (kaget, baru sadar)|o
 her|dia (perempuan)|o
-how|bagaimana|o
-think|berpikir|v
+how|bagaimana; betapa (betapa bagusnya!); how come: kok, mengapa|o;o;n
+think|berpikir; think over: mempertimbangkan|v;n
 yeah|ya|o
 've|(sudah: I've seen, you've gone)|g
-got|dapat, bentuk lampau dari get; have got: punya|o;n
+got|dapat, bentuk lampau dari get; have got: punya; have got to: harus (aku harus pergi); got up: bangun, berdiri; got out: keluar, kabur; got back: kembali; got rid of: menyingkirkan, membuang; got over: pulih dari; got away: kabur, lolos; got on: naik, akur; got off: turun; got through: melewati, menyelesaikan, tersambung; got used to: terbiasa dengan|o;n;n;n;n;n;n;n;n;n;n;n;n
 okay|oke, baiklah|o
-as|seperti; saat, ketika|o;o
-take|mengambil|v
-good|bagus, baik, bermutu; baik hati, berkelakuan baik; menyenangkan, enak; goods: barang dagangan|o;o;o;n
-let|membiarkan, mengizinkan|v
+as|seperti; saat, ketika; sebagai (bekerja sebagai guru); karena (karena sudah larut); as if / as though: seolah-olah; as for: mengenai|o;o;o;o;n;n
+take|mengambil; take over: mengambil alih; take on: menerima (pekerjaan, tanggung jawab), mempekerjakan, melawan, tampak (bercorak); take off: melepas (pakaian), lepas landas, pergi; take out: mengeluarkan (dari saku, tas), mengambil, mengajak keluar; take back: menarik kembali (ucapan), mengembalikan (barang); take after: mirip (orang tua); take place: terjadi, berlangsung; take part: ikut serta; take care of: merawat, mengurus; take advantage of: memanfaatkan; take it easy: santai saja, tenang|v;n;n;n;n;n;n;n;n;n;n;n
+good|bagus, baik, bermutu; baik hati, berkelakuan baik; menyenangkan, enak; goods: barang dagangan; for good: untuk selamanya; no good: tidak berguna|o;o;o;n;n;n
+let|membiarkan, mengizinkan; let down: mengecewakan, lengah (let down one's guard); let go: melepaskan; let in: membiarkan masuk; let out: mengeluarkan (desahan, teriakan), melepaskan; let alone: apalagi|v;n;n;n;n;n
 did|bentuk lampau dari do|o
 who|siapa|o
 tell|memberitahu (seseorang sesuatu)|v
@@ -79,10 +79,10 @@ why|mengapa, kenapa|o
 from|dari|o
 his|dia (laki-laki), -nya|o
 yes|ya|o
-time|waktu; kali (satu kesempatan)|o;o
-make|membuat, menciptakan; memaksa (melakukan)|v;v
+time|waktu; kali (satu kesempatan); on time: tepat waktu; in time: tepat pada waktunya, lama-kelamaan; at the same time: pada saat yang sama, namun; from time to time: sesekali; all the time: sepanjang waktu, terus-menerus; for the time being: untuk sementara|o;o;n;n;n;n;n;n
+make|membuat, menciptakan; memaksa (melakukan); make up: mengarang, membentuk, berbaikan, memutuskan; make up for: menebus, mengganti; make out: melihat samar-samar, memahami, bercumbu; make sure: memastikan; make sense: masuk akal; make fun of: mengejek; make the most of: memanfaatkan sebaik-baiknya|v;v;n;n;n;n;n;n;n
 when|kapan, ketika|o
-going|pergi; going to: akan|o;n
+going|pergi; going to: akan; going on: terjadi, berlangsung (what's going on: ada apa)|o;n;n
 an|sebuah, satu (sebelum bunyi vokal)|o
 man|pria, laki-laki; (seruan) menyatakan kaget|o;o
 say|berkata, mengatakan|v
@@ -101,26 +101,26 @@ our|kami, kita (milik)|o
 gonna|akan (informal)|o
 really|sungguh, benar-benar; sangat|o;o
 thank|berterima kasih; thank you: terima kasih; thanks: terima kasih; thanks to: berkat, karena|v;n;n;n
-some|beberapa, sebagian|o
+some|beberapa, sebagian; seseorang, suatu (seorang pria menelepon); sekitar (sekitar 20 orang)|o;o;o
 hey|hei (menyapa; menarik perhatian)|o
-give|memberi|v
+give|memberi; give up: menyerah, berhenti, menyerahkan; give in: mengalah, menyerah; give away: memberikan cuma-cuma, membocorkan (rahasia); give birth: melahirkan; give way: runtuh, mengalah, digantikan oleh|v;n;n;n;n;n
 'd|akan (I'd like); (sudah: I'd gone); (did: where'd you go = kamu pergi ke mana?)|o;g;g
 didn|(tidak, dalam didn't)|g
 mean|berarti, bermakna; jahat, kejam; bermaksud, berniat; sarana, cara melakukan sesuatu; by means of: dengan, menggunakan|v;o;v;o;n
-way|cara; jalan; jarak (jauh sekali)|o;o;o
+way|cara; jalan; jarak (jauh sekali); by the way: ngomong-ngomong; on the way / on my way: dalam perjalanan; in a way: dalam arti tertentu|o;o;o;n;n;n
 something|sesuatu|o
 has|dia punya|f3s
 little|kecil; sedikit|o;o
 too|juga; terlalu|o;o
-much|banyak|o
-more|lebih, lebih banyak; lebih (membentuk perbandingan: lebih cantik)|o;g
-because|karena|o
+much|banyak; at most: paling banyak; make the most of: memanfaatkan sebaik-baiknya; for the most part: sebagian besar|o;n;n;n
+more|lebih, lebih banyak; lebih (membentuk perbandingan: lebih cantik); more or less: kurang lebih|o;g;n
+because|karena; because of: karena, akibat|o;n
 talk|berbicara, bicara|v
-love|mencintai; cinta|v;o
-down|ke bawah, di bawah; menyusuri (menyusuri jalan); sedih, murung|o;o;o
+love|mencintai; cinta; in love: sedang jatuh cinta; make love: bercinta|v;o;n;n
+down|ke bawah, di bawah; menyusuri (menyusuri jalan); sedih, murung; mencatat (tulis); turun (harga turun)|o;o;o;o;o
 very|sangat|o
 never|tidak pernah|o
-call|menelepon; memanggil (menyebut nama); panggilan, telepon|v;v;o
+call|menelepon; memanggil (menyebut nama); panggilan, telepon; call for: menuntut, memerlukan; call on: mengunjungi, meminta; call off: membatalkan; call back: menelepon balik|v;v;o;n;n;n;n
 people|orang-orang, orang; bangsa, suku bangsa|o;o
 only|hanya, cuma, tidak lebih dari; satu-satunya, tunggal (anak tunggal)|o;o
 over|di atas; selesai, berakhir; ke seberang, melintasi; selama (over the weekend: selama akhir pekan); tentang, soal (a fight over money: bertengkar soal uang); over here / over there: di sini, di sana|o;o;o;o;o;n
@@ -130,38 +130,38 @@ please|tolong, silakan (permintaan sopan)|o
 should|sebaiknya, seharusnya|o
 said|bentuk lampau dari say|o
 sorry|maaf (meminta ampun); kasihan (merasa prihatin)|o;o
-off|lepas, pergi (dari suatu tempat atau permukaan); mati (tidak menyala); libur, tidak bekerja (hari libur); basi, busuk (makanan)|o;o;o;o
+off|lepas, pergi (dari suatu tempat atau permukaan); mati (tidak menyala); libur, tidak bekerja (hari libur); basi, busuk (makanan); batal (pernikahannya batal); potongan (diskon 20%)|o;o;o;o;o;o
 am|saya adalah|f1s
 try|mencoba, berusaha|v
-any|apa pun, sembarang|o
+any|apa pun, sembarang; mana saja, kapan saja; sama sekali (tidak lebih baik)|o;o;o
 two|dua|o
-wait|menunggu|v
-even|bahkan (mengherankan); rata (datar)|o;o
+wait|menunggu; can't wait / cannot wait: tidak sabar|v;n
+even|bahkan (mengherankan); rata (datar); even though / even if: meskipun, sekalipun; even so: meski begitu; bahkan lebih (bahkan lebih baik)|o;o;n;n;o
 life|hidup, kehidupan|o
 doing|melakukan|o
 hello|halo|o
-help|menolong, membantu; bantuan|v;o
-sure|yakin, pasti; (seruan) ya, tentu|o;o
+help|menolong, membantu; bantuan; can't help / cannot help: tidak bisa menahan diri|v;o;n
+sure|yakin, pasti; (seruan) ya, tentu; make sure: memastikan; for sure: pasti|o;o;n;n
 year|tahun|o
 these|ini (lebih dari satu)|o
 other|lain|o
 happen|terjadi|v
-first|pertama, paling awal; dulu, terlebih dahulu; at first: pada awalnya, mula-mula|o;o;n
+first|pertama, paling awal; dulu, terlebih dahulu; at first: pada awalnya, mula-mula; first of all: pertama-tama|o;o;n;n
 into|ke dalam; suka, gemar (saya suka musik)|o;o
-keep|menyimpan; terus (melakukan)|v;v
-find|menemukan|v
+keep|menyimpan; terus (melakukan); keep up: mengikuti, mempertahankan; keep up with: mengikuti, mengejar; keep on: terus|v;v;n;n;n
+find|menemukan; find out: mengetahui, mencari tahu|v;n
 ask|bertanya (mengajukan pertanyaan); meminta|v;v
 still|masih (sampai sekarang); diam, tidak bergerak; namun, meskipun begitu|o;o;o
 anything|apa saja, apa pun|o
-hear|mendengar|v
+hear|mendengar; hear of: mendengar tentang, mengizinkan; hear from: mendapat kabar dari|v;n;n
 god|tuhan, dewa; oh God: seruan kaget|o;n
 nothing|tidak ada apa-apa|o
 sir|tuan, pak (sapaan hormat untuk laki-laki)|o
-put|meletakkan, menaruh|v
+put|meletakkan, menaruh; put on: memakai, menyalakan, menambah (berat badan), mementaskan; put up: mengangkat, mendirikan, memberikan (perlawanan), menampung (menginap); put up with: tahan, menoleransi; put out: memadamkan, merepotkan; put off: menunda, membuat enggan; put down: meletakkan, mencatat, menumpas, menyuntik mati (hewan), merendahkan; put away: menyimpan, memenjarakan; put together: merakit, menyusun|v;n;n;n;n;n;n;n;n
 their|mereka, milik mereka|o
 use|memakai, menggunakan; kegunaan, manfaat|v;o
 great|hebat, bagus sekali; besar|o;o
-long|lama; panjang; merindukan, sangat menginginkan|o;o;v
+long|lama; panjang; merindukan, sangat menginginkan; as long as: asalkan, selama; no longer: tidak lagi; before long: tidak lama kemudian|o;o;v;n;n;n
 uh|eh (ragu-ragu)|o
 again|lagi|o
 thought|bentuk lampau dari think; pikiran, gagasan|o;o
@@ -170,7 +170,7 @@ maybe|mungkin, barangkali|o
 must|harus|o
 night|malam|o
 before|sebelum; di depan, di hadapan; sebelumnya, dulu (saya pernah melihatnya)|o;o;o
-after|sesudah, setelah; di belakang, mengikuti; mencari, memburu (polisi memburunya)|o;o;o
+after|sesudah, setelah; di belakang, mengikuti; mencari, memburu (polisi memburunya); after all: bagaimanapun juga, ternyata|o;o;o;n
 won|menang, bentuk lampau dari win; (dalam won't) tidak akan|o;o
 home|pulang, di rumah (pulang ke rumah); rumah, tempat tinggal|o;o
 away|pergi, ke tempat lain; jauh (dua mil jauhnya); tidak ada, sedang pergi|o;o;o
@@ -184,8 +184,8 @@ everything|segalanya, semuanya|o
 new|baru (baru dibuat); baru (belum pernah dilihat atau dikenal); baru, lain (pekerjaan baru)|o;o;o
 start|mulai, memulai; awal, permulaan|v;o
 always|selalu|o
-feel|merasa|v
-place|tempat, lokasi; rumah (di rumahku); posisi, peringkat (juara pertama); menaruh, meletakkan|o;o;o;v
+feel|merasa; feel like: ingin, terasa seperti|v;n
+place|tempat, lokasi; rumah (di rumahku); posisi, peringkat (juara pertama); menaruh, meletakkan; take place: terjadi, berlangsung; in place of: sebagai ganti; in the first place: sejak awal|o;o;o;v;n;n;n
 big|besar; penting; lebih tua (kakak laki-laki)|o;o;o
 woman|wanita, perempuan|o
 old|tua; lama, bekas (sekolahku dulu); berumur (berumur sepuluh tahun)|o;o;o
@@ -197,17 +197,17 @@ play|bermain; drama, sandiwara|v;o
 kid|anak; bercanda|o;v
 believe|percaya|v
 wrong|salah, keliru; salah, jahat, tidak bermoral; tidak beres, rusak (ada apa)|o;o;o
-bring|membawa (ke sini)|v
+bring|membawa (ke sini); bring up: membesarkan, mengungkit (topik), membawa naik; bring about: menyebabkan; bring down: menjatuhkan, menurunkan; bring out: menonjolkan, menerbitkan|v;n;n;n;n
 father|ayah, bapak; Romo, Pastor (sebutan untuk pastor)|o;o
-ever|pernah, kapan saja|o
+ever|pernah, kapan saja; pernah, sepanjang masa (terbaik sepanjang masa); ever since: sejak itu|o;o;n
 move|bergerak, memindahkan|v
 boy|anak laki-laki|o
-show|menunjukkan; acara, pertunjukan|v;o
+show|menunjukkan; acara, pertunjukan; show up: muncul, datang, mempermalukan; show off: pamer|v;o;n;n
 isn|(dalam isn't) bukan, tidak|f3s
 listen|mendengarkan|v
 die|mati, meninggal|v
 which|yang mana|o
-miss|merindukan (merasa kehilangan); luput, tidak kena; Nona (gelar); (missing) hilang, tidak ada|v;v;o;o
+miss|merindukan (merasa kehilangan); luput, tidak kena; Nona (gelar); (missing) hilang, tidak ada; miss out: melewatkan kesempatan|v;v;o;o;n
 late|terlambat, telat; larut (larut malam); mendiang, almarhum (mendiang raja)|o;o;o
 nice|baik, menyenangkan|o
 kind|jenis, macam; baik hati, ramah; (kind of) agak, sedikit, semacam|o;o;o
@@ -216,7 +216,7 @@ understand|mengerti, memahami|v
 someone|seseorang|o
 being|menjadi (bentuk -ing dari be); makhluk, makhluk hidup|o;o
 meet|bertemu|v
-coming|datang|o
+coming|datang; coming up: segera datang, mendekat; coming on: ayo!, mulai|o;n;n
 every|setiap|o
 through|melalui, lewat, tembus; melalui, dengan cara; selesai, sudah tidak mau lagi (aku sudah selesai dengannya)|o;o;o
 lose|kehilangan; kalah|v;v
@@ -227,8 +227,8 @@ dad|ayah, papa|o
 left|bentuk lampau dari leave; kiri (sisi)|o;o
 world|dunia, bumi dan penghuninya; dunia, bidang kegiatan (dunia seni)|o;o
 enough|cukup|o
-own|sendiri (milik sendiri); memiliki|o;v
-care|peduli; perhatian, perawatan|v;o
+own|sendiri (milik sendiri); memiliki; on my own / on your own / on his own / on her own / on its own / on our own / on their own: sendirian, tanpa bantuan|o;v;n
+care|peduli; perhatian, perawatan; care for: merawat, menyukai; care about: peduli pada|v;o;n;n
 bad|buruk, jelek, bermutu rendah; jahat; parah, berat (pilek berat)|o;o;o
 three|tiga|o
 might|mungkin|o
@@ -236,14 +236,14 @@ today|hari ini; masa kini, zaman sekarang|o;o
 car|mobil|o
 another|satu lagi, tambahan; yang lain, yang berbeda|o;o
 minute|menit; sebentar, sesaat (tunggu sebentar); sangat kecil, amat halus|o;o;o
-turn|berbelok, memutar; giliran|v;o
+turn|berbelok, memutar; giliran; turn out: ternyata, berakhir, mematikan (lampu); turn into: berubah menjadi; turn on: menyalakan, menyerang; turn off: mematikan; turn up: muncul, datang, menaikkan (kerah), mengeraskan (suara); turn down: menolak, mengecilkan (suara); turn over: membalik, menyerahkan; turn around: berbalik, memulihkan; in turn: bergiliran, pada gilirannya|v;o;n;n;n;n;n;n;n;n;n
 same|sama|o
 son|putra, anak lelaki|o
-found|bentuk lampau dari find; mendirikan, membangun|o;v
-else|lain, selain itu|o
+found|bentuk lampau dari find; mendirikan, membangun; found out: mengetahui|o;v;n
+else|lain, selain itu; or else: atau kalau tidak|o;n
 next|berikutnya, selanjutnya; next to: di samping, di sebelah|o;n
-run|berlari; menjalankan (usaha)|v;v
-mind|pikiran; keberatan, mempermasalahkan; hati-hati dengan (mind the step: awas tangga)|o;v;v
+run|berlari; menjalankan (usaha); run into: bertemu secara kebetulan, menabrak, berlari masuk; run out of: kehabisan; run out: habis, kedaluwarsa, berlari keluar, meninggalkan; run away: kabur, melarikan diri|v;v;n;n;n;n
+mind|pikiran; keberatan, mempermasalahkan; hati-hati dengan (mind the step: awas tangga); never mind: tidak apa-apa, sudahlah; in mind: dalam pikiran; change my mind / change your mind: berubah pikiran|o;v;v;n;n;n
 yourself|dirimu sendiri|o
 job|pekerjaan, tugas|o
 head|kepala; menuju, mengarah ke; kepala, pemimpin, ketua|o;v;o
@@ -257,7 +257,7 @@ room|kamar (di rumah); ruang, tempat|o;o
 mom|mama, ibu|o
 watch|menonton, memperhatikan; jam tangan|v;o
 child|anak (bukan orang dewasa)|o
-hold|memegang; (hold on!) tunggu dulu|v;o
+hold|memegang; hold on: menunggu, berpegangan, tunggu!; hold up: mengangkat, menunda, merampok, menopang; hold out: mengulurkan (tangan), bertahan; hold back: menahan, ragu, merahasiakan; hold on to: berpegang pada, mempertahankan|v;n;n;n;n;n
 best|terbaik|o
 morning|pagi|o
 hell|neraka; what the hell: menyatakan kesal|o;n
@@ -265,7 +265,7 @@ together|bersama|o
 brother|saudara laki-laki, kakak atau adik lelaki|o
 saw|bentuk lampau dari see; gergaji; menggergaji|o;o;v
 eat|makan|v
-end|akhir; mengakhiri|o;v
+end|akhir; mengakhiri; end up: akhirnya, berakhir di; in the end: pada akhirnya; at the end of the day: pada akhirnya|o;v;n;n;n
 idea|ide, gagasan|o
 real|nyata, asli|o
 forget|lupa, melupakan|v
@@ -282,7 +282,7 @@ shit|(vulgar) tai; dipakai untuk kesal atau kecewa|o;o
 seem|tampak, kelihatan|v
 happy|bahagia, senang, gembira; senang hati, bersedia (senang membantu)|o;o
 huh|hah? (minta diulang; meminta persetujuan)|o
-speak|bertutur, berbicara|v
+speak|bertutur, berbicara; speak up: bicara lebih keras, angkat bicara|v;n
 both|keduanya|o
 laugh|tertawa; tawa|v;o
 ready|siap|o
@@ -291,13 +291,13 @@ pretty|cantik, manis; cukup, agak|o;o
 wife|istri|o
 drink|minum; minuman|v;o
 hour|jam (60 menit)|o
-word|kata; janji (aku berjanji); kabar, berita (ada kabar darinya?)|o;o;o
+word|kata; janji (aku berjanji); kabar, berita (ada kabar darinya?); in other words: dengan kata lain|o;o;o;n
 eye|mata|o
-such|sedemikian, semacam itu|o
+such|sedemikian, semacam itu; begitu (hari yang begitu indah); such as: seperti|o;o;n
 also|juga|o
 haven|(belum, dalam haven't)|g
 yet|belum, sampai sekarang; namun, tetapi|o;o
-whole|seluruh, utuh|o
+whole|seluruh, utuh; on the whole: secara keseluruhan|o;n
 since|sejak (dari waktu itu); karena, sebab|o;o
 face|wajah, muka; menghadapi|o;v
 phone|telepon; menelepon|o;v
@@ -308,20 +308,20 @@ tomorrow|besok|o
 week|minggu, pekan|o
 tonight|malam ini|o
 everyone|semua orang|o
-break|memecahkan, merusak; istirahat, jeda|v;o
+break|memecahkan, merusak; istirahat, jeda; break down: mogok, rusak, hancur (emosi); break up: putus, pecah; break out: pecah (perang), berkobar (api), kabur; break into: membobol, tiba-tiba mulai; break in: membobol masuk, menyela|v;o;n;n;n;n;n
 walk|berjalan; jalan-jalan|v;o
 marry|menikah, menikahi|v
 wanna|mau (informal)|o
 ah|ah (mengerti, lega)|o
 second|detik (satuan waktu); kedua (setelah pertama)|o;o
-alone|sendiri, seorang diri|o
+alone|sendiri, seorang diri; let alone: apalagi|o;n
 myself|diri saya sendiri|o
 um|em… (ragu-ragu)|o
-soon|segera, tak lama lagi|o
+soon|segera, tak lama lagi; as soon as: segera setelah; sooner or later: cepat atau lambat|o;n;n
 close|menutup; dekat|v;o
 question|pertanyaan; masalah, persoalan; bertanya, mempertanyakan, meragukan|o;o;v
 few|sedikit, tidak banyak|o
-heart|jantung; hati, perasaan, cinta; pusat, jantung (pusat kota); by heart: di luar kepala, hafal|o;o;o;n
+heart|jantung; hati, perasaan, cinta; pusat, jantung (pusat kota); by heart: di luar kepala, hafal; at heart: pada dasarnya|o;o;o;n;n
 couldn|(tidak, dalam couldn't)|g
 lady|nyonya, perempuan|o
 buy|membeli|v
@@ -336,8 +336,8 @@ doctor|dokter|o
 young|muda|o
 police|polisi|o
 business|bisnis, usaha; urusan, perkara|o;o
-part|bagian; peran (dalam drama atau film); berpisah, memisahkan|o;o;v
-true|benar, betul, tidak salah; sejati, asli; setia|o;o;o
+part|bagian; peran (dalam drama atau film); berpisah, memisahkan; take part: ikut serta; in part: sebagian|o;o;v;n;n
+true|benar, betul, tidak salah; sejati, asli; setia; come true: menjadi kenyataan|o;o;o;n
 each|masing-masing|o
 easy|mudah, gampang; santai, tenang; pelan-pelan! hati-hati|o;o;o
 fire|api; memberhentikan (dari pekerjaan); menembakkan (senjata)|o;v;v
@@ -355,18 +355,18 @@ body|tubuh, badan; mayat, jenazah; badan, lembaga (badan pengurus)|o;o;o
 death|kematian|o
 number|angka, nomor|o
 working|bekerja (bentuk -ing dari work); berfungsi, berjalan; bekerja, punya pekerjaan|o;o;o
-pick|menjemput, mengambil; memilih|v;v
+pick|menjemput, mengambil; memilih; pick up: mengangkat, menjemput, mengangkat (telepon), belajar; pick on: merundung|v;v;n;n
 crazy|gila|o
 write|menulis|v
-stand|berdiri; tahan, sanggup menahan|v;v
+stand|berdiri; tahan, sanggup menahan; stand for: mewakili, singkatan dari, menoleransi; stand out: menonjol; stand up for: membela; stand by: bersiaga, mendukung|v;v;n;n;n;n
 save|menyelamatkan; menyimpan|v;v
 game|permainan; pertandingan; hewan buruan|o;o;o
 exactly|tepat, persis; betul sekali! (menyetujui)|o;o
 under|di bawah; kurang dari (di bawah lima)|o;o
 everybody|setiap orang, semua orang|o
 wish|berharap, mengharapkan; harapan, keinginan|v;o
-shut|menutup; (shut up!) diam!|v;o
-chance|kesempatan, peluang; kebetulan, untung-untungan|o;o
+shut|menutup; shut up: diam!, tutup mulut (kasar); shut down: menutup (usaha), mematikan (mesin)|v;n;n
+chance|kesempatan, peluang; kebetulan, untung-untungan; by chance: secara kebetulan; stand a chance: punya peluang|o;o;n;n
 party|pesta (perayaan); kelompok, pihak|o;o
 five|lima|o
 plan|rencana; merencanakan|o;v
@@ -374,12 +374,12 @@ its|-nya (milik benda itu)|o
 whatever|apa pun|o
 answer|jawaban; menjawab|o;v
 aren|(tidak, dalam aren't)|g
-taking|mengambil|o
+taking|mengambil; taking over: mengambil alih; taking care of: merawat, mengurus|o;n;n
 promise|berjanji; janji|v;o
-moment|saat, sesaat|o
+moment|saat, sesaat; at the moment: saat ini, pada saat (ketika); for the moment: untuk saat ini|o;n;n
 inside|di dalam|o
-set|meletakkan, menaruh; perangkat, satu set|v;o
-catch|menangkap|v
+set|meletakkan, menaruh; perangkat, satu set; set up: mendirikan, mengatur, menjebak; set out: berangkat, bermaksud, menyusun; set off: berangkat, memicu (alarm, ledakan); set in: mulai terasa (cuaca buruk, perasaan); set about: mulai mengerjakan; set fire to: membakar|v;o;n;n;n;n;n;n
+catch|menangkap; catch up: menyusul, mengejar ketinggalan; catch up with: menyusul, bertemu lagi; catch sight of: melihat sekilas|v;n;n;n
 different|berbeda, lain|o
 high|tinggi, besar (harga tinggi); tinggi; teler, mabuk (karena narkoba); high school: SMA, sekolah menengah|o;o;o;n
 sister|saudara perempuan, kakak atau adik perempuan|o
@@ -389,7 +389,7 @@ somebody|seseorang, orang tertentu|o
 dream|mimpi; bermimpi|o;v
 reason|alasan|o
 side|sisi, tepi, permukaan; pihak, tim; sisi tubuh, rusuk (di sisi kirimu)|o;o;o
-making|membuat|o
+making|membuat; making sure: memastikan; making up: mengarang, membentuk, berbaikan|o;n;n
 afraid|takut; I'm afraid: sayangnya|o;n
 rest|sisa, yang lain; beristirahat|o;v
 four|empat|o
@@ -407,8 +407,8 @@ dog|anjing|o
 important|penting|o
 line|garis; antrean; baris (sebaris teks); sambungan telepon; dialog, kalimat yang diucapkan aktor|o;o;o;o;o
 trust|mempercayai; kepercayaan|v;o
-cut|memotong|v
-wear|mengenakan, memakai (pakaian)|v
+cut|memotong; cut off: memutus, mengisolasi, menyela; cut out: memotong, berhenti; cut down: menebang, mengurangi|v;n;n;n
+wear|mengenakan, memakai (pakaian); wear out: aus, membuat letih; wear off: hilang perlahan (efek)|v;n;n
 trouble|kesulitan, kesusahan, masalah; menyusahkan, mengganggu|o;v
 power|kekuasaan, wewenang; kekuatan, tenaga; listrik (listrik padam)|o;o;o
 read|membaca|v
@@ -416,15 +416,15 @@ nobody|tidak ada seorang pun|o
 ring|cincin; berdering|o;v
 mr|Tuan, Bapak (gelar untuk laki-laki)|o
 though|meskipun, walaupun; namun, akan tetapi|o;o
-throw|melempar, membuang|v
+throw|melempar, membuang; throw up: muntah, mengangkat (tangan); throw away: membuang, menyia-nyiakan|v;n;n
 war|perang|o
 between|antara, di antara|o
 murder|pembunuhan; membunuh|o;v
-pass|melewati, melintas; lulus (ujian); pass away: meninggal dunia; disahkan (undang-undang); kartu masuk, izin, tiket|v;v;n;v;o
+pass|melewati, melintas; lulus (ujian); pass away: meninggal dunia; disahkan (undang-undang); kartu masuk, izin, tiket; pass out: pingsan; pass on: meneruskan, menolak, meninggal|v;v;n;v;o;n;n
 city|kota|o
 truth|kebenaran|o
-sell|menjual|v
-pull|menarik|v
+sell|menjual; sell out: terjual habis, mengkhianati prinsip|v;n
+pull|menarik; pull over: menepi; pull off: berhasil melakukan; pull up: berhenti (kendaraan), menarik ke atas|v;n;n;n
 blood|darah|o
 finish|menyelesaikan, selesai|v
 behind|di belakang; terlambat, tertinggal (terlambat dari jadwal); mendukung, di belakang|o;o;o
@@ -440,23 +440,23 @@ cool|sejuk, agak dingin; keren, hebat|o;o
 sign|tanda, rambu; menandatangani|o;v
 free|gratis, tanpa biaya; bebas, tidak terkurung|o;o
 spend|menghabiskan (waktu); membelanjakan (uang)|v;v
-fact|fakta, kenyataan|o
+fact|fakta, kenyataan; in fact / as a matter of fact: sebenarnya, malahan|o;n
 yours|milikmu|o
 dance|menari; tarian|v;o
 wow|wah (kagum, terkejut)|o
 half|setengah, separuh|o
-drop|menjatuhkan; tetes|v;o
+drop|menjatuhkan; tetes; drop off: mengantar, tertidur; drop in: mampir; drop out: putus (sekolah), mundur|v;o;n;n;n
 bed|tempat tidur, kasur|o
 either|salah satu (dari dua)|o
 country|negara, negeri; pedesaan, kampung|o;o
-figure|bentuk, angka; mengira, memperkirakan|o;v
+figure|bentuk, angka; mengira, memperkirakan; figure out: memahami, memecahkan|o;v;n
 front|depan; in front of: di depan|o;n
 learn|belajar, mempelajari|v
 whoa|wah (terkejut; tahan dulu)|o
 bye|selamat tinggal, sampai jumpa|o
 telling|memberitahu|o
 honey|madu (makanan manis); sayang (sapaan mesra)|o;o
-wonder|bertanya-tanya, ingin tahu; keajaiban, kekaguman|v;o
+wonder|bertanya-tanya, ingin tahu; keajaiban, kekaguman; no wonder: pantas saja|v;o;n
 don't|tidak, jangan (bentuk negatif)|f3s
 doesn't|tidak (bentuk negatif untuk dia)|f3s
 didn't|tidak (bentuk negatif lampau)|f3s
@@ -477,7 +477,7 @@ mustn't|tidak boleh|o
 return|kembali, pulang; mengembalikan|v;v
 stupid|bodoh, tidak pintar|o
 sigh|menghela napas (karena lelah atau lega)|v
-hurry|bergegas, buru-buru|v
+hurry|bergegas, buru-buru; hurry up: bergegas, cepat!|v;n
 hot|panas; pedas; menarik, seksi|o;o;o
 news|berita, kabar|o
 food|makanan|o
@@ -496,7 +496,7 @@ expect|mengira akan terjadi, menduga; menuntut, mengharuskan|v;v
 outside|di luar, bukan di dalam|o
 king|raja|o
 funny|lucu; aneh, mencurigakan|o;o
-stick|menempelkan, melekat; tongkat, ranting|v;o
+stick|menempelkan, melekat; tongkat, ranting; stick to: berpegang pada; stick around: tetap di sini; stick out: mencuat, mencolok|v;o;n;n;n
 captain|kapten (kapal, tim, atau pasukan)|o
 chuckle|terkekeh, tertawa kecil|v
 human|manusia; manusiawi, milik manusia|o;o
@@ -510,7 +510,7 @@ drive|mengemudi; membuat jadi (suatu keadaan); dorongan, semangat|v;v;o
 boss|bos, atasan|o
 living|hidup; nafkah, mata pencaharian; (dari live) tinggal, hidup (living in London: tinggal di London); living room: ruang tamu, ruang keluarga|o;o;o;n
 control|kendali, kuasa atas sesuatu; mengendalikan, menguasai|o;v
-blow|meniup; blow up: meledak; pukulan keras|v;n;o
+blow|meniup; blow up: meledak; pukulan keras; blow out: meniup (lilin)|v;n;o;n
 parent|orang tua (ayah atau ibu)|o
 dinner|makan malam, makan besar|o
 ahead|di depan, lebih maju|o
@@ -521,7 +521,7 @@ force|kekuatan, tenaga; memaksa; pasukan|o;v;o
 fly|terbang; lalat|v;o
 win|menang, mengalahkan|v
 shouldn|(dalam shouldn't) tidak seharusnya|o
-running|berlari; berjalan, beroperasi|o;o
+running|berlari; berjalan, beroperasi; running out of: kehabisan|o;o;n
 alright|baiklah, tidak apa-apa (= all right)|o
 million|1.000.000|o
 piece|potongan, bagian; satu buah|o;o
@@ -546,16 +546,16 @@ sick|sakit; menjijikkan; sick of: bosan dengan|o;o;n
 poor|miskin; malang, kasihan; buruk mutunya|o;o;o
 perhaps|mungkin, barangkali|o
 report|laporan; melaporkan secara resmi|o;v
-wake|bangun, membangunkan|v
+wake|bangun, membangunkan; wake up: bangun, membangunkan|v;n
 serious|serius, tidak bercanda; gawat, parah|o;o
 voice|suara (orang berbicara)|o
-sense|makna, arti; akal sehat; indra; merasakan, mendeteksi|o;o;o;v
+sense|makna, arti; akal sehat; indra; merasakan, mendeteksi; make sense: masuk akal|o;o;o;v;n
 red|merah|o
 ha|(seruan menang atau mengejek)|g
 scared|takut, ketakutan|o
 song|lagu|o
 explain|menjelaskan, menerangkan|v
-earth|bumi, dunia; tanah|o;o
+earth|bumi, dunia; tanah; what on earth / why on earth / how on earth / where on earth / who on earth: sebenarnya, gerangan (penegas)|o;o;n
 past|masa lalu; melewati, lebih jauh dari|o;o
 mistake|kesalahan, kekeliruan|o
 meeting|rapat, pertemuan|o
@@ -602,9 +602,9 @@ road|jalan (antar tempat, untuk kendaraan)|o
 lucky|beruntung, bernasib baik|o
 age|umur, usia; zaman, masa|o;o
 letter|surat; huruf|o;o
-rather|lebih baik, malah; agak, cukup|o;o
+rather|lebih baik, malah; agak, cukup; rather than: daripada; would rather: lebih suka|o;o;n;n
 steal|mencuri|v
-felt|bentuk lampau dari feel; kain kempa, laken|o;o
+felt|bentuk lampau dari feel; kain kempa, laken; felt like: ingin, terasa seperti|o;o;n
 grunt|mendengus, menggerutu|v
 protect|melindungi|v
 cover|menutupi; menangani, mencakup; perlindungan|v;v;o
@@ -632,12 +632,12 @@ fix|memperbaiki; mengatur, mengurus; memasang kuat|v;v;v
 careful|hati-hati, teliti|o
 rock|batu besar; musik rok; mengayun perlahan|o;o;v
 fault|kesalahan (tanggung jawabnya); cacat|o;o
-rule|aturan; memerintah, menguasai|o;v
+rule|aturan; memerintah, menguasai; rule out: mengesampingkan|o;v;n
 dude|orang, bung (informal)|o
 offer|menawarkan, mengulurkan; tawaran|v;o
 park|memarkir; taman; car park: tempat parkir|v;o;n
 weren|(dalam weren't) bentuk negatif dari were|o
-given|given, bentuk past participle dari give|o
+given|given, bentuk past participle dari give; given up: menyerah, berhenti; given that: mengingat bahwa|o;n;n
 realize|menyadari, memahami|v
 future|masa depan|o
 quick|cepat, tidak lama|o
@@ -721,7 +721,7 @@ eh|(meminta persetujuan atau pengulangan)|g
 hotel|hotel, penginapan berbayar|o
 deep|dalam; sulit dipahami, mendalam; mendalam, sangat (deep love: cinta yang mendalam)|o;o;o
 idiot|orang tolol, orang yang bertindak tanpa akal|o
-short|pendek; singkat, sebentar; shorts: celana pendek|o;o;n
+short|pendek; singkat, sebentar; shorts: celana pendek; in short: singkatnya; short of: kekurangan|o;o;n;n;n
 jump|melompat|v
 table|meja; tabel, daftar angka|o;o
 buddy|teman, kawan (informal)|o
@@ -747,7 +747,7 @@ floor|lantai; lantai, tingkat bangunan|o;o
 born|lahir, dilahirkan|o
 information|informasi, keterangan|o
 situation|situasi, keadaan|o
-instead|sebagai gantinya, malah|o
+instead|sebagai gantinya, malah; instead of: alih-alih, sebagai ganti|o;n
 definitely|pasti, tanpa ragu|o
 victim|korban|o
 certainly|pasti, tentu; (sebagai jawaban) tentu saja|o;o
@@ -779,13 +779,13 @@ relax|santai, beristirahat|v
 guard|penjaga, pengawal; menjaga|o;v
 except|kecuali, selain|o
 detective|detektif, polisi penyidik|o
-broke|broke, bentuk lampau dari break; bokek, tidak punya uang|o;o
+broke|broke, bentuk lampau dari break; bokek, tidak punya uang; broke down: mogok, hancur (emosi); broke up: putus, pecah; broke out: pecah, berkobar, kabur; broke into: membobol, tiba-tiba mulai|o;o;n;n;n;n
 lovely|indah, cantik, menyenangkan|o
 seriously|dengan serius; sungguh, benar-benar|o;o
 forever|selamanya, terus-menerus|o
 entire|seluruh, utuh|o
 space|ruang, celah; angkasa, luar angkasa|o;o
-mention|menyebut sekilas, menyinggung|v
+mention|menyebut sekilas, menyinggung; not to mention: belum lagi|v;n
 gasp|tersentak menarik napas (karena kaget)|v
 track|jalur, lintasan; lagu dalam rekaman; melacak; keep track of: memantau, mencatat; jejak; rel kereta|o;o;v;n;o;o
 across|menyeberangi, di seberang|o
@@ -799,13 +799,13 @@ bird|burung|o
 middle|tengah, bagian tengah|o
 rich|kaya; gurih, pekat|o;o
 accident|kecelakaan; kebetulan|o;o
-lay|meletakkan, membaringkan; lay, bentuk lampau dari lie|v;o
+lay|meletakkan, membaringkan; lay, bentuk lampau dari lie; lay off: memberhentikan (PHK), berhenti mengganggu; lay out: menata, membentangkan, memaparkan|v;o;n;n
 scene|tempat kejadian; adegan|o;o
 sun|matahari|o
 machine|mesin|o
 anywhere|di mana saja, ke mana saja|o
 dangerous|berbahaya|o
-attention|perhatian; pengamatan, notis|o;o
+attention|perhatian; pengamatan, notis; pay attention: memperhatikan|o;o;n
 dare|berani; menantang|v;v
 sea|laut|o
 contact|menghubungi; hubungan, kontak|v;o
@@ -841,12 +841,12 @@ major|lebih besar, lebih penting; mayor (pangkat tentara)|o;o
 belong|milik, kepunyaan; berada di tempat yang tepat|v;v
 soldier|prajurit, tentara|o
 quickly|dengan cepat, dalam waktu singkat|o
-doubt|meragukan; keraguan|v;o
+doubt|meragukan; keraguan; no doubt: tak diragukan lagi|v;o;n
 student|pelajar, mahasiswa|o
 forward|ke depan, maju|o
 gold|emas|o
 eight|8|o
-fell|fell, bentuk lampau dari fall|o
+fell|fell, bentuk lampau dari fall; fell asleep: tertidur; fell in love: jatuh cinta; fell apart: hancur, runtuh; fell for: jatuh cinta pada, tertipu|o;n;n;n;n
 store|toko; menyimpan|o;v
 tear|air mata; merobek, mencabik|o;v
 girlfriend|pacar perempuan|o
@@ -899,7 +899,7 @@ mum|ibu (Inggris)|o
 pop|bunyi letup; musik pop; ayah (informal); meletus|o;o;o;v
 boyfriend|pacar laki-laki|o
 mm-hmm|(bunyi yang berarti ya)|g
-fill|mengisi, memenuhi|v
+fill|mengisi, memenuhi; fill in: mengisi (formulir), menggantikan; fill out: mengisi (formulir)|v;n;n
 beg|memohon, mengemis; mengemis di jalan|v;v
 pleasure|kesenangan, kenikmatan|o
 vote|memilih dalam pemilu; suara, pilihan|v;o
@@ -929,7 +929,7 @@ beer|bir|o
 difference|perbedaan|o
 client|klien, pelanggan jasa|o
 cute|imut, mungil dan manis; menggemaskan|o;o
-wind|angin; memutar, menggulung|o;v
+wind|angin; memutar, menggulung; wind up: mengakhiri, akhirnya, menggoda|o;v;n
 village|desa, kampung|o
 green|hijau|o
 planet|planet|o
@@ -1009,7 +1009,7 @@ engine|mesin (penggerak kendaraan)|o
 madam|nyonya (sapaan sopan untuk perempuan)|o
 crowd|kerumunan, orang banyak|o
 favor|bantuan, kebaikan; dukungan; lebih menyukai, memihak|o;o;v
-settle|menyelesaikan, mendamaikan; menetap di suatu tempat; mengendap, hinggap|v;v;v
+settle|menyelesaikan, mendamaikan; menetap di suatu tempat; mengendap, hinggap; settle down: tenang, menetap|v;v;v;n
 stage|panggung; tahap, tingkat|o;o
 ghost|hantu, arwah|o
 exist|ada, benar-benar ada|v
@@ -1019,7 +1019,7 @@ dirty|kotor; cabul, jorok|o;o
 colonel|kolonel|o
 camp|perkemahan; berkemah|o;v
 yell|berteriak keras|v
-holding|memegang, menggenggam|o
+holding|memegang, menggenggam; holding on: menunggu, berpegangan|o;n
 remind|mengingatkan|v
 immediately|segera, langsung|o
 fat|gemuk; lemak|o;o
@@ -1217,7 +1217,7 @@ nut|kacang berkulit keras; mur; orang gila|o;o;o
 pig|babi; orang rakus atau jorok|o;o
 asleep|sedang tidur, tertidur|o
 common|umum, dimiliki banyak orang; biasa, sering terjadi|o;o
-sight|penglihatan; pemandangan, yang terlihat|o;o
+sight|penglihatan; pemandangan, yang terlihat; catch sight of: melihat sekilas; lose sight of: kehilangan jejak, melupakan; at first sight: pada pandangan pertama|o;o;n;n;n
 command|perintah; memerintahkan; komando atas pasukan|o;v;o
 awful|sangat buruk, mengerikan|o
 princess|putri raja|o
@@ -1291,7 +1291,7 @@ embarrass|membuat malu, membuat kikuk|v
 wave|melambaikan tangan; ombak, gelombang|v;o
 uh-huh|(sebagai jawaban) ya, lanjutkan|o
 beyond|di seberang, lebih jauh dari; melampaui batas|o;o
-grant|mengabulkan, memberikan; hibah, dana bantuan|v;o
+grant|mengabulkan, memberikan; hibah, dana bantuan; for granted: begitu saja (take for granted: menganggap remeh)|v;o;n
 example|contoh|o
 hardly|hampir tidak|o
 possibly|(mungkin saja) barangkali; (dengan can) sedikit pun, bagaimanapun|o;o
@@ -1362,7 +1362,7 @@ plate|piring|o
 prisoner|tahanan, narapidana|o
 earn|mendapatkan dengan bekerja; layak mendapat|v;v
 nonsense|omong kosong, hal yang tidak masuk akal|o
-mix|mencampur; menggabungkan|v;v
+mix|mencampur; menggabungkan; mix up: mencampuradukkan, keliru|v;v;n
 contract|kontrak, perjanjian tertulis; menyusut, mengerut|o;v
 original|asli, yang pertama; baru, bukan tiruan|o;o
 confuse|membingungkan; keliru membedakan|v;v
@@ -1435,7 +1435,7 @@ total|jumlah seluruhnya; total, sama sekali|o;o
 ho|(panggilan untuk menarik perhatian); (vulgar) pelacur|g;o
 joy|kegembiraan besar, sukacita|o
 unfortunately|sayangnya, malangnya|o
-birth|kelahiran; melahirkan|o;o
+birth|kelahiran; melahirkan; give birth: melahirkan|o;o;n
 weight|berat, bobot|o
 speech|pidato; kemampuan berbicara|o;o
 brave|berani, tidak takut menghadapi bahaya|o
@@ -1456,7 +1456,7 @@ rape|memperkosa; pemerkosaan|v;o
 punch|meninju; punch, minuman manis dari buah dan arak|v;o
 score|skor, angka dalam pertandingan; mencetak angka; dua puluh|o;v;o
 pill|pil, tablet obat|o
-rise|naik, bangkit; kenaikan|v;o
+rise|naik, bangkit; kenaikan; give rise to: menimbulkan|v;o;n
 wheel|roda|o
 opening|celah, lubang; bagian awal; lowongan kerja|o;o;o
 climb|memanjat, mendaki|v
@@ -1491,7 +1491,7 @@ cough|batuk|v
 direct|langsung, tanpa perantara; mengarahkan, mengelola|o;v
 lake|danau|o
 co|Co., singkatan dari Company|o
-loss|kehilangan; kerugian, yang hilang|o;o
+loss|kehilangan; kerugian, yang hilang; at a loss: bingung|o;o;n
 chef|koki kepala|o
 stare|menatap lama, memandangi|v
 march|berbaris; Maret, bulan ketiga|v;o
@@ -1763,7 +1763,7 @@ defeat|mengalahkan; kekalahan|v;o
 hug|memeluk|v
 swim|berenang|v
 lad|anak laki-laki, pemuda (Inggris)|o
-advantage|keuntungan, kelebihan|o
+advantage|keuntungan, kelebihan; take advantage of: memanfaatkan|o;n
 studio|studio, ruang berkarya atau merekam; rumah produksi film|o;o
 boot|sepatu bot; bagasi mobil (Inggris)|o;o
 debt|utang|o
@@ -2474,7 +2474,7 @@ anytime|kapan saja|o
 centre|centre, ejaan Inggris dari center|o
 candle|lilin|o
 bible|Alkitab, kitab suci umat Kristen|o
-turkey|kalkun|o
+turkey|kalkun; Turki|o;o
 escort|mengawal, mengantar; pengawal, pendamping|v;o
 fifth|ke-5|o
 hail|hujan es; menyerukan, memanggil|o;v
@@ -2680,7 +2680,7 @@ humiliate|mempermalukan di depan orang|v
 pro|profesional; alasan yang mendukung|o;o
 react|bereaksi, menanggapi|v
 minor|lebih kecil, kurang penting; anak di bawah umur|o;o
-burst|meletus, pecah mendadak|v
+burst|meletus, pecah mendadak; burst into: tiba-tiba (menangis, tertawa), menerobos masuk; burst out: tiba-tiba (tertawa, menangis), berseru|v;n;n
 shore|pantai, tepi laut|o
 officially|secara resmi, oleh pihak berwenang|o
 superior|lebih baik, lebih tinggi pangkatnya; atasan|o;o
@@ -2851,7 +2851,7 @@ twelve|12|o
 corn|serealia, tanaman biji-bijian; jagung (Amerika)|o;o
 quote|mengutip kata-kata seseorang; penawaran harga|v;o
 technically|secara teknis, kalau menurut aturan atau kenyataannya|o
-polish|menggosok sampai mengkilap; semir, bahan penggosok|v;o
+polish|menggosok sampai mengkilap; semir, bahan penggosok; Polandia, bahasa Polandia|v;o;o
 shatter|hancur berkeping-keping|v
 gettin|getting, sedang mendapat (ejaan santai)|o
 steam|uap air|o
@@ -3121,7 +3121,7 @@ shrink|menyusut, mengerut; mengkerut, mundur ketakutan|v;v
 remarkable|luar biasa, patut diperhatikan|o
 cooperate|bekerja sama dengan sukarela|v
 disguise|menyamarkan, mengubah rupa; samaran, pakaian penyamaran|v;o
-sum|sejumlah uang; jumlah, hasil penjumlahan|o;o
+sum|sejumlah uang; jumlah, hasil penjumlahan; sum up: merangkum|o;o;n
 feeding|memberi makan|o
 fridge|kulkas, lemari es|o
 reply|menjawab, membalas; jawaban|v;o
@@ -9398,36 +9398,36 @@ recapitalization|rekapitalisasi|o
 have|punya, memiliki; (pembentuk kala perfek: I have seen = saya sudah melihat); have to: harus|v;g;n
 no|tidak, bukan (menolak, tidak setuju); tidak ada, tak satu pun|o;o
 can|bisa, dapat, mampu; (dalam can't) tidak bisa; kaleng|o;o;o
-get|mendapat, memperoleh; menjadi; tiba, sampai; mengerti, paham|v;v;v;v
+get|mendapat, memperoleh; menjadi; tiba, sampai; mengerti, paham; get out: keluar, kabur, keluar!; get out of: keluar dari, menghindari (kewajiban); get up: bangun, berdiri; get away: kabur, pergi berlibur; get away with: lolos dari hukuman; get over: pulih dari, melupakan; get through: melewati, menyelesaikan, tersambung (telepon); get along: akur, bergaul baik; get on: naik (kendaraan), akur, maju; get on with: melanjutkan, akur dengan; get off: turun (dari bus, kereta), lolos; get back: kembali, mendapatkan kembali; get by: bertahan, mencukupi; get rid of: menyingkirkan, membuang|v;v;v;v;n;n;n;n;n;n;n;n;n;n;n;n;n;n
 right|benar, betul; kanan (sisi); (seruan) oke, baiklah; hak; right away: segera, langsung; right now: sekarang juga, saat ini; (sebelum tempat atau waktu) tepat, persis (right here: tepat di sini)|o;o;o;o;n;n;o
 well|nah… (jeda); baik (dengan cara yang baik); sehat; as well: juga|o;o;o;n
 will|akan (masa depan); kemauan (tekad); surat wasiat (dokumen yang ditinggalkan saat meninggal)|o;o;o
-by|dekat (di samping); oleh (dilakukan oleh); paling lambat (tidak lebih dari); dengan (dengan cara)|o;o;o;o
-work|bekerja; pekerjaan; berfungsi, jalan (mesin, alat)|v;o;v
+by|dekat (di samping); oleh (dilakukan oleh); paling lambat (tidak lebih dari); dengan (dengan cara); lewat (berjalan lewat); by myself / by yourself / by himself / by herself / by itself / by ourselves / by themselves: sendiri, sendirian|o;o;o;o;o;n
+work|bekerja; pekerjaan; berfungsi, jalan (mesin, alat); work out: memecahkan, berhasil, berolahraga|v;o;v;n
 stop|berhenti; halte, perhentian (bus atau kereta)|v;o
 leave|pergi (meninggalkan tempat); meninggalkan (di belakang); cuti, izin libur|v;v;o
-last|terakhir, penghabisan; terakhir, paling baru; bertahan, berlangsung|o;o;v
+last|terakhir, penghabisan; terakhir, paling baru; bertahan, berlangsung; at last: akhirnya|o;o;v;n
 lot|a lot: banyak; kavling, sebidang tanah; the lot: semuanya|n;o;n
 fine|baik-baik saja, tidak apa-apa; bagus, bermutu; denda|o;o;o
-hand|tangan; menyerahkan, memberikan|o;v
+hand|tangan; menyerahkan, memberikan; on the other hand: di sisi lain; on the one hand: di satu sisi; by hand: dengan tangan|o;v;n;n;n
 may|boleh (diizinkan); mungkin (barangkali); Mei (bulan)|o;o;o
-live|hidup, tinggal; langsung (sedang berlangsung, tidak direkam)|v;o
+live|hidup, tinggal; langsung (sedang berlangsung, tidak direkam); live up to: memenuhi (harapan)|v;o;n
 change|mengubah, berubah; perubahan; uang kecil, kembalian (koin)|v;o;o
-pay|membayar; gaji, upah|v;o
-matter|penting, berarti; urusan, perkara; what's the matter: ada apa, kenapa|v;o;n
+pay|membayar; gaji, upah; pay off: melunasi, membuahkan hasil; pay back: membayar kembali, membalas; pay attention: memperhatikan|v;o;n;n;n
+matter|penting, berarti; urusan, perkara; what's the matter: ada apa, kenapa; no matter: tidak peduli, apa pun (no matter what: apa pun yang terjadi); as a matter of fact: sebenarnya|v;o;n;n;n
 hard|sulit, susah; keras, padat; keras, dengan sungguh-sungguh|o;o;o
-once|sekali, satu kali; dulu, pernah; begitu, segera setelah|o;o;o
+once|sekali, satu kali; dulu, pernah; begitu, segera setelah; at once: segera, sekaligus; for once: untuk sekali ini; all at once: tiba-tiba|o;o;o;n;n;n
 bit|a bit: sedikit; potongan kecil, sepotong; bentuk lampau bite (menggigit)|n;o;o
-while|sementara, selagi; a while: sebentar, beberapa waktu|o;n
-case|kasus, contoh; in case: kalau-kalau, seandainya; perkara (hukum atau polisi)|o;n;o
-check|memeriksa, mengecek; melihat, menengok (melihat sebentar); tagihan, bon|v;v;o
+while|sementara, selagi; a while: sebentar, beberapa waktu; sedangkan, meskipun|o;n;o
+case|kasus, contoh; in case: kalau-kalau, seandainya; perkara (hukum atau polisi); in any case: bagaimanapun juga; in that case: kalau begitu|o;n;o;n;n
+check|memeriksa, mengecek; melihat, menengok (melihat sebentar); tagihan, bon; check out: melihat, memeriksa, keluar dari hotel; check in: check in, mendaftar (di hotel, bandara)|v;v;o;n;n
 saying|mengatakan, perkataan; pepatah, peribahasa|o;o
 lie|berbohong, berdusta; berbaring; kebohongan, dusta|v;v;o
 excuse|excuse me: maaf, permisi; memaafkan; alasan, dalih|n;v;o
 deal|kesepakatan, perjanjian; menangani, mengurus; a great deal: banyak sekali|o;v;n
 hit|memukul; sukses, hit|v;o
 order|perintah; urutan, susunan; memesan (membeli, meminta); in order to: supaya, agar|o;o;v;n
-far|jauh; so far: sejauh ini, sampai sekarang|o;n
+far|jauh; so far: sejauh ini, sampai sekarang; as far as: sejauh, sampai; by far: jauh (lebih)|o;n;n;n
 mine|milikku, punya saya; tambang (batu bara, logam)|o;o
 interest|minat, ketertarikan; menarik minat; bunga (uang)|o;v;o
 dear|tersayang (dicintai); yang terhormat (dalam surat); oh dear: aduh, ungkapan cemas|o;o;n
@@ -9440,12 +9440,12 @@ fast|cepat, laju; berpuasa|o;v
 cry|menangis; berteriak, berseru|v;v
 sort|jenis, macam; menyortir, mengurutkan; sort out: menyelesaikan, membereskan|o;v;n
 black|hitam; berkulit hitam, keturunan Afrika|o;o
-grow|tumbuh, membesar; menanam, membudidayakan; lambat laun menjadi; grow up: menjadi dewasa|v;v;v;n
+grow|tumbuh, membesar; menanam, membudidayakan; lambat laun menjadi; grow up: menjadi dewasa; grow into: tumbuh menjadi|v;v;v;n;n
 hang|menggantung; menggantung (menghukum mati dengan tali); hang out: nongkrong, menghabiskan waktu; hang on: menunggu; hang up: menutup telepon; hang in there: bertahan, jangan menyerah|v;v;n;n;n;n
 white|putih; berkulit putih, keturunan Eropa|o;o
 secret|rahasia, tersembunyi; rahasia (sesuatu yang disembunyikan)|o;o
 cheer|sorakan; menyemangati; cheer up: menjadi gembira|o;v;n
-carry|membawa, mengangkut; carry on: melanjutkan|v;n
+carry|membawa, mengangkut; carry on: melanjutkan; carry out: melaksanakan; carry away: terbawa suasana (got carried away)|v;n;n;n
 jesus|(seruan kaget atau kesal); Yesus Kristus, tokoh sentral agama Kristen|g;o
 calm|tenang; menenangkan; calm down: menjadi tenang|o;v;n
 joke|lelucon, candaan; bercanda|o;v
@@ -9459,7 +9459,7 @@ screw|sekrup; menyekrup; (kasar) bersetubuh dengan; screw up: mengacaukan, merus
 ticket|tiket, karcis; surat tilang|o;o
 issue|isu, persoalan; masalah; edisi, terbitan; mengeluarkan, menerbitkan (secara resmi)|o;o;o;v
 bore|membuat bosan; mengebor; bentuk lampau bear|v;v;o
-account|rekening; laporan, penuturan; akun; account for: menjelaskan|o;o;o;n
+account|rekening; laporan, penuturan; akun; account for: menjelaskan; into account: ke dalam pertimbangan|o;o;o;n;n
 rid|get rid of: menyingkirkan, membuang; membebaskan dari|n;v
 copy|salinan, tiruan; menyalin; eksemplar|o;v;o
 further|lebih jauh, lebih lanjut; tambahan, lebih|o;o
@@ -13328,21 +13328,21 @@ later|nanti, kemudian; lebih lambat (dari), terlambat dari waktunya; see you lat
 least|paling sedikit, jumlah terkecil (the least I can do: setidaknya itu yang bisa saya lakukan); at least: setidaknya, paling sedikit; at least: setidaknya, paling tidak|o;n;n
 worse|lebih buruk; lebih sakit, makin parah (feeling worse)|o;o
 for|untuk (ditujukan bagi); selama (jangka waktu); karena, sebab; mendukung, memihak; untuk, atas nama (bekerja untuk bank)|o;o;o;o;o
-so|jadi, maka; begitu (sedemikian); supaya, agar|o;o;o
-just|hanya, saja; baru saja; pokoknya, begitu saja (penegas: tiba-tiba berhenti begitu saja)|o;o;o
+so|jadi, maka; begitu (sedemikian); supaya, agar; and so on: dan sebagainya; or so: kira-kira|o;o;o;n;n
+just|hanya, saja; baru saja; pokoknya, begitu saja (penegas: tiba-tiba berhenti begitu saja); persis (persis seperti dia); nyaris, pas (tepat waktu)|o;o;o;o;o
 one|satu, angka 1; yang (yang merah); orang, seseorang (orang pada umumnya); suatu, se- (suatu malam)|o;o;o;o
 see|melihat; mengerti; mencari tahu, mengecek (lihat apakah)|v;v;v
-look|melihat; lihat! (perhatikan); pandangan, lirikan; raut, ekspresi, penampilan|v;o;o;o
-back|kembali (ke tempat semula); punggung (bagian tubuh); bagian belakang, sisi balik (halaman, ruangan)|o;o;o
+look|melihat; lihat! (perhatikan); pandangan, lirikan; raut, ekspresi, penampilan; look for: mencari; look after: merawat, menjaga; look forward to: menantikan; look up: mendongak, mencari (di buku, daftar), membaik; look into: menatap ke dalam (menatap matanya), menyelidiki; look out: berhati-hati, awas!, mengawasi (look out for), melihat ke luar; look like: mirip, sepertinya|v;o;o;o;n;n;n;n;n;n;n
+back|kembali (ke tempat semula); punggung (bagian tubuh); bagian belakang, sisi balik (halaman, ruangan); back off: mundur, berhenti mendesak; balik (menelepon balik, membalas); dulu, lalu (pada 2010, bertahun-tahun lalu)|o;o;o;n;o;o
 could|bisa, dulu bisa; bisa (permintaan sopan); mungkin, bisa jadi|o;o;o
-point|poin, gagasan; menunjuk; maksud, tujuan; saat, titik waktu (at that point: pada saat itu); poin, angka (skor); tempat, titik (titik kumpul)|o;v;o;o;o;o
+point|poin, gagasan; menunjuk; maksud, tujuan; saat, titik waktu (at that point: pada saat itu); poin, angka (skor); tempat, titik (titik kumpul); point out: menunjukkan, menyebutkan|o;v;o;o;o;o;n
 clear|jelas, mudah dipahami; membersihkan, mengosongkan; bening, jernih (air jernih)|o;v;o
-fall|jatuh; musim gugur; penurunan, kejatuhan (penurunan harga)|v;o;o
+fall|jatuh; musim gugur; penurunan, kejatuhan (penurunan harga); fall apart: hancur, runtuh; fall for: jatuh cinta pada, tertipu; fall asleep: tertidur; fall in love: jatuh cinta; fall behind: tertinggal|v;o;o;n;n;n;n;n
 support|mendukung, membantu; menopang, menyangga; dukungan, bantuan (layanan pelanggan)|v;v;o
 language|bahasa; cara mengungkapkan; kata-kata kasar, makian|o;o;o
 tight|ketat, sempit; pas-pasan uang atau waktunya; ketat, tegas (pengamanan ketat)|o;o;o
 bullshit|(vulgar) omong kosong, bohong; (vulgar) membohongi, membual kepada|o;v
-purpose|tujuan, maksud; on purpose: dengan sengaja; tekad, semangat|o;n;o
+purpose|tujuan, maksud; on purpose: dengan sengaja; tekad, semangat; for the purpose of: untuk tujuan|o;n;o;n
 whistle|siulan, bunyi peluit; bersiul; peluit|o;v;o
 text|teks, tulisan; SMS, pesan lewat telepon; mengirim SMS|o;o;v
 flag|bendera; menandai (untuk diperhatikan)|o;v

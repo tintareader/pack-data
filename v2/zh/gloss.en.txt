@@ -10,7 +10,7 @@
 #
 # Glosses on this file only are generated with an LLM and are not derived from
 # any licensed corpus. See NOTICE at the repo root.
-的|(possessive; links a description to a noun); (at the end of a sentence; with 是: stresses who, when or how it happened)|g;g
+的|(possessive; links a description to a noun); (at the end of a sentence: affirms or describes; with 是…的: stresses who, when or how)|g;g
 我|I, me|f1s
 你|you (singular)|f2s2p
 了|(completed action; or a change of state)|g
@@ -748,6 +748,7 @@
 打扰|to disturb, to bother|v
 原谅|to forgive|v
 发誓|to swear, to vow|v
+纽约|New York|o
 位置|position, spot, location|o
 偷|to steal; secretly|v;o
 安排|to arrange; arrangement|v;o
@@ -1105,7 +1106,9 @@
 兴趣|interest (in something)|o
 法官|judge|o
 方向|direction|o
+乔|Qiao (a surname); (in foreign names) Joe, Geo-|o;o
 一半|half|o
+伦敦|London|o
 借|to borrow; to lend|v;v
 玩笑|joke, jest|o
 躲|to hide, to dodge|v
@@ -1137,6 +1140,8 @@
 造成|to cause, to bring about|v
 随时|at any time, whenever|o
 到达|to arrive at, to reach|v
+罗|Luo (a surname); (in foreign names) the sound ro, lo|o;o
+巴黎|Paris|o
 冷|cold|o
 想起|to recall, to think of|v
 男朋友|boyfriend|o
@@ -1274,6 +1279,7 @@
 区|district, area|o
 查|to check, to look into|v
 怀孕|to be pregnant|v
+罗马|Rome|o
 同志|comrade; gay (slang)|o;o
 臭|smelly, stinking|o
 照|to shine on; to take (a photo); according to|v;v;o
@@ -1418,6 +1424,7 @@
 演出|performance; to perform|o;v
 逃跑|to run away, to flee|v
 颜色|colour|o
+香港|Hong Kong|o
 提到|to mention, to bring up|v
 胜利|victory; to win|o;v
 条件|condition, terms|o
@@ -1601,6 +1608,7 @@
 天气|weather|o
 科学|science|o
 教练|coach, trainer|o
+洛杉矶|Los Angeles|o
 然而|however, and yet|o
 感激|to be grateful for, to appreciate|v
 同事|colleague, workmate|o
@@ -1955,6 +1963,7 @@
 岛|island|o
 审判|to try (in court); trial|v;o
 绝不|never, absolutely not|o
+华盛顿|Washington|o
 掌握|to master, to have a grasp of|v
 射击|to shoot, to fire|v
 在意|to mind, to take to heart|v
@@ -1964,6 +1973,7 @@
 坏人|villain, bad guy|o
 骑|to ride|v
 低|low; to lower|o;v
+李|Li (a surname); plum|o;o
 集中|to concentrate, to gather together|v
 教会|church (the body); to teach (someone) how (jiāohuì)|o;v
 脑子|brain, mind|o
@@ -2110,6 +2120,7 @@
 签名|signature; to sign|o;v
 局|bureau, office; a game, a round|o;o
 嫉妒|to be jealous of, to envy|v
+芝加哥|Chicago|o
 乖|well-behaved, good (of a child)|o
 英尺|foot (measurement)|o
 演|to act, to perform|v
@@ -2265,6 +2276,7 @@
 原本|originally, at first|o
 共同|common, shared; together|o;o
 电梯|lift, elevator|o
+东京|Tokyo|o
 当中|in the middle of; among|o;o
 不要紧|it's not serious, no harm done|f3s
 威士忌|whisky|o
@@ -2369,10 +2381,12 @@
 佬|(chap, bloke: 阔佬)|g
 侦探|detective|o
 最新|latest, newest|o
+加州|California|o
 大麻|cannabis, marijuana|o
 手段|means, tactics|o
 荒谬|absurd, ridiculous|o
 协助|to assist, to help out|v
+贾|Jia (a surname)|o
 难以|hard to (难以相信)|o
 神经|nerve; nerves|o;o
 警察局|police department, the station|o
@@ -2560,6 +2574,7 @@
 建造|to build, to construct|v
 大海|the sea, the ocean|o
 爱上|to fall in love with|v
+柏林|Berlin|o
 搞笑|hilarious; to play for laughs|o;v
 中士|sergeant|o
 短|short (in length); brief (in time)|o;o
@@ -2626,6 +2641,7 @@
 塞|to stuff, to cram; to block|v;v
 自信|confident; self-confidence|o;o
 臭小子|you little brat|f2s2p
+丁|Ding (a surname); small cube (肉丁); fourth (in a series)|o;o;o
 平时|normally, in ordinary times|o
 当年|back in those days|o
 乘客|passenger|o
@@ -2723,6 +2739,7 @@
 爸妈|mum and dad|o
 装备|equipment, gear|o
 发疯|to go mad, to lose it|v
+莫斯科|Moscow|o
 知识|knowledge|o
 嘲笑|to mock, to laugh at|v
 新来|newly arrived, new here|o
@@ -2749,6 +2766,7 @@
 营地|camp, base camp|o
 队员|team member|o
 倒霉|unlucky, out of luck|o
+好莱坞|Hollywood|o
 甚么|what; something|o;o
 闻|to smell; to hear of|v;v
 坦克|tank (military)|o
@@ -3108,6 +3126,7 @@
 贵|expensive; honourable|o;o
 承担|to take on, to bear (responsibility)|v
 且|and; for the moment|o;o
+陈|Chen (a surname)|o
 摄像头|camera (surveillance or webcam)|o
 夫妻|husband and wife, a couple|o
 信用卡|credit card|o
@@ -3299,6 +3318,7 @@
 过夜|to spend the night|v
 出席|to attend, to be present at|v
 宽恕|to forgive, to pardon|v
+苏|Su (a surname); to revive (in 苏醒)|o;v
 获取|to obtain, to acquire|v
 搜|to search, to frisk|v
 味|taste; smell (in compounds)|o;o
@@ -3562,6 +3582,7 @@
 电台|radio station|o
 仿佛|as if, as though|o
 圣诞快乐|merry Christmas|o
+波士顿|Boston|o
 指导|to guide, to instruct; guidance|v;o
 传奇|legend; legendary|o;o
 当做|to take for, to use as|v
@@ -3658,6 +3679,7 @@
 追捕|to hunt down, to pursue|v
 双方|both sides, the two parties|o
 处境|situation, plight|o
+朱|Zhu (a surname); vermilion (literary)|o;o
 诱惑|to tempt, to lure; temptation|v;o
 大夫|doctor (colloquial)|o
 小妞|girl, lass|o
@@ -3740,6 +3762,7 @@
 招呼|to greet, to call out to|v
 水果|fruit|o
 称之为|to call it, to refer to as|v
+上海|Shanghai, a city in eastern China|o
 告别|to say goodbye, to take leave of|v
 样本|sample, specimen|o
 负担|burden; to bear (a cost)|o;v
@@ -3818,6 +3841,7 @@
 贵族|aristocrat, the nobility|o
 评价|to evaluate; an assessment|v;o
 防御|to defend; defence|v;o
+杜|Du (a surname); to stop, to prevent (in 杜绝)|o;v
 甚麽|what; something|o;o
 周日|Sunday|o
 越过|to cross over, to get past|v
@@ -3855,6 +3879,7 @@
 清洁|clean; cleaning|o;o
 证件|documents, ID|o
 闪|to flash; to dodge|v;v
+德州|Texas|o
 排|row, line; to arrange; platoon|o;v;o
 许可|permission; to permit|o;v
 购物|shopping, to shop|o
@@ -3899,6 +3924,7 @@
 呜|(sob, boo-hoo)|g
 一大堆|a whole pile of|o
 举办|to hold, to put on (an event)|v
+卢|Lu (a surname)|o
 旁|side, beside|o
 伴侣|partner, companion in life|o
 火焰|flame|o
@@ -3968,6 +3994,7 @@
 赌博|to gamble; gambling|v;o
 乃|namely, to be (literary)|o
 灵感|inspiration|o
+迈阿密|Miami|o
 隔|to separate; at an interval of|v;o
 鲸鱼|whale|o
 苦|bitter; hardship, to suffer; suffering (Buddhist)|o;o;o.b
@@ -4013,6 +4040,7 @@
 热爱|to love deeply, to be passionate about|v
 获胜|to win, to come out on top|v
 询问|to ask, to enquire|v
+夏威夷|Hawaii|o
 巫师|wizard, sorcerer|o
 专注|to focus on; absorbed|v;o
 别提|don't even mention it|o
@@ -4149,6 +4177,7 @@
 扫描|to scan|v
 滋味|taste, flavour; the feeling of it|o;o
 裸体|naked; nude|o;o
+北京|Beijing, the capital of China|o
 排练|to rehearse; rehearsal|v;o
 畜生|beast, animal (as an insult)|o
 可否|may I, is it all right to|f1s
@@ -4366,6 +4395,7 @@
 寒冷|cold, freezing|o
 慢着|hold on, wait a minute|o
 北部|the north, the northern part|o
+旧金山|San Francisco|o
 鸡肉|chicken (the meat)|o
 好友|close friend|o
 形状|shape, form|o
@@ -4430,6 +4460,7 @@
 狩猎|to hunt; hunting|v;o
 蝴蝶|butterfly|o
 争吵|to quarrel, to squabble|v
+拉斯维加斯|Las Vegas|o
 游客|tourist, visitor|o
 游行|parade, march; to demonstrate|o;v
 男女|men and women|o
@@ -4495,6 +4526,7 @@
 途中|on the journey, mid-route|o
 公斤|kilogram|o
 此地|this place, here|o
+费城|Philadelphia|o
 住嘴|shut your mouth|o
 挣|to earn; to struggle free|v;v
 赞美|to praise, to extol|v
@@ -4626,7 +4658,9 @@
 拉屎|to have a shit|v
 教室|classroom|o
 光线|light, a beam of light|o
+布鲁克林|Brooklyn|o
 海豚|dolphin|o
+崔|Cui (a surname)|o
 因素|factor, element|o
 宝藏|treasure, hoard|o
 挽救|to save, to salvage|v
@@ -4718,9 +4752,11 @@
 死后|after death|o
 笑声|laughter, the sound of laughing|o
 行不通|won't work, no good|o
+贺|He (a surname); to congratulate (in 祝贺)|f3s;v
 以防|in case of, to guard against|o
 唷|(oh, hey)|g
 英镑|pound sterling|o
+魏|Wei (a surname)|o
 安保|security (protection)|o
 早晚|morning and evening; one of these days|o;o
 赔|to compensate, to pay for; to lose money|v;v
@@ -4749,12 +4785,14 @@
 糊涂|muddled, confused|o
 受苦|to suffer hardship|v
 大自然|nature, the natural world|o
+杨|Yang (a surname); poplar|o;o
 一流|first-rate, top-class|o
 关联|connection, link|o
 惊奇|amazed, astonished|o
 战术|tactics|o
 理|reason; to manage; to take notice of|o;v;v
 乱七八糟|in a complete mess|o
+曼哈顿|Manhattan|o
 生死|life and death|o
 羞耻|shame, a sense of shame|o
 丑陋|ugly, hideous|o
@@ -5130,6 +5168,7 @@
 滑雪|to ski; skiing|v;o
 焦虑|anxious; anxiety|o;o
 稍等一下|hang on a second|o
+柯|Ke (a surname)|o
 标签|label, tag|o
 最多|at most|o
 彩虹|rainbow|o
@@ -5154,6 +5193,7 @@
 抓狂|to freak out, to go spare|v
 拳头|fist|o
 梦见|to dream of|v
+潘|Pan (a surname)|o
 胆子|nerve, guts|o
 驱逐|to expel, to drive out|v
 圣人|sage, saint|o
@@ -5240,6 +5280,7 @@
 水面|the surface of the water|o
 清晨|first thing in the morning|o
 烹饪|cooking, cuisine|o
+刘|Liu (a surname)|o
 没门|no way, not a chance|o
 穷|poor, hard up|o
 老太太|old lady|o
@@ -5264,6 +5305,7 @@
 沉重|heavy, weighing on one|o
 窝|nest, den; to harbour|o;v
 精子|sperm|o
+范|Fan (a surname); model, pattern (in compounds)|o;o
 下楼|to go downstairs|v
 以防万一|just in case|o
 佩服|to admire, to have respect for|v
@@ -5420,6 +5462,7 @@
 刺杀|to assassinate, to stab to death|v
 加油站|petrol station|o
 喘|to pant, to gasp|v
+威尼斯|Venice|o
 档|file, record; gear (of a car)|o;o
 珍珠|pearl|o
 拘捕|to arrest, to take into custody|v
@@ -5609,6 +5652,7 @@
 卫|(to guard: 保卫, 警卫)|g
 直至|up until, right up to|o
 胜过|to be better than, to surpass|v
+首尔|Seoul|o
 恶棍|villain, thug|o
 流浪|to wander, to roam|v
 海报|poster|o
@@ -5634,6 +5678,7 @@
 市区|urban area, the town centre|o
 爱河|love (坠入爱河 to fall in love)|o
 磁带|cassette tape|o
+米兰|Milan|o
 报答|to repay (a kindness)|v
 上个月|last month|o
 互联网|the internet|o
@@ -5673,6 +5718,7 @@
 无能|incompetent; inability|o;o
 灰|ash, dust; grey|o;o
 窒息|to suffocate, to choke|v
+西雅图|Seattle|o
 顶级|top-level, first-class|o
 驾|to drive (formal)|v
 枪支|firearms, guns|o
@@ -5750,6 +5796,7 @@
 大学生|university student|o
 沼泽|swamp, marsh|o
 业余|amateur; spare-time|o;o
+冯|Feng (a surname)|o
 商场|shopping centre, market|o
 履行|to fulfil, to carry out|v
 支撑|to prop up, to hold out|v
@@ -5801,6 +5848,7 @@
 病情|the patient's condition|o
 阳台|balcony|o
 低估|to underestimate|v
+佛罗里达|Florida|o
 保持沉默|to keep silent|v
 妖|demon, evil spirit|o
 小型|small-scale, compact|o
@@ -5820,6 +5868,7 @@
 冰冷|ice-cold|o
 刷|to brush; to swipe|v;v
 参赛|to enter a competition|v
+底特律|Detroit|o
 手榴弹|hand grenade|o
 改革|reform; to reform|o;v
 雅|elegant, refined|o
@@ -6140,6 +6189,7 @@
 正事|serious business, the matter at hand|o
 牵扯|to implicate, to drag in|v
 苦难|suffering, hardship|o
+韩|Han (a surname); (short for) South Korea|o;o
 冤枉|to wrong (someone); unjust|v;o
 回收|to recover, to recycle|v
 抄|to copy; to raid|v;v
@@ -6220,6 +6270,7 @@
 面条|noodles|o
 领主|lord (feudal)|o
 偷窃|to steal; theft|v;o
+吴|Wu (a surname)|o
 大屠杀|massacre, holocaust|o
 幼儿园|kindergarten, nursery|o
 抚摸|to stroke, to caress|v
@@ -13194,6 +13245,7 @@
 疑神疑鬼|paranoid, suspicious of everything|o
 空空如也|completely empty|o
 置若罔闻|to turn a deaf ear to|v
+重庆|Chongqing, a city in southwestern China|o
 法医|forensic doctor, coroner|o
 义气|loyalty (to one's friends)|o
 与生俱来|innate, inborn|o
@@ -13756,6 +13808,7 @@
 答|to answer|v
 族|clan, race|o
 撕|to tear, rip|v
+韦|Wei (a surname)|o
 肾|kidney|o
 瞪|to glare, stare wide-eyed|v
 捞|to fish out, scoop up|v
@@ -13770,6 +13823,7 @@
 恋|to love, to be attached to|v
 虎|tiger|o
 公|public; male (of an animal); duke|o;o;o
+宋|Song (a surname); the Song dynasty|o;o
 底|bottom, base|o
 奶|milk; breast; grandmother|o;o;o
 浩|vast, grand|o
@@ -13817,6 +13871,7 @@
 粪|dung, manure|o
 尚|still, yet; to esteem|o;v
 距|distance from|o
+邓|Deng (a surname)|o
 豆|bean|o
 井|well; neat, orderly|o;o
 臀|buttocks|o
@@ -14367,6 +14422,7 @@
 蜜|honey|o
 斜|slanting, oblique|o
 鲨|shark|o
+黎|Li (a surname); dawn (in 黎明)|o;o
 弥|to fill, to make up|v
 搏|to fight, struggle; to beat (pulse)|v;v
 卸|to unload, remove|v
@@ -15874,3 +15930,115 @@
 珞|string of beads|o
 蝮|viper|o
 舫|boat|o
+天津|Tianjin, a city beside Beijing|o
+河北|Hebei, a province in northern China|o
+山西|Shanxi, a province in northern China|o
+辽宁|Liaoning, a province in northeastern China|o
+吉林|Jilin, a province and city in northeastern China|o
+黑龙江|Heilongjiang, a province in northeastern China; the Amur River|o;o
+江苏|Jiangsu, a province in eastern China|o
+浙江|Zhejiang, a province in eastern China|o
+安徽|Anhui, a province in eastern China|o
+福建|Fujian, a province in southeastern China|o
+江西|Jiangxi, a province in southeastern China|o
+山东|Shandong, a province in eastern China|o
+河南|Henan, a province in central China|o
+湖北|Hubei, a province in central China|o
+湖南|Hunan, a province in central China|o
+广东|Guangdong, a province in southern China|o
+海南|Hainan, an island province in southern China|o
+四川|Sichuan, a province in southwestern China|o
+贵州|Guizhou, a province in southwestern China|o
+云南|Yunnan, a province in southwestern China|o
+陕西|Shaanxi, a province in northwestern China|o
+甘肃|Gansu, a province in northwestern China|o
+青海|Qinghai, a province in northwestern China|o
+内蒙古|Inner Mongolia, a region in northern China|o
+广西|Guangxi, a region in southern China|o
+西藏|Tibet|o
+宁夏|Ningxia, a region in northwestern China|o
+新疆|Xinjiang, a region in northwestern China|o
+澳门|Macao|o
+广州|Guangzhou, Canton|o
+深圳|Shenzhen, a city beside Hong Kong|o
+杭州|Hangzhou, a city in eastern China|o
+南京|Nanjing, a city in eastern China|o
+武汉|Wuhan, a city in central China|o
+成都|Chengdu, a city in southwestern China|o
+西安|Xi'an, a city in northwestern China|o
+苏州|Suzhou, a city in eastern China|o
+温州|Wenzhou, a city in eastern China|o
+扬州|Yangzhou, a city in eastern China|o
+徐州|Xuzhou, a city in eastern China|o
+宁波|Ningbo, a port city in eastern China|o
+青岛|Qingdao, a port city in eastern China|o
+大连|Dalian, a port city in northeastern China|o
+沈阳|Shenyang, a city in northeastern China|o
+长春|Changchun, a city in northeastern China|o
+哈尔滨|Harbin, a city in northeastern China|o
+济南|Jinan, a city in eastern China|o
+长沙|Changsha, a city in central China|o
+南昌|Nanchang, a city in southeastern China|o
+福州|Fuzhou, a city in southeastern China|o
+厦门|Xiamen, a port city in southeastern China|o
+昆明|Kunming, a city in southwestern China|o
+南宁|Nanning, a city in southern China|o
+兰州|Lanzhou, a city in northwestern China|o
+西宁|Xining, a city in northwestern China|o
+乌鲁木齐|Urumqi, a city in northwestern China|o
+拉萨|Lhasa, a city in Tibet|o
+呼和浩特|Hohhot, a city in Inner Mongolia|o
+喀什|Kashgar, a city in Xinjiang|o
+太原|Taiyuan, a city in northern China|o
+石家庄|Shijiazhuang, a city in northern China|o
+无锡|Wuxi, a city in eastern China|o
+常州|Changzhou, a city in eastern China|o
+南通|Nantong, a city in eastern China|o
+嘉兴|Jiaxing, a city in eastern China|o
+金华|Jinhua, a city in eastern China|o
+佛山|Foshan, a city in southern China|o
+东莞|Dongguan, a city in southern China|o
+珠海|Zhuhai, a city in southern China|o
+洛阳|Luoyang, a city in central China|o
+丽江|Lijiang, a town in southwestern China|o
+大理|Dali, a city in southwestern China|o
+延安|Yan'an, a city in northwestern China|o
+敦煌|Dunhuang, a town in northwestern China|o
+长江|the Yangtze River|o
+黄河|the Yellow River|o
+珠江|the Pearl River|o
+泰山|Mount Tai|o
+华山|Mount Hua|o
+西湖|West Lake (in Hangzhou)|o
+太湖|Lake Tai|o
+长城|the Great Wall|o
+故宫|the Forbidden City, the Palace Museum|o
+天安门|Tiananmen, the Gate of Heavenly Peace|o
+珠穆朗玛峰|Mount Everest, Qomolangma|o
+喜马拉雅|the Himalayas|o
+大理石|marble|o
+赵|Zhao (a surname)|o
+沈|Shen (a surname)|o
+郭|Guo (a surname)|o
+曹|Cao (a surname)|o
+彭|Peng (a surname)|o
+袁|Yuan (a surname)|o
+蔡|Cai (a surname)|o
+蒋|Jiang (a surname)|o
+吕|Lü (a surname)|o
+姚|Yao (a surname)|o
+姜|Jiang (a surname); ginger|o;o
+廖|Liao (a surname)|o
+邹|Zou (a surname)|o
+孟|Meng (a surname)|o
+秦|Qin (a surname); the Qin dynasty|o;o
+邱|Qiu (a surname)|o
+尹|Yin (a surname)|o
+薛|Xue (a surname)|o
+陶|Tao (a surname); pottery (in 陶瓷)|o;o
+郝|Hao (a surname)|o
+邵|Shao (a surname)|o
+闫|Yan (a surname)|o
+欧阳|Ouyang (a surname)|o
+司马|Sima (a surname)|o
+诸葛|Zhuge (a surname)|o

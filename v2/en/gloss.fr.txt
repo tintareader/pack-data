@@ -14,24 +14,24 @@
 you|tu, toi, vous (une ou plusieurs personnes)|f2s2p
 i|je (celui qui parle)|f1s
 the|le, la, les (celui dont on a déjà parlé)|o
-to|à, vers (direction, destinataire); (marque l'infinitif: to go, aller)|v;v
+to|à, vers (direction, destinataire); (marque l'infinitif: to go, aller); à, jusqu'à (du lundi au vendredi)|v;v;v
 a|un, une (pas un en particulier)|o
 's|de (appartenance); est; a|o;f3s;f3s
-it|il, elle, cela (une chose déjà mentionnée)|f3s
-that|ce, cela (celui-là, là-bas); que (introduit une proposition)|o;o
+it|il, elle, cela (une chose déjà mentionnée); il (sujet impersonnel : il pleut, il est tard)|f3s;f3s
+that|ce, cela (celui-là, là-bas); que (introduit une proposition); si, aussi (pas si mal)|o;o;o
 and|et|o
 't|ne... pas (dans don't, can't, isn't)|o
-of|de, appartenant à|o
+of|de, appartenant à; de (partie d'un groupe : l'un de nous); de (fait de, contenant : une tasse de thé); de, à (penser à, une histoire de)|o;o;o;o
 is|il/elle est|f3s
-in|dans, à l'intérieur de|o
-what|quoi, que, quel|o
+in|dans, à l'intérieur de; en, à (un moment : en mai, en 2010, le matin); dans (dans deux jours); en, vêtu de (en robe rouge); là, à la maison (elle est là ?)|o;o;o;o;o
+what|quoi, que, quel; ce que (ce dont j'ai besoin, c'est du temps); quel (quelle journée !)|o;o;o
 we|nous|f1p
 me|me, moi|o
-this|ce, ceci (celui d'ici)|o
+this|ce, ceci (celui d'ici); ce (cette semaine, ce matin)|o;o
 he|il|f3s
-do|faire; (forme les questions et les négations: do you know?, sais-tu?)|v;g
+do|faire; (forme les questions et les négations: do you know?, sais-tu?); do without: se passer de; do away with: supprimer, abolir|v;g;n;n
 my|mon, ma, mes|o
-on|sur, dessus; le (un jour ou une date); sur, au sujet de; allumé, en marche|o;o;o;o
+on|sur, dessus; le (un jour ou une date); sur, au sujet de; allumé, en marche; continuer (poursuivre); à, par (au téléphone, à la télé)|o;o;o;o;o;o
 your|ton, ta, votre|o
 was|j'étais; il/elle était|f1s;f3s
 'm|je suis|f1s
@@ -41,37 +41,37 @@ be|être|v
 are|nous sommes, ils sont; tu es|f1p;f2s2p
 don|(do not, dans don't)|g
 're|tu es; nous sommes, ils sont|f2s2p;f1p
-with|avec|o
+with|avec; avec (coupe-le avec un couteau); à, avec (une fille aux cheveux roux); de (tremblant de peur); avec, d'accord avec|o;o;o;o;o
 but|mais, cependant; sauf, excepté (tous sauf un)|o;o
-all|tout, tous|o
-go|aller|v
+all|tout, tous; tout, complètement (tout seul); all right: d'accord, ça va (indemne); all over: partout, fini; all along: depuis le début|o;o;n;n;n
+go|aller; go on: continuer, se passer (what's going on : qu'est-ce qui se passe); go through: traverser, subir, examiner; go ahead: vas-y, aller de l'avant, commencer; go off: exploser, sonner (une alarme), partir, se gâter; go over: aller vers, traverser, revoir, examiner; go by: passer (le temps, devant un lieu), se fier à; go about: s'y prendre, aborder (une tâche); go along with: accepter, se ranger à; go wrong: mal tourner, échouer|v;n;n;n;n;n;n;n;n;n
 there|là, là-bas (cet endroit-là); there is: il y a|o;n
 here|ici (cet endroit-ci)|o
-like|comme, semblable à; aimer bien|o;v
+like|comme, semblable à; aimer bien; comme (des villes comme Paris); comme si, on dirait (on dirait qu'il va pleuvoir)|o;v;o;o
 they|ils, elles|f3p
 'll|(marque le futur)|o
 she|elle|f3s
-come|venir|v
+come|venir; come on: allez !, viens !, arrête !; come up with: trouver, imaginer (une idée); come along: venir avec, progresser, se présenter; come over: s'approcher, passer (en visite), envahir (un sentiment); come across: tomber sur, paraître; come by: passer, se procurer; come about: arriver, se produire; come upon: tomber sur; come round: passer, changer d'avis, reprendre connaissance; come true: se réaliser|v;n;n;n;n;n;n;n;n;n;n
 if|si (à condition que); si (dans une question indirecte)|o;o
 want|vouloir|v
-out|dehors, à l'extérieur|o
-about|sur, au sujet de; environ, à peu près; about to: sur le point de|o;o;n
-up|en haut, vers le haut; levé, réveillé; fini, terminé (c'est l'heure)|o;o;o
-at|à (un lieu); à (une heure); vers, sur (regarder, lancer sur)|o;o;o
+out|dehors, à l'extérieur; sorti, pas là (elle est sortie); éteint (les lumières se sont éteintes); à voix haute; complètement; out of: de, hors de (un sur dix), à court de (d'argent), par (par peur)|o;o;o;o;o;n
+about|sur, au sujet de; environ, à peu près; about to: sur le point de; çà et là (se promener); what about / how about: et si…?, et…?|o;o;n;o;n
+up|en haut, vers le haut; levé, réveillé; fini, terminé (c'est l'heure); complètement (tout manger, remplir); qui se passe (quoi de neuf ?); (up to) jusqu'à, au choix de (c'est à toi de voir), en train de manigancer|o;o;o;o;o;o
+at|à (un lieu); à (une heure); vers, sur (regarder, lancer sur); en (en guerre, en danger); à (à 50 km/h); at all: du tout; at least: au moins|o;o;o;o;o;n;n
 him|le, lui|o
 now|maintenant|o
 oh|oh, ah (surprise, prise de conscience)|o
 her|la, lui, elle|o
-how|comment|o
-think|penser|v
+how|comment; comme, que (comme c'est gentil !); how come: comment se fait-il que, pourquoi|o;o;n
+think|penser; think over: réfléchir à|v;n
 yeah|ouais, oui|o
 've|(avoir: I've seen, j'ai vu)|g
-got|eu, participe de get; have got: avoir|o;n
+got|eu, participe de get; have got: avoir; have got to: devoir (je dois y aller); got up: s'est levé; got out: est sorti, s'est échappé; got back: est revenu; got rid of: s'est débarrassé de; got over: s'est remis de; got away: s'est échappé; got on: est monté, s'est entendu; got off: est descendu; got through: a surmonté, a fini, a joint; got used to: s'est habitué à|o;n;n;n;n;n;n;n;n;n;n;n;n
 okay|d'accord, ça va|o
-as|comme; pendant que, alors que|o;o
-take|prendre|v
-good|bon, de qualité; gentil, sage; agréable, plaisant; goods: marchandises|o;o;o;n
-let|laisser, permettre|v
+as|comme; pendant que, alors que; comme, en tant que (travailler comme professeur); comme, puisque; as if / as though: comme si; as for: quant à|o;o;o;o;n;n
+take|prendre; take over: prendre le contrôle de, reprendre; take on: accepter (un travail, une responsabilité), embaucher, affronter, prendre (un air); take off: enlever (des vêtements), décoller, partir; take out: sortir (d'une poche, d'un sac), retirer, inviter à sortir; take back: retirer (ses paroles), rapporter; take after: tenir de (un parent); take place: avoir lieu; take part: participer; take care of: s'occuper de; take advantage of: profiter de; take it easy: se détendre, se calmer|v;n;n;n;n;n;n;n;n;n;n;n
+good|bon, de qualité; gentil, sage; agréable, plaisant; goods: marchandises; for good: pour de bon; no good: bon à rien, inutile|o;o;o;n;n;n
+let|laisser, permettre; let down: décevoir, laisser tomber, baisser (la garde); let go: lâcher; let in: laisser entrer; let out: pousser (un soupir, un cri), libérer; let alone: et encore moins|v;n;n;n;n;n
 did|forme passée de do|o
 who|qui|o
 tell|dire (quelque chose à quelqu'un)|v
@@ -79,10 +79,10 @@ why|pourquoi|o
 from|de, depuis|o
 his|son, sa, ses|o
 yes|oui|o
-time|temps; fois (une occasion)|o;o
-make|faire, fabriquer; obliger (à faire)|v;v
+time|temps; fois (une occasion); on time: à l'heure; in time: à temps, avec le temps; at the same time: en même temps, pourtant; from time to time: de temps en temps; all the time: tout le temps; for the time being: pour le moment|o;o;n;n;n;n;n;n
+make|faire, fabriquer; obliger (à faire); make up: inventer, constituer, se réconcilier, se décider; make up for: compenser, rattraper; make out: distinguer, comprendre, s'embrasser; make sure: s'assurer; make sense: avoir du sens; make fun of: se moquer de; make the most of: profiter au maximum de|v;v;n;n;n;n;n;n;n
 when|quand|o
-going|allant; going to: sur le point de|o;n
+going|allant; going to: sur le point de; going on: en cours, se passer (what's going on : qu'est-ce qui se passe)|o;n;n
 an|un, une (devant une voyelle)|o
 man|homme; (interjection) exprime la surprise|o;o
 say|dire|v
@@ -101,26 +101,26 @@ our|notre, nos|o
 gonna|aller (familier pour going to)|o
 really|vraiment, réellement; très, vachement|o;o
 thank|remercier; thank you: merci; thanks: merci; thanks to: grâce à|v;n;n;n
-some|quelques, du, de la|o
+some|quelques, du, de la; un certain (un type a appelé); quelque, environ (quelque 20 personnes)|o;o;o
 hey|hé (salut; pour attirer l'attention)|o
-give|donner|v
+give|donner; give up: abandonner, renoncer, remettre; give in: céder; give away: donner, révéler (un secret); give birth: accoucher; give way: céder, s'effondrer, laisser place à|v;n;n;n;n;n
 'd|(marque le conditionnel: I'd like); (avait: I'd gone); (did : where'd you go = où es-tu allé ?)|o;g;g
 didn|(did not, dans didn't)|g
 mean|vouloir dire, signifier; méchant, pas gentil; avoir l'intention de; moyen, manière de faire; by means of: au moyen de|v;o;v;o;n
-way|manière, façon; chemin, route; distance, trajet (un long chemin)|o;o;o
+way|manière, façon; chemin, route; distance, trajet (un long chemin); by the way: au fait, à propos; on the way / on my way: en route, en chemin; in a way: d'une certaine manière|o;o;o;n;n;n
 something|quelque chose|o
 has|il/elle a|f3s
 little|petit; un peu|o;o
 too|aussi, également; trop|o;o
-much|beaucoup|o
-more|plus, davantage; plus (forme le comparatif, ex. plus beau)|o;g
-because|parce que|o
+much|beaucoup; at most: au maximum; make the most of: profiter au maximum de; for the most part: pour la plupart|o;n;n;n
+more|plus, davantage; plus (forme le comparatif, ex. plus beau); more or less: plus ou moins|o;g;n
+because|parce que; because of: à cause de|o;n
 talk|parler|v
-love|aimer; amour|v;o
-down|en bas, vers le bas; le long de (descendre la rue); déprimé, triste|o;o;o
+love|aimer; amour; in love: amoureux; make love: faire l'amour|v;o;n;n
+down|en bas, vers le bas; le long de (descendre la rue); déprimé, triste; par écrit (le noter); en baisse (les prix sont en baisse)|o;o;o;o;o
 very|très|o
 never|jamais|o
-call|appeler (au téléphone); appeler (nommer); appel|v;v;o
+call|appeler (au téléphone); appeler (nommer); appel; call for: exiger, réclamer; call on: rendre visite à, faire appel à; call off: annuler; call back: rappeler|v;v;o;n;n;n;n
 people|gens, personnes; peuple, nation|o;o
 only|seulement, juste, ne... que; seul, unique (un enfant unique)|o;o
 over|au-dessus de; fini, terminé; de l'autre côté, par-dessus; pendant (over the weekend : pendant le week-end); à propos de, pour (a fight over money : une dispute pour de l'argent); over here / over there: ici, là-bas|o;o;o;o;o;n
@@ -130,38 +130,38 @@ please|s'il vous plaît (demande polie)|o
 should|devoir, il faudrait|o
 said|forme passée de say|o
 sorry|désolé (pour s'excuser); désolé (par compassion)|o;o
-off|loin, enlevé (d'un lieu ou d'une surface); éteint; en congé (un jour de congé); gâté, avarié (aliment)|o;o;o;o
+off|loin, enlevé (d'un lieu ou d'une surface); éteint; en congé (un jour de congé); gâté, avarié (aliment); annulé (le mariage est annulé); de réduction (20 % de réduction)|o;o;o;o;o;o
 am|je suis|f1s
 try|essayer|v
-any|n'importe quel, du, des|o
+any|n'importe quel, du, des; n'importe quel (n'importe quand); pas du tout (pas mieux du tout)|o;o;o
 two|deux|o
-wait|attendre|v
-even|même (chose surprenante); plat, égal|o;o
+wait|attendre; can't wait / cannot wait: avoir hâte|v;n
+even|même (chose surprenante); plat, égal; even though / even if: même si; even so: quand même; encore (encore mieux)|o;o;n;n;o
 life|vie|o
 doing|faisant|o
 hello|bonjour, allô|o
-help|aider; aide|v;o
-sure|sûr, certain; (interjection) oui, bien sûr|o;o
+help|aider; aide; can't help / cannot help: ne pas pouvoir s'empêcher|v;o;n
+sure|sûr, certain; (interjection) oui, bien sûr; make sure: s'assurer; for sure: c'est sûr, certainement|o;o;n;n
 year|an, année|o
 these|ces, ceux-ci|o
 other|autre|o
 happen|arriver, se passer|v
-first|premier, avant tous les autres; d'abord, avant toute chose; at first: au début|o;o;n
+first|premier, avant tous les autres; d'abord, avant toute chose; at first: au début; first of all: tout d'abord|o;o;n;n
 into|dans (vers l'intérieur); passionné par (j'adore la musique)|o;o
-keep|garder; continuer (à faire)|v;v
-find|trouver|v
+keep|garder; continuer (à faire); keep up: suivre le rythme, continuer; keep up with: suivre, se tenir au courant de; keep on: continuer|v;v;n;n;n
+find|trouver; find out: découvrir, apprendre|v;n
 ask|demander (poser une question); demander (réclamer)|v;v
 still|encore, toujours; immobile; pourtant, quand même|o;o;o
 anything|n'importe quoi, quoi que ce soit|o
-hear|entendre|v
+hear|entendre; hear of: entendre parler de, admettre; hear from: avoir des nouvelles de|v;n;n
 god|dieu; oh God: exclamation de choc|o;n
 nothing|rien|o
 sir|monsieur (adresse polie à un homme)|o
-put|mettre, poser|v
+put|mettre, poser; put on: mettre (un vêtement), allumer, prendre (du poids), monter (un spectacle); put up: lever, construire, opposer (une résistance), héberger; put up with: supporter; put out: éteindre, déranger; put off: remettre à plus tard, dégoûter; put down: poser, noter, réprimer, faire piquer (un animal), rabaisser; put away: ranger, mettre en prison; put together: assembler|v;n;n;n;n;n;n;n;n
 their|leur, leurs|o
 use|utiliser, se servir de; usage, utilité|v;o
 great|génial, très bien; grand, vaste|o;o
-long|long, qui dure longtemps; long, de grande longueur; désirer ardemment, avoir très envie de|o;o;v
+long|long, qui dure longtemps; long, de grande longueur; désirer ardemment, avoir très envie de; as long as: tant que, pourvu que; no longer: ne plus; before long: bientôt|o;o;v;n;n;n
 uh|euh (en hésitant)|o
 again|encore, de nouveau|o
 thought|pensé, forme passée de think; pensée, idée|o;o
@@ -170,7 +170,7 @@ maybe|peut-être|o
 must|devoir, falloir|o
 night|nuit|o
 before|avant, plus tôt que; devant; déjà, auparavant (je l'ai déjà vu)|o;o;o
-after|après, plus tard que; derrière, à la suite de; à la recherche de (la police le recherche)|o;o;o
+after|après, plus tard que; derrière, à la suite de; à la recherche de (la police le recherche); after all: après tout|o;o;o;n
 won|gagné, forme passée de win; (dans won't) ne... pas (futur)|o;o
 home|à la maison (rentrer chez soi); maison, chez soi|o;o
 away|ailleurs, vers un autre endroit; à distance (à trois kilomètres); absent, pas là|o;o;o
@@ -184,8 +184,8 @@ everything|tout|o
 new|nouveau, neuf, récent; nouveau, inconnu jusqu'alors; nouveau, autre (un nouveau travail)|o;o;o
 start|commencer; début|v;o
 always|toujours|o
-feel|sentir, ressentir|v
-place|endroit, lieu; chez soi (chez moi); place, rang (première place); placer, mettre|o;o;o;v
+feel|sentir, ressentir; feel like: avoir envie de, avoir l'impression|v;n
+place|endroit, lieu; chez soi (chez moi); place, rang (première place); placer, mettre; take place: avoir lieu; in place of: à la place de; in the first place: au départ, d'abord|o;o;o;v;n;n;n
 big|grand, gros; important; aîné (grand frère)|o;o;o
 woman|femme|o
 old|vieux, âgé; ancien (mon ancienne école); âgé de (dix ans)|o;o;o
@@ -197,17 +197,17 @@ play|jouer; pièce de théâtre|v;o
 kid|gamin, enfant; plaisanter|o;v
 believe|croire|v
 wrong|faux, incorrect; mal, mauvais, immoral; qui ne va pas (qu'est-ce qui ne va pas)|o;o;o
-bring|apporter, amener (ici)|v
+bring|apporter, amener (ici); bring up: élever, aborder (un sujet), monter, remonter; bring about: provoquer, entraîner; bring down: faire tomber, abaisser; bring out: faire ressortir, publier|v;n;n;n;n
 father|père; Père (titre d'un prêtre)|o;o
-ever|jamais, à un moment quelconque|o
+ever|jamais, à un moment quelconque; jamais (le meilleur de tous les temps); ever since: depuis lors|o;o;n
 move|bouger, déplacer|v
 boy|garçon|o
-show|montrer; spectacle, émission|v;o
+show|montrer; spectacle, émission; show up: se pointer, arriver, faire honte à; show off: frimer, se vanter|v;o;n;n
 isn|(dans isn't) n'est pas|f3s
 listen|écouter|v
 die|mourir|v
 which|lequel, quel|o
-miss|manquer à (ressentir l'absence); rater (ne pas atteindre); Mademoiselle (titre); (missing) perdu, disparu, manquant|v;v;o;o
+miss|manquer à (ressentir l'absence); rater (ne pas atteindre); Mademoiselle (titre); (missing) perdu, disparu, manquant; miss out: rater (une occasion)|v;v;o;o;n
 late|en retard, tard; tard (tard le soir); défunt, feu (le défunt roi)|o;o;o
 nice|sympa, agréable|o
 kind|sorte, genre; gentil, doux; (kind of) plutôt, un peu, en quelque sorte|o;o;o
@@ -216,7 +216,7 @@ understand|comprendre|v
 someone|quelqu'un|o
 being|étant (forme en -ing de be); être, créature vivante|o;o
 meet|rencontrer|v
-coming|venant|o
+coming|venant; coming up: qui arrive, à venir; coming on: allez !, commençant|o;n;n
 every|chaque, tous les|o
 through|à travers, d'un côté à l'autre; par, au moyen de; fini (j'en ai fini)|o;o;o
 lose|perdre (égarer); perdre (un jeu)|v;v
@@ -227,8 +227,8 @@ dad|papa, père|o
 left|parti, forme passée de leave; gauche (le côté)|o;o
 world|monde, la terre et ses habitants; monde, milieu (le monde de l'art)|o;o
 enough|assez|o
-own|propre (à soi); posséder|o;v
-care|se soucier; soin, attention|v;o
+own|propre (à soi); posséder; on my own / on your own / on his own / on her own / on its own / on our own / on their own: seul, tout seul|o;v;n
+care|se soucier; soin, attention; care for: prendre soin de, aimer; care about: se soucier de|v;o;n;n
 bad|mauvais, de mauvaise qualité; méchant; grave, sévère (un gros rhume)|o;o;o
 three|trois|o
 might|pourrait, peut-être|o
@@ -236,14 +236,14 @@ today|aujourd'hui; de nos jours|o;o
 car|voiture|o
 another|un autre, encore un; un autre, différent|o;o
 minute|minute, soixante secondes; instant, moment (attends une minute); minuscule|o;o;o
-turn|tourner; tour (à toi de jouer)|v;o
+turn|tourner; tour (à toi de jouer); turn out: s'avérer, se révéler, éteindre (une lumière); turn into: devenir, se transformer en; turn on: allumer, se retourner contre; turn off: éteindre; turn up: arriver, se montrer, relever (un col), monter (le son); turn down: refuser, baisser (le son); turn over: retourner, livrer; turn around: se retourner, redresser; in turn: à tour de rôle, à son tour|v;o;n;n;n;n;n;n;n;n;n
 same|même|o
 son|fils|o
-found|trouvé, forme passée de find; fonder, établir|o;v
-else|d'autre, en plus|o
+found|trouvé, forme passée de find; fonder, établir; found out: a découvert, a appris|o;v;n
+else|d'autre, en plus; or else: sinon|o;n
 next|prochain, suivant; next to: à côté de|o;n
-run|courir; diriger (une entreprise)|v;v
-mind|esprit; voir un inconvénient, être gêné; faire attention à (mind the step : attention à la marche)|o;v;v
+run|courir; diriger (une entreprise); run into: tomber sur, heurter, entrer en courant; run out of: manquer de, être à court de; run out: s'épuiser, expirer, sortir en courant, planter là; run away: s'enfuir|v;v;n;n;n;n
+mind|esprit; voir un inconvénient, être gêné; faire attention à (mind the step : attention à la marche); never mind: peu importe, laisse tomber; in mind: à l'esprit; change my mind / change your mind: changer d'avis|o;v;v;n;n;n
 yourself|toi-même, vous-même|o
 job|emploi, travail|o
 head|tête; se diriger vers; chef, dirigeant|o;v;o
@@ -257,7 +257,7 @@ room|pièce, chambre; place, espace|o;o
 mom|maman, mère|o
 watch|regarder; montre (au poignet)|v;o
 child|enfant|o
-hold|tenir; attends! (patiente)|v;o
+hold|tenir; hold on: attendre, tenir bon, attends !; hold up: lever, retarder, braquer, soutenir; hold out: tendre (la main), tenir, résister; hold back: retenir, hésiter, cacher; hold on to: s'accrocher à, garder|v;n;n;n;n;n
 best|le meilleur|o
 morning|matin|o
 hell|enfer; what the hell: exprime l'agacement|o;n
@@ -265,7 +265,7 @@ together|ensemble|o
 brother|frère|o
 saw|vu, forme passée de see; scie; scier|o;o;v
 eat|manger|v
-end|fin; terminer|o;v
+end|fin; terminer; end up: finir par, se retrouver; in the end: finalement, à la fin; at the end of the day: en fin de compte|o;v;n;n;n
 idea|idée|o
 real|vrai, véritable|o
 forget|oublier|v
@@ -282,7 +282,7 @@ shit|(vulgaire) merde; utilisé pour l'agacement ou la déception|o;o
 seem|sembler, paraître|v
 happy|heureux, content; prêt, disposé (ravi d'aider)|o;o
 huh|hein? (pour faire répéter; pour vérifier l'accord)|o
-speak|parler|v
+speak|parler; speak up: parler plus fort, prendre la parole|v;n
 both|les deux, tous les deux|o
 laugh|rire; un rire|v;o
 ready|prêt|o
@@ -291,13 +291,13 @@ pretty|joli, mignon; assez, plutôt|o;o
 wife|femme, épouse|o
 drink|boire; boisson, verre|v;o
 hour|heure|o
-word|mot; parole, promesse (tu as ma parole); nouvelles (des nouvelles de lui ?)|o;o;o
+word|mot; parole, promesse (tu as ma parole); nouvelles (des nouvelles de lui ?); in other words: en d'autres termes|o;o;o;n
 eye|oeil|o
-such|tel, pareil|o
+such|tel, pareil; si, tellement (une si belle journée); such as: comme, tel que|o;o;n
 also|aussi, également|o
 haven|(have not, dans haven't)|g
 yet|encore, jusqu'ici; pourtant, mais|o;o
-whole|entier, tout|o
+whole|entier, tout; on the whole: dans l'ensemble|o;n
 since|depuis (à partir de là); puisque, comme|o;o
 face|visage, figure; affronter, faire face à|o;v
 phone|téléphone; téléphoner|o;v
@@ -308,20 +308,20 @@ tomorrow|demain|o
 week|semaine|o
 tonight|ce soir|o
 everyone|tout le monde|o
-break|casser, briser; pause|v;o
+break|casser, briser; pause; break down: tomber en panne, craquer; break up: rompre, se briser; break out: éclater, s'évader; break into: entrer par effraction, se mettre à; break in: entrer par effraction, interrompre|v;o;n;n;n;n;n
 walk|marcher; promenade|v;o
 marry|épouser, se marier|v
 wanna|vouloir (familier pour want to)|o
 ah|ah (compréhension, soulagement)|o
 second|seconde (unité de temps); deuxième (après le premier)|o;o
-alone|seul|o
+alone|seul; let alone: et encore moins|o;n
 myself|moi-même|o
 um|euh (en hésitant)|o
-soon|bientôt|o
+soon|bientôt; as soon as: dès que; sooner or later: tôt ou tard|o;n;n
 close|fermer; proche, près|v;o
 question|question; question, sujet, problème; interroger, mettre en doute|o;o;v
 few|peu de, quelques|o
-heart|cœur (organe); cœur, sentiments, amour; cœur, centre (le cœur de la ville); by heart: par cœur|o;o;o;n
+heart|cœur (organe); cœur, sentiments, amour; cœur, centre (le cœur de la ville); by heart: par cœur; at heart: au fond|o;o;o;n;n
 couldn|(could not, dans couldn't)|g
 lady|dame, femme|o
 buy|acheter|v
@@ -336,8 +336,8 @@ doctor|médecin, docteur|o
 young|jeune|o
 police|police|o
 business|affaires, commerce; affaire, histoire|o;o
-part|partie; rôle (dans une pièce ou un film); se séparer|o;o;v
-true|vrai, exact; vrai, réel, authentique; fidèle, loyal|o;o;o
+part|partie; rôle (dans une pièce ou un film); se séparer; take part: participer; in part: en partie|o;o;v;n;n
+true|vrai, exact; vrai, réel, authentique; fidèle, loyal; come true: se réaliser|o;o;o;n
 each|chaque|o
 easy|facile; détendu, calme; doucement !, avec précaution|o;o;o
 fire|feu; renvoyer, virer; tirer (avec une arme)|o;v;v
@@ -355,18 +355,18 @@ body|corps; cadavre, corps; organisme, organe (un organe de direction)|o;o;o
 death|mort|o
 number|nombre, numéro|o
 working|travaillant (forme en -ing de work); en marche, qui fonctionne; qui a un emploi|o;o;o
-pick|(pick up) ramasser; choisir|v;v
+pick|(pick up) ramasser; choisir; pick up: ramasser, aller chercher, répondre (au téléphone), apprendre; pick on: s'en prendre à|v;v;n;n
 crazy|fou, dingue|o
 write|écrire|v
-stand|être debout, se tenir; supporter, tolérer|v;v
+stand|être debout, se tenir; supporter, tolérer; stand for: représenter, signifier, tolérer; stand out: se distinguer, ressortir; stand up for: défendre; stand by: se tenir prêt, soutenir|v;v;n;n;n;n
 save|sauver (secourir); garder, économiser|v;v
 game|jeu; match, partie; gibier|o;o;o
 exactly|exactement, précisément; exactement ! (pour approuver)|o;o
 under|sous, en dessous de; moins de (moins de cinq)|o;o
 everybody|tout le monde|o
 wish|souhaiter; souhait|v;o
-shut|fermer; tais-toi! (silence)|v;o
-chance|occasion, possibilité; hasard, chance|o;o
+shut|fermer; shut up: tais-toi !, se taire (grossier); shut down: fermer, éteindre (une machine)|v;n;n
+chance|occasion, possibilité; hasard, chance; by chance: par hasard; stand a chance: avoir une chance|o;o;n;n
 party|fête, soirée; groupe, parti|o;o
 five|cinq|o
 plan|plan, projet; prévoir, projeter|o;v
@@ -374,12 +374,12 @@ its|son, sa, ses|o
 whatever|n'importe quoi, peu importe|o
 answer|réponse; répondre|o;v
 aren|(are not, dans aren't)|g
-taking|prenant|o
+taking|prenant; taking over: prenant le contrôle de; taking care of: s'occupant de|o;n;n
 promise|promettre; promesse|v;o
-moment|moment, instant|o
+moment|moment, instant; at the moment: en ce moment, au moment (où); for the moment: pour le moment|o;n;n
 inside|à l'intérieur, dedans|o
-set|poser, mettre; ensemble, jeu|v;o
-catch|attraper|v
+set|poser, mettre; ensemble, jeu; set up: créer, organiser, piéger; set out: partir, entreprendre, exposer; set off: partir, déclencher; set in: s'installer (mauvais temps, un sentiment); set about: se mettre à; set fire to: mettre le feu à|v;o;n;n;n;n;n;n
+catch|attraper; catch up: rattraper, se mettre à jour; catch up with: rattraper, revoir; catch sight of: apercevoir|v;n;n;n
 different|différent|o
 high|élevé (des prix élevés); haut, élevé; défoncé, drogué; high school: lycée|o;o;o;n
 sister|soeur|o
@@ -389,7 +389,7 @@ somebody|quelqu'un|o
 dream|rêve; rêver|o;v
 reason|raison|o
 side|côté, bord, face; camp, équipe; côté, flanc (sur le côté gauche)|o;o;o
-making|faisant|o
+making|faisant; making sure: s'assurant; making up: inventant, formant, se réconciliant|o;n;n
 afraid|effrayé, qui a peur; I'm afraid: je regrette|o;n
 rest|reste, ce qui reste; se reposer|o;v
 four|quatre|o
@@ -407,8 +407,8 @@ dog|chien|o
 important|important|o
 line|ligne, trait; file d'attente, queue; ligne (une ligne de texte); ligne téléphonique; réplique (d'un acteur)|o;o;o;o;o
 trust|faire confiance à; confiance|v;o
-cut|couper|v
-wear|porter (un vêtement)|v
+cut|couper; cut off: couper, isoler, interrompre; cut out: découper, arrêter; cut down: abattre, réduire|v;n;n;n
+wear|porter (un vêtement); wear out: user, épuiser; wear off: se dissiper|v;n;n
 trouble|ennuis, problèmes; déranger, gêner|o;v
 power|pouvoir, autorité; puissance, force; électricité (une coupure de courant)|o;o;o
 read|lire|v
@@ -416,15 +416,15 @@ nobody|personne|o
 ring|bague, anneau; sonner|o;v
 mr|Monsieur (titre pour un homme)|o
 though|bien que, quoique; pourtant, cependant|o;o
-throw|jeter, lancer|v
+throw|jeter, lancer; throw up: vomir, lever (les bras); throw away: jeter, gâcher|v;n;n
 war|guerre|o
 between|entre|o
 murder|meurtre; assassiner|o;v
-pass|passer; réussir (un examen); pass away: décéder, mourir; être adopté (une loi); un laissez-passer, un titre de transport|v;v;n;v;o
+pass|passer; réussir (un examen); pass away: décéder, mourir; être adopté (une loi); un laissez-passer, un titre de transport; pass out: s'évanouir; pass on: transmettre, décliner, décéder|v;v;n;v;o;n;n
 city|ville|o
 truth|vérité|o
-sell|vendre|v
-pull|tirer|v
+sell|vendre; sell out: être épuisé, se vendre|v;n
+pull|tirer; pull over: se garer sur le côté; pull off: réussir; pull up: s'arrêter, remonter|v;n;n;n
 blood|sang|o
 finish|finir, terminer|v
 behind|derrière; en retard (en retard sur le planning); derrière, en soutien de|o;o;o
@@ -440,27 +440,27 @@ cool|frais (un peu froid); cool, génial|o;o
 sign|panneau, signe; signer|o;v
 free|gratuit; libre, en liberté|o;o
 spend|passer (du temps); dépenser (de l'argent)|v;v
-fact|fait|o
+fact|fait; in fact / as a matter of fact: en fait, en réalité|o;n
 yours|le tien, à toi|o
 dance|danser; danse|v;o
 wow|waouh (admiration, surprise)|o
 half|moitié, demi|o
-drop|laisser tomber; goutte|v;o
+drop|laisser tomber; goutte; drop off: déposer, s'assoupir; drop in: passer voir; drop out: abandonner (les études, une course)|v;o;n;n;n
 bed|lit|o
 either|l'un ou l'autre|o
 country|pays, nation; campagne|o;o
-figure|forme, chiffre; comprendre, calculer|o;v
+figure|forme, chiffre; comprendre, calculer; figure out: comprendre, trouver|o;v;n
 front|avant, devant; in front of: devant|o;n
 learn|apprendre|v
 whoa|holà (surprise; du calme)|o
 bye|salut, au revoir|o
 telling|disant|o
 honey|miel (aliment sucré); chéri (appellation affectueuse)|o;o
-wonder|se demander; émerveillement|v;o
+wonder|se demander; émerveillement; no wonder: pas étonnant|v;o;n
 return|revenir, retourner; rendre, restituer|v;v
 stupid|bête, idiot|o
 sigh|soupirer|v
-hurry|se dépêcher, se presser|v
+hurry|se dépêcher, se presser; hurry up: se dépêcher, dépêche-toi !|v;n
 hot|chaud; épicé, piquant; sexy, séduisant|o;o;o
 news|nouvelles, informations|o
 food|nourriture, aliments|o
@@ -479,7 +479,7 @@ expect|s'attendre à; exiger, attendre de|v;v
 outside|dehors, à l'extérieur de|o
 king|roi|o
 funny|drôle, amusant; bizarre, louche|o;o
-stick|coller, se coincer; bâton, bout de bois|v;o
+stick|coller, se coincer; bâton, bout de bois; stick to: s'en tenir à; stick around: rester dans le coin; stick out: dépasser, ressortir|v;o;n;n;n
 captain|capitaine|o
 chuckle|glousser, rire doucement|v
 human|être humain; humain, des hommes|o;o
@@ -493,7 +493,7 @@ drive|conduire; pousser, réduire à; élan, énergie|v;v;o
 boss|patron, chef|o
 living|vivant; gagne-pain, moyens de vivre; (de live) vivant, habitant (living in London : qui vit à Londres); living room: salon, séjour|o;o;o;n
 control|contrôle, pouvoir sur; contrôler, maîtriser|o;v
-blow|souffler; blow up: exploser; coup|v;n;o
+blow|souffler; blow up: exploser; coup; blow out: souffler (une bougie)|v;n;o;n
 parent|parent, père ou mère|o
 dinner|dîner, repas principal|o
 ahead|devant, en avant|o
@@ -504,7 +504,7 @@ force|force; forcer, obliger; forces armées|o;v;o
 fly|voler; mouche|v;o
 win|gagner, l'emporter|v
 shouldn|(dans shouldn't) ne devrait pas|o
-running|courant; en marche, en fonctionnement|o;o
+running|courant; en marche, en fonctionnement; running out of: à court de|o;o;n
 alright|d'accord, ça va (= all right)|o
 million|1 000 000|o
 piece|morceau, part; pièce, unité|o;o
@@ -529,16 +529,16 @@ sick|malade; dégoûtant, écoeurant; sick of: marre de|o;o;n
 poor|pauvre; à plaindre, malheureux; mauvais, médiocre|o;o;o
 perhaps|peut-être|o
 report|rapport, compte rendu; signaler, déclarer|o;v
-wake|se réveiller, réveiller|v
+wake|se réveiller, réveiller; wake up: se réveiller, réveiller|v;n
 serious|sérieux, qui ne plaisante pas; grave|o;o
 voice|voix|o
-sense|sens, signification; bon sens; sens (vue, ouïe); percevoir, sentir|o;o;o;v
+sense|sens, signification; bon sens; sens (vue, ouïe); percevoir, sentir; make sense: avoir du sens|o;o;o;v;n
 red|rouge|o
 ha|(exclamation de triomphe ou de mépris)|g
 scared|effrayé, qui a peur|o
 song|chanson|o
 explain|expliquer|v
-earth|Terre, monde; terre, sol|o;o
+earth|Terre, monde; terre, sol; what on earth / why on earth / how on earth / where on earth / who on earth: diable, donc (pour insister)|o;o;n
 past|passé; au-delà de, après|o;o
 mistake|erreur, faute|o
 meeting|réunion, rendez-vous|o
@@ -585,9 +585,9 @@ road|route, chemin|o
 lucky|chanceux, qui a de la chance|o
 age|âge; époque, ère|o;o
 letter|lettre (message); lettre (de l'alphabet)|o;o
-rather|plutôt, de préférence; assez, plutôt|o;o
+rather|plutôt, de préférence; assez, plutôt; rather than: plutôt que; would rather: préférer|o;o;n;n
 steal|voler, dérober|v
-felt|senti, forme passée de feel; feutre|o;o
+felt|senti, forme passée de feel; feutre; felt like: avait envie de, avait l'impression|o;o;n
 grunt|grogner|v
 protect|protéger|v
 cover|couvrir, recouvrir; couvrir, traiter; abri, protection|v;v;o
@@ -615,12 +615,12 @@ fix|réparer; arranger, organiser; fixer, attacher|v;v;v
 careful|prudent, attentif|o
 rock|rocher, pierre; rock (musique); bercer, balancer|o;o;v
 fault|faute, responsabilité; défaut|o;o
-rule|règle; gouverner, régner|o;v
+rule|règle; gouverner, régner; rule out: exclure|o;v;n
 dude|mec, type (familier)|o
 offer|offrir, proposer; offre, proposition|v;o
 park|se garer, stationner; parc; car park: parking|v;o;n
 weren|(dans weren't) forme négative de were|o
-given|donné, participe passé de give|o
+given|donné, participe passé de give; given up: abandonné; given that: étant donné que|o;n;n
 realize|se rendre compte de, réaliser|v
 future|avenir, futur|o
 quick|rapide|o
@@ -705,7 +705,7 @@ accept|accepter|v
 hotel|hôtel|o
 deep|profond; profond, difficile à saisir; profond, intense (deep love : amour profond)|o;o;o
 idiot|idiot, imbécile|o
-short|court, petit; bref, de courte durée; shorts: short|o;o;n
+short|court, petit; bref, de courte durée; shorts: short; in short: en bref; short of: à court de|o;o;n;n;n
 jump|sauter|v
 table|table; tableau, table de chiffres|o;o
 buddy|copain, pote (familier)|o
@@ -731,7 +731,7 @@ floor|sol, plancher; étage|o;o
 born|né|o
 information|informations, renseignements|o
 situation|situation|o
-instead|à la place, plutôt|o
+instead|à la place, plutôt; instead of: au lieu de|o;n
 definitely|certainement, sans aucun doute|o
 victim|victime|o
 certainly|certainement, sûrement; (en réponse) bien sûr|o;o
@@ -763,13 +763,13 @@ relax|se détendre, se relaxer|v
 guard|garde, gardien; garder, protéger|o;v
 except|sauf, excepté|o
 detective|inspecteur, enquêteur|o
-broke|cassé, forme passée de break; fauché, sans argent|o;o
+broke|cassé, forme passée de break; fauché, sans argent; broke down: est tombé en panne, a craqué; broke up: a rompu, s'est brisé; broke out: a éclaté, s'est évadé; broke into: est entré par effraction, s'est mis à|o;o;n;n;n;n
 lovely|beau, charmant|o
 seriously|sérieusement, avec sérieux; vraiment, franchement|o;o
 forever|pour toujours, éternellement|o
 entire|entier, tout|o
 space|espace, place; espace (au-delà de la Terre)|o;o
-mention|mentionner, signaler|v
+mention|mentionner, signaler; not to mention: sans parler de|v;n
 gasp|avoir le souffle coupé, haleter|v
 track|piste, voie; morceau, plage; suivre, pister; keep track of: suivre, tenir le compte de; traces, empreintes; voie ferrée, rails|o;o;v;n;o;o
 across|à travers, de l'autre côté de|o
@@ -783,13 +783,13 @@ bird|oiseau|o
 middle|milieu, centre|o
 rich|riche; riche, copieux|o;o
 accident|accident; hasard, coïncidence|o;o
-lay|poser, étendre; forme passée de lie|v;o
+lay|poser, étendre; forme passée de lie; lay off: licencier, laisser tranquille; lay out: disposer, étaler, exposer|v;o;n;n
 scene|lieu, scène; scène (d'une pièce, d'un film)|o;o
 sun|soleil|o
 machine|machine|o
 anywhere|n'importe où, quelque part|o
 dangerous|dangereux|o
-attention|attention; attention, remarque|o;o
+attention|attention; attention, remarque; pay attention: faire attention|o;o;n
 dare|oser; défier, mettre au défi|v;v
 sea|mer|o
 contact|contacter, joindre; contact, relation|v;o
@@ -825,12 +825,12 @@ major|majeur, plus important; commandant (officier)|o;o
 belong|appartenir à; être à sa place|v;v
 soldier|soldat|o
 quickly|vite, rapidement|o
-doubt|douter de; doute|v;o
+doubt|douter de; doute; no doubt: sans doute|v;o;n
 student|étudiant, élève|o
 forward|en avant, vers l'avant|o
 gold|or|o
 eight|8|o
-fell|tombé, forme passée de fall|o
+fell|tombé, forme passée de fall; fell asleep: s'est endormi; fell in love: est tombé amoureux; fell apart: s'est effondré; fell for: est tombé amoureux de, s'est fait avoir par|o;n;n;n;n
 store|magasin; stocker, conserver|o;v
 tear|larme; déchirer|o;v
 girlfriend|petite amie, copine|o
@@ -883,7 +883,7 @@ mum|maman (britannique)|o
 pop|pop, petit bruit sec; musique pop; papa (familier); éclater|o;o;o;v
 boyfriend|petit ami, copain|o
 mm-hmm|mmh (qui veut dire oui)|g
-fill|remplir|v
+fill|remplir; fill in: remplir, remplacer; fill out: remplir|v;n;n
 within|à l'intérieur de, d'ici|o
 beg|supplier, implorer; mendier|v;v
 pleasure|plaisir|o
@@ -914,7 +914,7 @@ beer|bière|o
 difference|différence|o
 client|client|o
 cute|mignon; adorable, charmant|o;o
-wind|vent; enrouler, remonter|o;v
+wind|vent; enrouler, remonter; wind up: finir, se retrouver, taquiner|o;v;n
 village|village|o
 green|vert|o
 planet|planète|o
@@ -994,7 +994,7 @@ engine|moteur|o
 madam|madame (formule de politesse)|o
 crowd|foule|o
 favor|service, faveur; soutien, faveur; préférer, favoriser|o;o;v
-settle|régler, mettre fin à; s'installer, s'établir; se poser|v;v;v
+settle|régler, mettre fin à; s'installer, s'établir; se poser; settle down: se calmer, se ranger|v;v;v;n
 stage|scène, estrade; étape, stade|o;o
 ghost|fantôme, revenant|o
 exist|exister|v
@@ -1004,7 +1004,7 @@ dirty|sale; grossier, obscène|o;o
 colonel|colonel|o
 camp|camp, campement; camper|o;v
 yell|hurler, brailler|v
-holding|tenant|o
+holding|tenant; holding on: attendant, tenant bon|o;n
 remind|rappeler à, faire penser à|v
 immediately|immédiatement, tout de suite|o
 fat|gros, gras; graisse, matière grasse|o;o
@@ -1204,7 +1204,7 @@ nut|noix, fruit à coque; écrou; cinglé, fou|o;o;o
 pig|cochon, porc; goinfre, porc|o;o
 asleep|endormi|o
 common|commun, partagé; courant, fréquent|o;o
-sight|vue (la faculté); spectacle, vue|o;o
+sight|vue (la faculté); spectacle, vue; catch sight of: apercevoir; lose sight of: perdre de vue; at first sight: au premier regard|o;o;n;n;n
 command|ordre; ordonner, commander; commandement (des troupes)|o;v;o
 awful|affreux, épouvantable|o
 princess|princesse|o
@@ -1278,7 +1278,7 @@ embarrass|gêner, mettre mal à l'aise|v
 wave|faire signe de la main, saluer; vague|v;o
 uh-huh|(en réponse) oui, continue|o
 beyond|au-delà de; au-delà de, hors de|o;o
-grant|accorder, octroyer; subvention, bourse|v;o
+grant|accorder, octroyer; subvention, bourse; for granted: pour acquis|v;o;n
 example|exemple|o
 hardly|à peine, presque pas|o
 possibly|(il se peut) peut-être; (avec can) vraiment, d'aucune façon|o;o
@@ -1349,7 +1349,7 @@ plate|assiette|o
 prisoner|prisonnier, détenu|o
 earn|gagner (par son travail); mériter|v;v
 nonsense|absurdités, n'importe quoi|o
-mix|mélanger; mêler, combiner|v;v
+mix|mélanger; mêler, combiner; mix up: confondre|v;v;n
 contract|contrat; se contracter, rétrécir|o;v
 original|d'origine, premier; original, inédit|o;o
 confuse|embrouiller, rendre confus; confondre|v;v
@@ -1422,7 +1422,7 @@ total|total, montant; total, complet|o;o
 ho|ohé (pour attirer l'attention); (vulgaire) pute|g;o
 joy|joie, grand bonheur|o
 unfortunately|malheureusement|o
-birth|naissance; accouchement|o;o
+birth|naissance; accouchement; give birth: accoucher|o;o;n
 weight|poids|o
 speech|discours; parole, faculté de parler|o;o
 brave|courageux, brave|o
@@ -1443,7 +1443,7 @@ rape|violer; viol|v;o
 punch|donner un coup de poing à; punch (boisson)|v;o
 score|score, points; marquer (un point); vingtaine|o;v;o
 pill|pilule, comprimé|o
-rise|monter, se lever; hausse, augmentation|v;o
+rise|monter, se lever; hausse, augmentation; give rise to: donner lieu à|v;o;n
 wheel|roue|o
 opening|ouverture, trou; début, ouverture; poste à pourvoir|o;o;o
 climb|grimper, escalader|v
@@ -1478,7 +1478,7 @@ cough|tousser|v
 direct|direct, sans intermédiaire; diriger, guider|o;v
 lake|lac|o
 co|Cie, abréviation de Company|o
-loss|perte; perte, ce qui est perdu|o;o
+loss|perte; perte, ce qui est perdu; at a loss: perplexe, désemparé|o;o;n
 chef|chef cuisinier|o
 stare|fixer, regarder fixement|v
 march|marcher au pas, défiler; mars (mois)|v;o
@@ -1750,7 +1750,7 @@ defeat|battre, vaincre; défaite|v;o
 hug|serrer dans ses bras, étreindre|v
 swim|nager|v
 lad|garçon, jeune homme (britannique)|o
-advantage|avantage|o
+advantage|avantage; take advantage of: profiter de|o;n
 studio|studio, atelier; studio de cinéma|o;o
 boot|botte, chaussure montante; coffre (britannique)|o;o
 debt|dette|o
@@ -2463,7 +2463,7 @@ anytime|n'importe quand, quand tu veux|o
 centre|centre, orthographe britannique de center|o
 candle|bougie, chandelle|o
 bible|la Bible|o
-turkey|dinde|o
+turkey|dinde; Turquie|o;o
 escort|escorter, accompagner; escorte, accompagnateur|v;o
 fifth|5e|o
 hail|grêle; héler, appeler|o;v
@@ -2669,7 +2669,7 @@ humiliate|humilier|v
 pro|professionnel, pro; argument pour|o;o
 react|réagir|v
 minor|mineur, secondaire; mineur (personne)|o;o
-burst|éclater, exploser|v
+burst|éclater, exploser; burst into: éclater en (sanglots, rires), faire irruption dans; burst out: éclater de (rire), s'écrier|v;n;n
 shore|rivage, rive|o
 officially|officiellement|o
 superior|supérieur, meilleur; supérieur, chef|o;o
@@ -2840,7 +2840,7 @@ twelve|12|o
 corn|céréales, blé; maïs (américain)|o;o
 quote|citer; devis, prix proposé|v;o
 technically|techniquement, à proprement parler|o
-polish|astiquer, faire briller; cirage, produit lustrant|v;o
+polish|astiquer, faire briller; cirage, produit lustrant; polonais, de Pologne ou sa langue|v;o;o
 shatter|voler en éclats, fracasser|v
 gettin|en train d'obtenir (orthographe familière de getting)|o
 steam|vapeur|o
@@ -3109,7 +3109,7 @@ shrink|rétrécir, se contracter; reculer, se recroqueviller|v;v
 remarkable|remarquable|o
 cooperate|coopérer, collaborer|v
 disguise|déguiser, camoufler; déguisement|v;o
-sum|somme (d'argent); somme, total|o;o
+sum|somme (d'argent); somme, total; sum up: résumer|o;o;n
 feeding|alimentation, nourrissage|o
 fridge|frigo, réfrigérateur|o
 reply|répondre; réponse|v;o
@@ -9398,36 +9398,36 @@ recapitalization|recapitalisation|o
 have|avoir; (forme le passé composé, ex. I have seen); have to: devoir|v;g;n
 no|non (refus, désaccord); aucun, pas de|o;o
 can|pouvoir, être capable de; (dans can't) ne pas pouvoir; une boîte de conserve, une canette|o;o;o
-get|obtenir, recevoir; devenir; arriver; comprendre|v;v;v;v
+get|obtenir, recevoir; devenir; arriver; comprendre; get out: sortir, s'échapper, dehors !; get out of: sortir de, échapper à (une obligation); get up: se lever; get away: s'échapper, partir en vacances; get away with: s'en tirer, rester impuni; get over: se remettre de; get through: surmonter, finir, joindre (au téléphone); get along: s'entendre, se débrouiller; get on: monter (dans un véhicule), s'entendre, avancer; get on with: continuer, s'entendre avec; get off: descendre (d'un bus, d'un train), s'en tirer; get back: revenir, récupérer; get by: se débrouiller, s'en sortir; get rid of: se débarrasser de|v;v;v;v;n;n;n;n;n;n;n;n;n;n;n;n;n;n
 right|juste, correct; droit (le côté); (interjection) d'accord; un droit; right away: tout de suite, immédiatement; right now: en ce moment, maintenant; (devant un lieu ou un moment) juste, exactement (right here : ici même)|o;o;o;o;n;n;o
 well|eh bien… (hésitation); bien (de bonne manière); en bonne santé, bien portant; as well: aussi|o;o;o;n
 will|(marque le futur); volonté (détermination); un testament (document laissé au décès)|o;o;o
-by|près de (à côté); par (fait par); d'ici, au plus tard; par (au moyen de)|o;o;o;o
-work|travailler; travail, emploi; fonctionner, marcher|v;o;v
+by|près de (à côté); par (fait par); d'ici, au plus tard; par (au moyen de); devant (passer devant); by myself / by yourself / by himself / by herself / by itself / by ourselves / by themselves: tout seul|o;o;o;o;o;n
+work|travailler; travail, emploi; fonctionner, marcher; work out: résoudre, bien se passer, faire du sport|v;o;v;n
 stop|arrêter, s'arrêter; un arrêt (de bus ou de train)|v;o
 leave|partir (s'en aller); laisser (derrière soi); congé|v;v;o
-last|dernier, final; dernier, le plus récent; durer|o;o;v
+last|dernier, final; dernier, le plus récent; durer; at last: enfin|o;o;v;n
 lot|a lot: beaucoup; lot, parcelle de terrain; the lot: le tout, tout|n;o;n
 fine|bien, ça va; fin, de bonne qualité; une amende|o;o;o
-hand|main; passer, tendre|o;v
+hand|main; passer, tendre; on the other hand: d'un autre côté, en revanche; on the one hand: d'un côté; by hand: à la main|o;v;n;n;n
 may|pouvoir (avoir la permission); pouvoir (peut-être); mai (le mois)|o;o;o
-live|vivre; en direct (pas enregistré)|v;o
+live|vivre; en direct (pas enregistré); live up to: être à la hauteur de|v;o;n
 change|changer; un changement, une modification; monnaie (pièces)|v;o;o
-pay|payer; salaire, paie|v;o
-matter|importer, compter; affaire, question; what's the matter: qu'est-ce qui ne va pas|v;o;n
+pay|payer; salaire, paie; pay off: rembourser, porter ses fruits; pay back: rembourser, se venger de; pay attention: faire attention|v;o;n;n;n
+matter|importer, compter; affaire, question; what's the matter: qu'est-ce qui ne va pas; no matter: peu importe (no matter what : quoi qu'il arrive); as a matter of fact: en fait|v;o;n;n;n
 hard|dur, difficile; dur, ferme; dur, avec effort|o;o;o
-once|une fois; autrefois, jadis; dès que, une fois que|o;o;o
+once|une fois; autrefois, jadis; dès que, une fois que; at once: tout de suite, à la fois; for once: pour une fois; all at once: tout à coup|o;o;o;n;n;n
 bit|a bit: un peu; morceau, petit bout; passé de bite (mordre)|n;o;o
-while|pendant que; a while: un moment, un certain temps|o;n
-case|cas; in case: au cas où; affaire (judiciaire ou policière)|o;n;o
-check|vérifier; regarder, jeter un œil; l'addition|v;v;o
+while|pendant que; a while: un moment, un certain temps; alors que, bien que|o;n;o
+case|cas; in case: au cas où; affaire (judiciaire ou policière); in any case: en tout cas; in that case: dans ce cas|o;n;o;n;n
+check|vérifier; regarder, jeter un œil; l'addition; check out: jeter un œil, vérifier, quitter l'hôtel; check in: s'enregistrer|v;v;o;n;n
 saying|en disant; un dicton, un proverbe|o;o
 lie|mentir; s'allonger, être couché; un mensonge|v;v;o
 excuse|excuse me: pardon, excusez-moi; excuser; une excuse|n;v;o
 deal|accord, marché; s'occuper de, traiter; a great deal: beaucoup|o;v;n
 hit|frapper; un succès, un tube|v;o
 order|ordre, commandement; ordre, disposition; commander (acheter, demander); in order to: afin de, pour|o;o;v;n
-far|loin; so far: jusqu'ici|o;n
+far|loin; so far: jusqu'ici; as far as: pour autant que, jusqu'à; by far: de loin|o;n;n;n
 mine|le mien, à moi; une mine (de charbon, de métal)|o;o
 interest|intérêt; intéresser; intérêts (sur de l'argent)|o;v;o
 dear|cher (aimé); cher (dans une lettre); oh dear: exprime la consternation|o;o;n
@@ -9440,12 +9440,12 @@ fast|rapide; jeûner|o;v
 cry|pleurer; crier, appeler|v;v
 sort|sorte, type; trier, classer; sort out: régler, résoudre|o;v;n
 black|de la couleur la plus foncée; à la peau noire, d'origine africaine|o;o
-grow|grandir, grossir; cultiver; devenir peu à peu; grow up: devenir adulte|v;v;v;n
+grow|grandir, grossir; cultiver; devenir peu à peu; grow up: devenir adulte; grow into: devenir|v;v;v;n;n
 hang|suspendre, accrocher; pendre (tuer par pendaison); hang out: passer du temps, traîner; hang on: attendre; hang up: raccrocher; hang in there: tenir bon, ne pas lâcher|v;v;n;n;n;n
 white|de la couleur de la neige; à la peau blanche, d'origine européenne|o;o
 secret|caché aux autres; chose tenue cachée|o;o
 cheer|acclamation; encourager; cheer up: reprendre courage, se remonter le moral|o;v;n
-carry|porter, transporter; carry on: continuer|v;n
+carry|porter, transporter; carry on: continuer; carry out: effectuer, exécuter; carry away: s'emballer (got carried away : s'est emballé)|v;n;n;n
 jesus|(exclamation de surprise ou d'agacement); Jésus-Christ, figure centrale du christianisme|g;o
 calm|ni contrarié ni agité; apaiser, calmer; calm down: se calmer|o;v;n
 joke|blague, plaisanterie; plaisanter|o;v
@@ -9459,7 +9459,7 @@ screw|vis; visser; (vulgaire) coucher avec; screw up: gâcher, foirer|o;v;v;n
 ticket|billet, ticket; contravention, P.-V.|o;o
 issue|question, sujet; problème; numéro (d'un magazine); délivrer, émettre|o;o;o;v
 bore|ennuyer; percer, forer; passé de bear (porter)|v;v;o
-account|compte (d'argent); récit, compte rendu; compte (sur un service en ligne); account for: expliquer|o;o;o;n
+account|compte (d'argent); récit, compte rendu; compte (sur un service en ligne); account for: expliquer; into account: en compte|o;o;o;n;n
 rid|get rid of: se débarrasser de; débarrasser de|n;v
 copy|copie, reproduction; copier; exemplaire (d'un livre, d'un journal)|o;v;o
 further|plus loin, davantage; supplémentaire|o;o
@@ -13328,21 +13328,21 @@ later|plus tard, ensuite; plus tard (que), après l'heure prévue; see you later
 least|le moins, la plus petite quantité (the least I can do : le moins que je puisse faire); at least: au moins, au minimum; at least: du moins, en tout cas|o;n;n
 worse|pire, plus mauvais; plus mal (feeling worse : se sentir plus mal)|o;o
 for|pour (destiné à); pendant (une durée); car, parce que; pour, en faveur de; pour, au nom de (travaille pour une banque)|o;o;o;o;o
-so|donc, alors; si, tellement (à ce point); pour que (afin que)|o;o;o
-just|seulement, juste; à l'instant, il y a un instant; tout simplement (pour insister : ça s'est tout simplement arrêté)|o;o;o
+so|donc, alors; si, tellement (à ce point); pour que (afin que); and so on: et ainsi de suite; or so: environ|o;o;o;n;n
+just|seulement, juste; à l'instant, il y a un instant; tout simplement (pour insister : ça s'est tout simplement arrêté); exactement, tout à fait (exactement comme lui); juste, de justesse (juste à temps)|o;o;o;o;o
 one|un, le chiffre 1; celui, celle (le rouge); on, les gens en général; un, un certain (un soir)|o;o;o;o
 see|voir; comprendre; vérifier, voir (voir si)|v;v;v
-look|regarder; regarde! (fais attention); un regard, un coup d'œil; air, expression, allure|v;o;o;o
-back|de retour (là où c'était); dos (du corps); l'arrière, le verso (d'une page, d'une pièce)|o;o;o
+look|regarder; regarde! (fais attention); un regard, un coup d'œil; air, expression, allure; look for: chercher; look after: s'occuper de; look forward to: attendre avec impatience; look up: lever les yeux, chercher (dans un livre, une liste), s'améliorer; look into: regarder dans (regarder dans les yeux), examiner; look out: faire attention, attention !, guetter (look out for), regarder dehors; look like: ressembler à, sembler|v;o;o;o;n;n;n;n;n;n;n
+back|de retour (là où c'était); dos (du corps); l'arrière, le verso (d'une page, d'une pièce); back off: reculer, lâcher prise; en retour (rappeler, riposter); il y a, autrefois (en 2010, il y a des années)|o;o;o;n;o;o
 could|pouvait, a pu; pourriez (demande polie); pourrait (c'est possible)|o;o;o
-point|point, idée; montrer du doigt; intérêt, but; un moment (at that point: à ce moment-là); un point (au score); un endroit, un point (point de rendez-vous)|o;v;o;o;o;o
+point|point, idée; montrer du doigt; intérêt, but; un moment (at that point: à ce moment-là); un point (au score); un endroit, un point (point de rendez-vous); point out: faire remarquer, signaler|o;v;o;o;o;o;n
 clear|clair, facile à comprendre; dégager, débarrasser; transparent, limpide (eau claire)|o;v;o
-fall|tomber; automne; une chute, une baisse (une baisse des prix)|v;o;o
+fall|tomber; automne; une chute, une baisse (une baisse des prix); fall apart: s'effondrer, tomber en morceaux; fall for: tomber amoureux de, se laisser prendre à; fall asleep: s'endormir; fall in love: tomber amoureux; fall behind: prendre du retard|v;o;o;n;n;n;n;n
 support|soutenir, appuyer; soutenir, supporter; soutien, assistance (service d'assistance)|v;v;o
 language|langue; langage, façon de s'exprimer; grossièretés, gros mots|o;o;o
 tight|serré, étroit; juste, avec peu d'argent ou de temps; strict, rigoureux (sécurité stricte)|o;o;o
 bullshit|(vulgaire) conneries, foutaises; (vulgaire) raconter des conneries à, baratiner|o;v
-purpose|but, objectif; on purpose: exprès; détermination, volonté|o;n;o
+purpose|but, objectif; on purpose: exprès; détermination, volonté; for the purpose of: dans le but de|o;n;o;n
 whistle|sifflement, coup de sifflet; siffler; sifflet|o;v;o
 text|texte; SMS, texto; envoyer un SMS|o;o;v
 flag|drapeau; signaler, marquer pour attention|o;v
