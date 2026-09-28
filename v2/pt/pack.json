@@ -1,6 +1,6 @@
 {
   "id": "pt",
-  "version": "1.1.28",
+  "version": "1.1.35",
   "files": {
     "lex": {
       "path": "lex.txt",
@@ -10,7 +10,7 @@
     "gloss.en": {
       "path": "gloss.en.txt",
       "license": "unencumbered",
-      "sha256": "3a00a56f1827f8f0f2578c45de42a2cbfab70c3e42b393ed423ddb9cf08c90f2"
+      "sha256": "989412cd90cbeaa600d188deb2ab5a1a814f91f54121dbd2ac45d83eeaafabac"
     },
     "ranks": {
       "path": "ranks.txt",
@@ -36,6 +36,16 @@
       "path": "phrases.en.txt",
       "license": "unencumbered",
       "sha256": "85cc659d7d5553847c4f225cf490174ba752d076edbe2b488dfb08d9950a5d9f"
+    },
+    "phrases.id": {
+      "path": "phrases.id.txt",
+      "license": "unencumbered",
+      "sha256": "dee33be2229aa9265344e482adf9abcbdf6e432a7fc3e89be1d69293a8d9380f"
+    },
+    "gloss.id": {
+      "path": "gloss.id.txt",
+      "license": "unencumbered",
+      "sha256": "27d17f0b1a7df8e60eadc5c48f71d8fdbbac938ab1e2e5326eda923c23fb2518"
     }
   }
 }
