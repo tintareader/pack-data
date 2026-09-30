@@ -124,7 +124,6 @@ juste|hanya, cuma; adil|o;o
 très|sangat|o
 prendre|mengambil; makan, minum (makanan, minuman)|v;v
 jamais|tidak pernah; pernah|o;o
-été|telah menjadi (partisip lampau être); musim panas|o;o
 aussi|juga|o
 même|sama; bahkan; quand même: tetap saja, bagaimanapun|o;o;n
 vraiment|sungguh, benar-benar|o
@@ -265,7 +264,6 @@ mec|cowok, bung|o
 voiture|mobil|o
 gars|pemuda, cowok|o
 travail|pekerjaan, kerja|o
-tête|kepala; raut muka, muka masam (faire la tête)|o;o
 dû|terpaksa, harus (bentuk lampau); terutang|f3s;o
 fils|putra, anak laki-laki|o
 prêt|siap; pinjaman|o;o
@@ -378,7 +376,6 @@ donné|diberikan|o
 est-il|apakah dia, apakah itu|f3s
 voici|ini dia, inilah|o
 dont|yang, yang ... -nya|o
-garçon|anak laki-laki|o
 sentir|merasa; mencium (bau)|v;v
 important|penting|o
 madame|nyonya, Ibu|o
@@ -445,7 +442,6 @@ confiance|kepercayaan|o
 téléphone|telepon; saya menelepon; dia menelepon|o;f1s;f3s
 journée|hari (sepanjang hari)|o
 apprendre|belajar; mengajar|v;v
-seconde|detik|o
 génial|hebat, luar biasa|o
 film|film|o
 équipe|tim|o
@@ -485,7 +481,6 @@ derrière|di belakang|o
 ben|yah, em|o
 capitaine|kapten|o
 tirer|menembak; menarik|v;v
-foutre|(kasar) melempar, menaruh sembarangan; s'en foutre: (kasar) tidak peduli|v;n
 envie|keinginan, hasrat; avoir envie de: ingin; saya iri; dia iri|o;n;f1s;f3s
 porter|membawa; memakai|v;v
 ordre|perintah, urutan|o
@@ -517,7 +512,6 @@ retour|kepulangan, kembalinya|o
 excusez-moi|permisi, maaf|o
 raconter|menceritakan|v
 sérieux|serius, sungguh-sungguh|o
-laissé|ditinggalkan; dibiarkan, diizinkan|o;o
 ainsi|demikian, dengan cara ini; ainsi que: serta, dan juga|o;n
 ignorer|tidak tahu; mengabaikan|o;v
 autant|sebanyak, sedemikian banyak|o
@@ -552,7 +546,6 @@ dollar|dolar|o
 détester|membenci|v
 sujet|pokok, topik; au sujet de: tentang|o;n
 verre|gelas, kaca|o
-état|keadaan, kondisi|o
 drôle|lucu; drôle de: aneh|o;n
 humain|manusia, manusiawi|o
 descendre|turun; turun (dari kendaraan); menurunkan|v;v;v
@@ -982,7 +975,6 @@ survivre|bertahan hidup|v
 court|pendek; dia berlari|o;f3s
 robe|gaun|o
 membre|anggota|o
-reconnaître|mengenali|v
 méchant|jahat, kejam|o
 directeur|direktur, manajer|o
 diable|setan, iblis|o
@@ -1304,7 +1296,6 @@ gay|gay|o
 beauté|kecantikan, keindahan|o
 retenir|menahan; mengingat|v;v
 contacter|menghubungi|v
-acte|tindakan, perbuatan|o
 taxi|taksi|o
 stop|berhenti, stop|o
 chier|(kasar) berak|v
@@ -1442,8 +1433,6 @@ leçon|pelajaran|o
 faveur|bantuan, kebaikan|o
 poulet|ayam|o
 campagne|pedesaan; kampanye|o;o
-entraîner|melatih; mengakibatkan|v;v
-examen|ujian|o
 regarde-moi|lihat aku!|o
 pause|istirahat, jeda|o
 connaissance|pengetahuan; kenalan|o;o
@@ -1563,7 +1552,6 @@ cri|teriakan, jeritan|o
 fermé|tertutup, ditutup|o
 au-dessus|di atas|o
 succès|keberhasilan, sukses|o
-etre|adalah, menjadi|v
 ranger|merapikan, menyimpan|v
 maire|wali kota|o
 trompe|saya menipu; dia menipu; se tromper: keliru, salah|f1s;f3s;n
@@ -1671,7 +1659,6 @@ insister|bersikeras, mendesak|v
 vote|pemungutan suara|o
 piéger|menjebak|v
 a-t-elle|apakah dia (perempuan) punya; apakah dia (perempuan) sudah|f3s;f3s
-chaîne|rantai; saluran (TV)|o;o
 tombée|jatuh (feminin); à la tombée de la nuit: menjelang malam|o;n
 chargé|dimuati, bermuatan; bertanggung jawab atas|o;o
 conscience|hati nurani; kesadaran|o;o
@@ -1807,7 +1794,6 @@ viser|membidik|v
 inquiet|khawatir|o
 dépenser|membelanjakan, menghabiskan (uang)|v
 dépêche-toi|cepatlah!|o
-crever|membocorkan, meletus; mati|v;v
 amitié|persahabatan|o
 civil|warga sipil; sipil|o;o
 confirmer|mengonfirmasi, memastikan|v
@@ -2257,7 +2243,6 @@ robot|robot|o
 prière|doa; prière de: mohon|o;n
 sensible|peka, sensitif (bukan "bijaksana")|o
 guerrier|pejuang, prajurit|o
-mars|Maret|o
 pilule|pil|o
 effrayé|ketakutan|o
 ordinaire|biasa|o
@@ -2600,7 +2585,6 @@ annulé|dibatalkan|o
 stratégie|strategi|o
 matinée|pagi hari (sebagai rentang waktu)|o
 frigo|kulkas|o
-meme|sama; bahkan|o;o
 défaut|cacat, kekurangan; par défaut: secara bawaan|o;n
 foie|hati (organ)|o
 stylo|pulpen|o
@@ -2735,7 +2719,6 @@ impôt|pajak (penghasilan)|o
 basé|berbasis, berdasar|o
 loué|disewa; dipuji|o;o
 anonyme|anonim|o
-oû|di mana|o
 couronne|mahkota|o
 autrefois|dulu, dahulu kala|o
 attacher|mengikat, melekatkan|v
@@ -2850,7 +2833,6 @@ familier|akrab, familier|o
 brigade|regu, brigade|o
 mordu|digigit|o
 faut-il|haruskah, perlukah|f3s
-homo|gay (bentuk singkat, akrab)|o
 naître|lahir|v
 reporter|menunda; reporter (wartawan)|v;o
 chauffer|memanaskan|v
@@ -2917,10 +2899,8 @@ four|oven|o
 musical|musikal|o
 pardonne-moi|maafkan aku|o
 anneau|cincin, gelang (lingkaran polos)|o
-traîne|saya menyeret; dia menyeret|f1s;f3s
 arrangement|pengaturan, kesepakatan|o
 exagérer|melebih-lebihkan|v
-voeu|keinginan, permohonan|o
 croyez-vous|apakah kalian percaya, apakah Anda percaya (jamak, formal)|f2s2p
 rappelez-vous|ingatlah (jamak, formal)|o
 hélicoptère|helikopter|o
@@ -2988,11 +2968,10 @@ sensé|masuk akal, bijak|o
 détecteur|detektor|o
 héritage|warisan|o
 localiser|menemukan lokasi|v
-ecoute-moi|dengarkan aku|o
 mat|kusam, doff; skakmat|o;o
 inconscient|tidak sadar; nekat|o;o
 affecter|memengaruhi|v
-voile|kerudung (feminin); layar (maskulin)|o;o
+voile|kerudung (maskulin); layar (feminin)|o;o
 assuré|diasuransikan; yakin, percaya diri|o;o
 pige|saya mengerti; dia mengerti|f1s;f3s
 cuire|memasak, memanggang|v
@@ -3018,7 +2997,6 @@ passez-moi|berikan kepada saya (jamak, formal)|o
 profondeur|kedalaman|o
 formulaire|formulir|o
 novembre|November|o
-opéra|opera|o
 combattant|pejuang, petarung|o
 prends-le|ambillah|o
 renverser|menjatuhkan, menumpahkan; membalikkan, menggulingkan|v;v
@@ -3183,7 +3161,6 @@ cinquième|kelima|o
 évènement|peristiwa, acara|o
 levez-vous|berdirilah! (jamak, formal)|o
 déprimé|depresi, murung|o
-ecoutez-moi|dengarkan saya! (jamak, formal)|o
 serrure|kunci, lubang kunci|o
 futé|cerdik, licik|o
 base-ball|bisbol|o
@@ -3284,7 +3261,6 @@ méfier|se méfier: waspada, curiga|n
 convoquer|memanggil|v
 performance|kinerja, penampilan|o
 tabac|tembakau; toko rokok|o;o
-apres|setelah, sesudah|o
 bacon|bacon|o
 pacifique|damai|o
 observation|pengamatan, observasi|o
@@ -3380,7 +3356,6 @@ défilé|parade, arak-arakan; ngarai|o;o
 inscrire|mencatat, menulis; mendaftarkan|v;v
 largué|dicampakkan|o
 psychologique|psikologis|o
-peut-etre|mungkin, barangkali|o
 relevé|diangkat, dipungut; catatan, pembacaan|o;o
 précaution|tindakan pencegahan|o
 piqûre|suntikan, sengatan|o
@@ -3450,7 +3425,6 @@ sentez-vous|apakah kalian merasa, apakah Anda merasa (jamak, formal)|f2s2p
 solo|solo|o
 gène|gen|o
 ressort|pegas; dia keluar lagi|o;f3s
-traînée|jejak; pelacur (kasar)|o;o
 vertu|kebajikan|o
 phénomène|fenomena|o
 chantage|pemerasan|o
@@ -3551,8 +3525,6 @@ frein|rem|o
 calibre|kaliber|o
 paperasse|urusan berkas, dokumen|o
 rentrant|pulang, sambil pulang|o
-aprés|setelah, sesudah|o
-jouir|menikmati; mencapai orgasme|v;v
 municipal|kota, munisipal|o
 institut|institut, lembaga|o
 temporel|waktu, temporal|o
@@ -3565,7 +3537,6 @@ emplacement|lokasi, tempat|o
 fine|halus, tipis (feminin)|o
 berger|gembala|o
 chips|keripik kentang|o
-rappelle-moi|ingatkan aku!|o
 atterrissage|pendaratan|o
 édition|edisi, penerbitan|o
 hache|kapak|o
@@ -3999,7 +3970,6 @@ sniper|penembak jitu|o
 bonus|bonus, tambahan|o
 préservatif|kondom (bukan "pengawet")|o
 accrochez-vous|bertahanlah! (jamak, formal)|o
-ete|pernah menjadi (partisip lampau être); musim panas|o;o
 fosse|lubang|o
 révolutionnaire|revolusioner|o
 assigner|menugaskan|v
@@ -4205,7 +4175,7 @@ noyé|tenggelam|o
 sacrifié|dikorbankan|o
 citation|kutipan|o
 éclaircir|menjernihkan, menjelaskan|v
-négro|kata hinaan rasial untuk orang kulit hitam (sangat kasar)|o
+négro|hinaan rasis untuk orang kulit hitam|o
 coudre|menjahit|v
 mére|ibu|o
 débris|puing-puing|o
@@ -4268,7 +4238,6 @@ arche|lengkungan|o
 héro|pahlawan|o
 tuez-le|bunuh dia! (jamak, formal)|o
 parallèle|sejajar, paralel|o
-tete|kepala|o
 diplomatique|diplomatik|o
 jeep|jip|o
 spectaculaire|spektakuler, menakjubkan|o
@@ -4541,7 +4510,6 @@ rangé|dirapikan|o
 utérus|rahim|o
 colon|pemukim, kolonis|o
 croyable|dapat dipercaya|o
-maitre|tuan, guru|o
 contrebande|penyelundupan|o
 stabiliser|menstabilkan|v
 dôme|kubah|o
@@ -4559,7 +4527,6 @@ grincheux|pemarah, suka menggerutu|o
 porte-bonheur|jimat keberuntungan|o
 baisse-toi|merunduklah!|o
 feriez-vous|apakah kalian akan melakukan?, apakah Anda akan melakukan? (jamak, formal)|f2s2p
-gitan|gipsi|o
 limonade|limun|o
 bourgeois|kelas menengah|o
 farine|tepung|o
@@ -4741,7 +4708,6 @@ smoking|jas malam, tuksedo|o
 provisoire|sementara|o
 mâcher|mengunyah|v
 contusion|memar|o
-general|umum, jenderal|o
 imprévu|tak terduga|o
 emballage|kemasan|o
 emprunt|pinjaman|o
@@ -4849,7 +4815,6 @@ maximal|maksimal (kata sifat)|o
 pourrions-nous|bisakah kami?, bisakah kita?|f1p
 trouvez-moi|carikan aku! (jamak, formal)|o
 absorber|menyerap|v
-parceque|karena|o
 procédé|proses, metode (teknik)|o
 abdomen|perut, abdomen|o
 lancée|momentum, dorongan|o
@@ -4886,7 +4851,6 @@ comète|komet|o
 conservateur|konservatif; kurator|o;o
 néant|kehampaan|o
 colombe|merpati|o
-complétement|sepenuhnya|o
 croûte|kerak|o
 embarras|rasa malu; kesulitan|o;o
 ferais-tu|apakah kamu akan melakukan? (tunggal)|f2s2p
@@ -4978,7 +4942,6 @@ agacer|menjengkelkan|v
 aveugler|membutakan|v
 épatant|hebat, luar biasa (kuno)|o
 milliardaire|miliarder|o
-la-bas|di sana|o
 mépriser|meremehkan, membenci|v
 coffrer|menjebloskan ke penjara (informal)|v
 cowboy|koboi|o
@@ -5221,7 +5184,6 @@ divisé|terbagi|o
 confrontation|konfrontasi|o
 houillère|tambang batu bara|o
 adéquat|memadai, sesuai|o
-bohémien|Bohemia; gipsi, pengembara|o;o
 exportateur|eksportir (kata benda); pengekspor|o;o
 chaussée|badan jalan, permukaan jalan|o
 planétaire|planet; global|o;o
@@ -6090,7 +6052,6 @@ allégation|tuduhan, dakwaan|o
 attractif|menarik (harga, suku bunga); tarik (gaya)|o;o
 bactérien|bakteri (kata sifat)|o
 consultatif|penasihat, konsultatif|o
-elliptique|elips, eliptis|o
 interrupteur|sakelar|o
 marqueur|penanda, spidol|o
 pictural|bergambar, lukisan (kata sifat)|o
@@ -6401,7 +6362,6 @@ biocarburant|bahan bakar nabati|o
 blocage|pemblokiran, pembekuan; hambatan mental|o;o
 boréal|utara, boreal|o
 bravement|dengan berani|o
-brulé|terbakar, hangus|o
 confronter|menghadapi, mengonfrontasi; membandingkan|v;v
 cumuler|mengumpulkan, menimbun; merangkap (jabatan)|v;v
 dissiper|menghilangkan, menghalau; menghambur-hamburkan|v;v
@@ -6481,7 +6441,6 @@ déverser|menuangkan, membuang|v
 ecartez|kalian menyingkir, merenggangkan (vous); minggir!|f2s2p;o
 fendu|terbelah, retak|o
 friction|gesekan|o
-gout|rasa|o
 grêle|hujan es (kata benda, feminin); ramping, kurus (kata sifat)|o;o
 huissier|juru sita; penjaga pintu, pengantar tamu|o;o
 inondé|kebanjiran|o
@@ -6518,7 +6477,6 @@ témoignage|kesaksian|o
 chevalier|ksatria|o
 psy|psikiater, psikolog|o
 roue|roda|o
-etat|negara; keadaan, kondisi|o;o
 mondial|dunia, global|o
 empoisonner|meracuni|v
 international|internasional|o
@@ -6529,7 +6487,6 @@ race|ras; jenis, keturunan (hewan)|o;o
 attitude|sikap|o
 autorisation|izin, otorisasi (formal, tertulis)|o
 élection|pemilihan umum, pemilu|o
-dealer|pengedar (narkoba)|o
 golf|golf|o
 empereur|kaisar|o
 aube|fajar|o
@@ -6782,7 +6739,6 @@ disposer|mengatur, menata; disposer de: memiliki|v;n
 rein|ginjal|o
 effondrer|s'effondrer: runtuh, ambruk|n
 résolu|terpecahkan; bertekad|o;o
-pédé|homo (kasar, menghina)|o
 pétrole|minyak bumi|o
 enveloppe|amplop|o
 traduire|menerjemahkan|v
@@ -6847,7 +6803,6 @@ morale|moral; pesan moral|o;o
 infection|infeksi|o
 rejeter|menolak|v
 baseball|bisbol|o
-nègre|negro (kasar, menghina)|o
 défier|menantang|v
 poker|poker|o
 dé|dadu|o
@@ -7086,7 +7041,6 @@ réduit|dikurangi|o
 louche|mencurigakan|o
 balader|se balader: berjalan-jalan|n
 procéder|melanjutkan, melakukan|v
-mettez-vous|tempatkan diri kalian, tempatkan diri Anda (jamak, formal)|o
 époux|suami, pasangan|o
 exposition|pameran|o
 mou|lembek, lunglai|o
@@ -7431,7 +7385,6 @@ vaincu|dikalahkan|o
 centimètre|sentimeter|o
 vestiaire|ruang ganti|o
 chiotte|kakus, WC|o
-vœu|harapan, permohonan|o
 mécanique|mekanis|o
 débutant|pemula|o
 ski|ski|o
@@ -7522,7 +7475,6 @@ biper|memanggil lewat pager|v
 hilarant|sangat lucu|o
 promu|dipromosikan, naik jabatan|o
 drôlement|sungguh, benar-benar|o
-faculté|kemampuan, fakultas|o
 métaphore|metafora|o
 terrorisme|terorisme|o
 prédateur|predator, pemangsa|o
@@ -7551,7 +7503,6 @@ prescrire|meresepkan|v
 accidentellement|secara tidak sengaja|o
 était-elle|apakah dia (perempuan) (bentuk lampau)|f3s
 naviguer|berlayar; menjelajah (internet)|v;v
-séminaire|seminar|o
 imprévisible|tidak terduga|o
 squelette|kerangka|o
 convenu|disepakati|o
@@ -7578,7 +7529,6 @@ accessoire|aksesori; properti panggung|o;o
 redevable|berutang budi|o
 chapelle|kapel|o
 trancher|mengiris; memutuskan|v;v
-tapette|pemukul lalat; banci (hinaan)|o;o
 ciné|bioskop (bentuk pendek, akrab)|o
 séparé|terpisah|o
 short|celana pendek|o
@@ -7874,7 +7824,6 @@ volcan|gunung berapi|o
 brisée|patah, pecah (feminin)|o
 forteresse|benteng|o
 tentation|godaan|o
-cartouche|selongsong peluru, kartrid|o
 mentor|mentor|o
 moniteur|monitor; instruktur|o;o
 pyramide|piramida|o
@@ -8044,7 +7993,6 @@ financement|pendanaan|o
 heure-ci|à cette heure-ci: pada jam segini|n
 rayé|bergaris-garis; dicoret|o;o
 superviseur|pengawas, supervisor|o
-assoir|mendudukkan, duduk|v
 défensive|defensif (feminin); sur la défensive: bersikap defensif|o;n
 psychotique|psikotik|o
 anticiper|mengantisipasi|v
@@ -8625,7 +8573,6 @@ nominer|menominasikan|v
 simultanément|secara bersamaan|o
 affaibli|melemah|o
 contrainte|kendala, paksaan|o
-fraction|pecahan, bagian|o
 instance|otoritas, badan; proses hukum|o;o
 photographique|fotografi|o
 dérober|mencuri; se dérober: mengelak, menghindar|v;n
@@ -8934,7 +8881,6 @@ haïtien|Haiti (kata sifat)|o
 impunité|impunitas, kekebalan hukum|o
 simplicité|kesederhanaan|o
 accoster|menegur, menghampiri (orang); merapat, berlabuh|v;v
-administrer|mengelola, menjalankan|v
 adoucir|melunakkan, menenangkan|v
 adroitement|dengan terampil, dengan cekatan|o
 agenouiller|berlutut (s'agenouiller)|v
@@ -9166,7 +9112,6 @@ optimal|optimal|o
 pertinence|relevansi, ketepatan|o
 plaisant|menyenangkan; lucu|o;o
 protectorat|protektorat|o
-renflouer|menalangi, mengapungkan kembali|v
 roulement|gemuruh, gulungan; rotasi, pergiliran|o;o
 russo|Rusia- (awalan)|o
 réécrire|menulis ulang|v
@@ -9431,7 +9376,6 @@ esquisse|sketsa, garis besar|o
 incliner|memiringkan; (s'incliner) membungkuk; menyerah|v;v;v
 ion|ion|o
 mythique|mitos, mitis; legendaris, ikonik|o;o
-patriarche|patriark, bapa bangsa|o
 poliomyélite|polio|o
 prolongé|berkepanjangan, diperpanjang|o
 technocratique|teknokratis|o
@@ -9498,7 +9442,6 @@ vigoureux|kuat, bertenaga|o
 émancipation|emansipasi|o
 coder|mengode|v
 efficience|efisiensi|o
-entrainer|menyebabkan, mengakibatkan; melatih; menyeret|v;v;v
 hippocampe|kuda laut; hipokampus|o;o
 hospice|panti jompo, rumah perawatan|o
 interlocuteur|lawan bicara; mitra (dalam perundingan)|o;o
@@ -9837,7 +9780,6 @@ campagnard|pedesaan, bersifat desa; orang desa (kata benda)|o;o
 chancelant|terhuyung-huyung, goyah; melemah|o;o
 chanceler|terhuyung-huyung, sempoyongan|v
 chenille|ulat; rantai roda (tank)|o;o
-choeur|paduan suara; kor|o;o
 coiffe|tutup kepala, kerudung|o
 conforter|memperkuat, meneguhkan|v
 destitution|pemberhentian dari jabatan, pemecatan|o
@@ -9865,7 +9807,6 @@ lobbying|lobi, pelobian|o
 légèreté|keringanan; kesembronoan|o;o
 madrilène|dari Madrid, orang Madrid|o
 meublé|berperabot; apartemen berperabot (kata benda)|o;o
-moeurs|adat istiadat, kebiasaan; moral, akhlak|o;o
 mouvoir|menggerakkan, mendorong; se mouvoir: bergerak|v;n
 mécaniser|memekanisasi, memesinkan|v
 natalité|angka kelahiran|o
@@ -9931,7 +9872,6 @@ convocation|panggilan, surat undangan hadir|o
 croquis|sketsa|o
 délocaliser|merelokasi, memindahkan ke luar negeri|v
 fissure|retakan, celah|o
-garcon|anak laki-laki; pelayan|o;o
 géo|geografi (akrab, mata pelajaran)|o
 hypertension|tekanan darah tinggi, hipertensi|o
 impérialiste|imperialis|o
@@ -9965,7 +9905,6 @@ coulant|mengalir, lancar; santai, tidak rewel|o;o
 dédicace|persembahan, dedikasi; sesi tanda tangan buku|o;o
 démence|demensia; kegilaan|o;o
 eucalyptus|kayu putih, eukaliptus|o
-facon|cara|o
 fiabilité|keandalan|o
 fuyant|surut ke belakang; mengelak, licik; melarikan diri|o;o;o
 grelotter|menggigil|v
@@ -10630,7 +10569,6 @@ sauvegarder|melindungi; menyimpan (berkas)|v;v
 sommaire|singkat, ringkas; daftar isi|o;o
 subprimes|kredit subprima|o
 superstar|bintang besar, superstar|o
-tot|awal, pagi-pagi|o
 trésorier|bendahara|o
 tyrannie|tirani, kezaliman|o
 unilatéralisme|unilateralisme|o
@@ -11080,7 +11018,6 @@ pénétration|penetrasi, penembusan|o
 roquette|roket (misil); arugula, rokét (sayuran)|o;o
 tapir|tapir (kata benda); se tapir: meringkuk, bersembunyi|o;n
 traders|pedagang (keuangan), trader|o
-traine|dia menyeret, dia berkeliaran; ekor gaun (kata benda); à la traine: tertinggal|f3s;o;n
 abrogation|pencabutan, pembatalan|o
 affiner|memurnikan, menyempurnakan; mengasah|v;v
 alignement|penjajaran, keselarasan; barisan, deretan|o;o
@@ -11296,7 +11233,6 @@ patin|sepatu luncur; rouler un patin: berciuman dengan lidah (akrab)|o;n
 pernicieux|merusak, berbahaya|o
 philologue|ahli filologi|o
 prémunir|melindungi, menjaga (biasanya se prémunir contre)|v
-reconnaitre|mengenali; mengakui|v;v
 renégociation|negosiasi ulang|o
 romanesque|bersifat novel, fiktif; romantis, penuh khayalan|o;o
 rupestre|gua, cadas (seni, lukisan); tumbuh di batu (tumbuhan)|o;o
@@ -11329,7 +11265,6 @@ costard|jas (akrab, = costume)|o
 dialoguer|berbincang, berdialog|v
 dogme|dogma|o
 décomposition|pembusukan, penguraian; perincian|o;o
-déduction|deduksi, potongan|o
 dérailler|anjlok, keluar rel; bicara ngawur (akrab)|v;v
 facette|segi, faset|o
 façonné|dibentuk|o
@@ -11529,7 +11464,6 @@ cholestérol|kolesterol|o
 chœurs|paduan suara; korus|o;o
 conceptuel|konseptual|o
 consortium|konsorsium|o
-disparaitre|menghilang, lenyap|v
 divertir|menghibur|v
 dénombrer|menghitung, mencacah|v
 déstabilisateur|mengganggu kestabilan|o
@@ -11615,7 +11549,6 @@ francilien|dari wilayah Paris (Île-de-France)|o
 fraîchir|menjadi sejuk, mendingin|v
 fébrile|demam; gelisah, gugup|o;o
 férié|libur (kata sifat); jour férié: hari libur nasional|o;n
-galvaniser|menggalvanisasi, membangkitkan semangat|v
 gastronomie|gastronomi, seni kuliner|o
 gréement|tali-temali kapal|o
 géostratégique|geostrategis|o
@@ -12250,7 +12183,6 @@ climatisation|pendingin udara, AC|o
 clouer|memaku; menahan, menjepit; clouer le bec: membungkam (seseorang)|v;v;n
 commodité|kemudahan; fasilitas|o;o
 comparativement|secara komparatif|o
-conjonction|kata sambung, konjungsi|o
 consciencieusement|dengan saksama|o
 contrebas|en contrebas: di bawah, lebih rendah|n
 coquetterie|kegenitan; kesombongan, kepedulian akan penampilan|o;o
@@ -12510,7 +12442,6 @@ rétrospectivement|jika dilihat ke belakang, secara retrospektif|o
 réunifier|menyatukan kembali|v
 salin|asin, bergaram|o
 similarité|kemiripan (teknis)|o
-spéculer|berspekulasi|v
 sécréter|mengeluarkan, menyekresi|v
 terminologie|terminologi, peristilahan|o
 toxicomane|pecandu narkoba|o
@@ -12642,7 +12573,6 @@ verticalement|secara vertikal|o
 épitaphe|batu nisan bertulis, epitaf|o
 étoilé|berbintang, bertabur bintang|o
 étui|kotak, sarung (untuk kacamata, dll.)|o
-absenter|pergi, tidak hadir|v
 accalmie|masa tenang, jeda|o
 alcôve|ceruk, relung|o
 amicalement|dengan ramah; salam hangat (penutup surat)|o;o
@@ -13276,7 +13206,6 @@ courtiser|merayu, meminang|v
 hibou|burung hantu|o
 rosier|semak mawar|o
 récrimination|tuduhan balik, keluhan|o
-appendice|lampiran, apendiks|o
 contremaître|mandor|o
 coulée|aliran (lahar); pengecoran|o;o
 distancer|mendahului, meninggalkan di belakang|v
@@ -13548,7 +13477,6 @@ minaret|menara masjid|o
 miroiter|berkilauan, gemerlap; faire miroiter: mengiming-imingi|v;n
 mitraille|peluru gotri; hujan peluru|o;o
 moite|lembap, lengket|o
-mulâtre|blasteran|o
 munir|melengkapi, membekali (dengan)|v
 méchamment|dengan jahat, dengan dengki|o
 noisette|kacang hazel; cokelat hazel (warna)|o;o
@@ -13597,3 +13525,75 @@ qualificatif|kualifikatif, yang menerangkan; kata penjelas (kata benda)|o;o
 quatorzième|keempat belas|o
 torride|terik, panas membakar|o
 haine|kebencian|o
+été|telah menjadi, pernah (partisip lampau être: j'ai été); musim panas|o;o
+garçon|anak laki-laki; pelayan (garçon de café)|o;o
+seconde|detik; kedua (bentuk f.)|o;o
+foutre|melakukan, berbuat (kasar: qu'est-ce que tu fous?); menaruh, menjejalkan, melempar (kasar); s'en foutre: masa bodoh, sama sekali tidak peduli (kasar)|v;v;n
+laissé|ditinggalkan, tertinggal; dibiarkan (il m'a laissé partir)|o;o
+reconnaître|mengenali; mengakui|v;v
+acte|tindakan, perbuatan; babak (dalam drama); akta, surat resmi (dokumen hukum: acte de naissance)|o;o;o
+entraîner|melatih; mengakibatkan, menyebabkan; menyeret, membawa serta|v;v;v
+examen|ujian; pemeriksaan (medis); peninjauan, penelaahan (atas perkara, rancangan undang-undang)|o;o;o
+chaîne|rantai; saluran (TV)|o;o
+crever|membocorkan, meletuskan; mati, mampus (akrab)|v;v
+mars|Maret; Mars (planet)|o;o
+dealer|pengedar narkoba|o
+meme|sama; bahkan; quand meme: tetap saja, bagaimanapun|o;o;n
+homo|gay, homoseksual (bentuk singkat, akrab; sering merendahkan)|o
+pédé|sebutan menghina untuk laki-laki gay|o
+nègre|sebutan rasis dan menghina untuk orang kulit hitam; penulis bayangan (kuno, kini dihindari karena menghina); petit nègre: bahasa Prancis patah-patah, pijin (menghina)|o;o;n
+mettez-vous|duduklah, berdirilah, tempatkan diri (jamak, formal: mettez-vous là, mettez-vous à l'aise); mulailah (mettez-vous au travail)|o;o
+opéra|opera; gedung opera|o;o
+apres|sesudah, setelah; d'apres: menurut|o;n
+rappelle-moi|ingatkan aku; telepon aku balik|o;o
+faculté|fakultas (universitas), universitas; kemampuan, daya|o;o
+séminaire|seminar; seminari (tempat pendidikan calon imam)|o;o
+tapette|pemukul lalat; sebutan menghina untuk laki-laki gay|o;o
+cartouche|peluru, selongsong peluru (amunisi); kartrid, isi ulang (tinta, gas); slop (rokok)|o;o;o
+maitre|tuan, majikan; nyonya, guru (feminin)|o;o
+gitan|orang Roma, orang Romani (terutama di Spanyol dan Prancis selatan)|o
+general|umum; en general: biasanya, umumnya|o;n
+parceque|karena (parce que)|o
+la-bas|di sana, jauh di sana|o
+bohémien|orang Bohemia (dari Bohemia; berjiwa seni, hidup bebas); orang Roma, orang Romani, pengembara (kuno)|o;o
+fraction|pecahan (matematika); sebagian, bagian (une fraction de la population)|o;o
+administrer|mengelola, menjalankan (usaha, negara); memberikan (obat, sakramen)|v;v
+renflouer|menalangi, menyuntikkan dana (keuangan); mengapungkan kembali (kapal)|v;v
+elliptique|lonjong, berbentuk elips; eliptis, tersirat (dalam ujaran)|o;o
+patriarche|patriark, bapa bangsa (kepala keluarga, suku); Patriark (pemimpin gereja Ortodoks atau gereja Timur)|o;o
+entrainer|melatih; mengakibatkan, menyebabkan; menyeret, membawa serta|v;v;v
+choeur|paduan suara, kor; ruang paduan suara (di gereja)|o;o
+garcon|anak laki-laki; pelayan (garçon de café)|o;o
+facon|cara; de toute facon: bagaimanapun juga|o;n
+reconnaitre|mengenali; mengakui|v;v
+déduction|deduksi, kesimpulan (penalaran); potongan (dari jumlah, pajak)|o;o
+galvaniser|membangkitkan semangat (massa, tim); menggalvanisasi, melapisi seng (logam)|v;v
+conjonction|kata sambung, konjungsi (tata bahasa); pertemuan, gabungan (peristiwa, planet)|o;o
+spéculer|berspekulasi (di pasar); menduga-duga, berspekulasi|v;v
+absenter|s'absenter: pergi sebentar, tidak hadir|n
+appendice|lampiran (buku); usus buntu, apendiks (anatomi)|o;o
+mulâtre|sebutan kuno dan menghina untuk orang berdarah campuran kulit hitam dan kulit putih|o
+etre|adalah, menjadi, berada|v
+oû|di mana, ke mana|o
+ecoute-moi|dengarkan aku!|o
+ecoutez-moi|dengarkan saya (jamak, formal)|o
+peut-etre|mungkin|o
+aprés|sesudah, setelah; d'aprés: menurut|o;n
+ete|telah menjadi, pernah (partisip lampau être: j'ai été); musim panas|o;o
+complétement|sepenuhnya, sama sekali|o
+assoir|s'assoir: duduk|n
+brulé|terbakar, gosong|o
+gout|rasa, selera|o
+moeurs|adat, kebiasaan; moral, akhlak|o;o
+tot|pagi-pagi, awal|o
+disparaitre|menghilang|v
+tête|kepala; raut muka (quelle tête !); faire la tête: merajuk, cemberut|o;o;n
+état|keadaan, kondisi; negara, pemerintah (l'État)|o;o
+etat|keadaan, kondisi; negara, pemerintah (l'État)|o;o
+traîne|saya menyeret, saya berkeliaran; dia menyeret, dia berkeliaran; ekor gaun (kata benda f.); à la traîne: tertinggal|f1s;f3s;o;n
+voeu|harapan, permohonan; kaul, sumpah|o;o
+traînée|jejak, bekas garis; perempuan jalang, perempuan murahan (kasar, menghina)|o;o
+jouir|menikmati (jouir de); mencapai orgasme, klimaks (akrab)|v;v
+vœu|harapan, permohonan; kaul, sumpah|o;o
+tete|kepala; raut muka (quelle tête !); faire la tete: merajuk, cemberut|o;o;n
+traine|saya menyeret, saya berkeliaran; dia menyeret, dia berkeliaran; ekor gaun (kata benda f.); à la traine: tertinggal|f1s;f3s;o;n

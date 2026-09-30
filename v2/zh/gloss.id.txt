@@ -5860,7 +5860,7 @@
 分成|membagi menjadi|v
 坠入|jatuh ke dalam|v
 妄想|delusi; berkhayal|o;v
-娘娘腔|banci, kemayu|o
+娘娘腔|laki-laki yang keperempuanan (merendahkan)|o
 乡|pedesaan; kampung halaman|o;o
 循环|siklus; beredar|o;v
 我国|negara kita|o
@@ -6299,7 +6299,7 @@
 闪耀|berkilauan|v
 骨折|patah tulang; mengalami patah tulang|o;v
 最低|terendah, minimum|o
-基佬|homo (slang, merendahkan)|o
+基佬|pria gay (slang, merendahkan)|o
 扭|memelintir, terkilir; bergoyang|v;v
 擅自|tanpa izin, seenaknya|o
 示范|memperagakan; peragaan|v;o
@@ -12286,7 +12286,7 @@
 顶端|puncak|o
 高傲|angkuh|o
 鼓起|mengumpulkan (keberanian); menggembung|v;v
-人妖|waria; siluman berwujud manusia|o;o
+人妖|perempuan trans (merendahkan); siluman berwujud manusia|o;o
 前世|kehidupan sebelumnya|o
 口子|luka sayat, celah; suami atau istri|o;o
 古朴|sederhana dan kuno|o
