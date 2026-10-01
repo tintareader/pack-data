@@ -7,7 +7,7 @@ correction ships as a file rather than as a new build of the app.
 | --- | --- | --- |
 | ar | 1.0.52 | `v2/ar/` |
 | de | 1.0.58 | `v2/de/` |
-| en | 1.0.151 | `v2/en/` |
+| en | 1.0.161 | `v2/en/` |
 | es | 1.1.80 | `v2/es/` |
 | fr | 1.1.69 | `v2/fr/` |
 | id | 1.1.97 | `v2/id/` |
