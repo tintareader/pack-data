@@ -6,7 +6,7 @@ correction ships as a file rather than as a new build of the app.
 | pack | version | path |
 | --- | --- | --- |
 | ar | 1.0.52 | `v2/ar/` |
-| de | 1.0.95 | `v2/de/` |
+| de | 1.0.101 | `v2/de/` |
 | en | 1.0.161 | `v2/en/` |
 | es | 1.1.80 | `v2/es/` |
 | fr | 1.1.69 | `v2/fr/` |
