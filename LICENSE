@@ -7,6 +7,8 @@ of each, and why files under incompatible licences are never merged.
 
   ranks.txt      CC BY-SA 4.0   https://creativecommons.org/licenses/by-sa/4.0/
   readings.txt   CC BY-SA 4.0   (Mandarin only; derived from CC-CEDICT)
+  radicals.txt   Unicode License v3   (Mandarin only; derived from Unihan)
+  letters*.txt   all rights reserved
   lemmas.txt     ODbL 1.0       https://opendatacommons.org/licenses/odbl/1-0/
   lex.txt        all rights reserved
   gloss.*.txt    all rights reserved

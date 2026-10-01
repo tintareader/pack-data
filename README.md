@@ -5,14 +5,14 @@ correction ships as a file rather than as a new build of the app.
 
 | pack | version | path |
 | --- | --- | --- |
-| ar | 1.0.45 | `v2/ar/` |
-| de | 1.0.46 | `v2/de/` |
-| en | 1.0.147 | `v2/en/` |
-| es | 1.1.76 | `v2/es/` |
-| fr | 1.1.64 | `v2/fr/` |
-| id | 1.1.93 | `v2/id/` |
-| pt | 1.1.51 | `v2/pt/` |
-| zh | 1.1.97 | `v2/zh/` |
+| ar | 1.0.50 | `v2/ar/` |
+| de | 1.0.48 | `v2/de/` |
+| en | 1.0.150 | `v2/en/` |
+| es | 1.1.79 | `v2/es/` |
+| fr | 1.1.68 | `v2/fr/` |
+| id | 1.1.96 | `v2/id/` |
+| pt | 1.1.54 | `v2/pt/` |
+| zh | 1.1.100 | `v2/zh/` |
 
 Each pack is a directory of plain text plus a `pack.json` naming every file
 with its licence and its SHA-256. The licences differ file by file — glosses are
