@@ -12,7 +12,7 @@ correction ships as a file rather than as a new build of the app.
 | fr | 1.1.69 | `v2/fr/` |
 | id | 1.1.97 | `v2/id/` |
 | pt | 1.1.55 | `v2/pt/` |
-| zh | 1.1.102 | `v2/zh/` |
+| zh | 1.1.103 | `v2/zh/` |
 
 Each pack is a directory of plain text plus a `pack.json` naming every file
 with its licence and its SHA-256. The licences differ file by file — glosses are
