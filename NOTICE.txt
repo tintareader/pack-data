@@ -1,0 +1,293 @@
+NOTICE
+======
+
+This application bundles word-frequency, lemmatisation and pronunciation data
+derived from third-party sources. Those data files carry share-alike licences;
+the application code does not.
+
+These upstream sources do not all use the same licence and two of them are
+mutually incompatible, so their derivatives are kept in separate files.
+Each data file below carries the licence of the source or sources it derives
+from, and files under incompatible licences are never merged.
+
+The data ships as language packs — plain text files under app/public/packs/,
+one directory per language, fetched by the application at runtime rather than
+compiled into it. Each pack's pack.json names its files and states the licence
+of each, and each file repeats its attribution in a `#` header so that the
+licence travels with the file if it is redistributed on its own.
+
+
+1. Frequency and band data — CC BY-SA 4.0
+-----------------------------------------
+
+Files:  app/public/packs/*/ranks.txt
+
+Derived from:
+  hermitdave/FrequencyWords — https://github.com/hermitdave/FrequencyWords
+  Word frequency lists compiled from OpenSubtitles subtitle corpora.
+  Licensed under Creative Commons Attribution-ShareAlike 4.0 International
+  (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/
+
+  Underlying corpus: OpenSubtitles — https://www.opensubtitles.org/
+
+The English pack's ranks draw on one further measurement of the same underlying
+corpus, in app/tools/dictgen/corrections/en.contractions.txt:
+
+  OPUS OpenSubtitles v2018 — https://opus.nlpl.eu/OpenSubtitles-v2018.php
+  P. Lison and J. Tiedemann (2016), "OpenSubtitles2016: Extracting Large
+  Parallel Corpora from Movie and TV Subtitles", LREC 2016.
+
+hermitdave's tokeniser splits on the apostrophe, so its lists have no row for
+`it's` or `I'm` — only for `it`, `I` and `'s`. Contraction counts were therefore
+measured directly from OPUS's raw text and are used to divide each clitic's
+existing count among the words that make it up. What is stored is the counts, a
+measurement of a freely redistributable corpus, and they are combined with a
+CC BY-SA source; the resulting file stays CC BY-SA 4.0 with both credited.
+
+The Arabic pack's ranks also derive from the source in section 3a, which
+decided which spellings count towards which word; both are CC BY-SA 4.0, so
+the two are compatible and may share a file, and its header credits both.
+
+These files are themselves licensed CC BY-SA 4.0.
+
+The frequency band shown for a word is a bucketed corpus rank, and so is
+derived from this source — but it is computed from ranks.txt when a pack is
+loaded rather than stored in dict.txt. That keeps this licence inside the file
+it belongs to instead of reaching across the glosses, which are not derived
+from it. Where dict.txt still states a band, the word has no corpus rank and
+the band is a judgement rather than a derivative.
+
+This applies to every pack, the Indonesian one (app/public/packs/id/) included.
+Its bands were derived from this same source before this NOTICE existed and were
+previously unattributed; this file corrects that. It reached the repository by a
+different route from the rest — written by hand, not generated — but tools/dictgen
+now emits it too, from its own files rather than from a re-fetched list.
+
+
+2. Lemmatisation data — ODbL 1.0
+--------------------------------
+
+Files:  app/public/packs/*/lemmas.txt, except the Arabic pack's (section 3a)
+
+Derived from:
+  michmech/lemmatization-lists —
+    https://github.com/michmech/lemmatization-lists
+  Lemma/token pairs collected from Hunspell dictionaries and related sources.
+  Licensed under the Open Database License (ODbL) v1.0 —
+  https://opendatacommons.org/licenses/odbl/1-0/
+
+These files are themselves licensed ODbL 1.0.
+
+
+3a. Lemmatisation data, Arabic — CC BY-SA 4.0
+---------------------------------------------
+
+Files:  app/public/packs/ar/lemmas.txt
+
+Derived from:
+  English Wiktionary — https://en.wiktionary.org/
+  via the kaikki.org machine-readable extract —
+    https://kaikki.org/dictionary/Arabic/
+  T. Ylonen (2022), "Wiktextract: Wiktionary as Machine-Readable Structured
+  Data", LREC 2022.
+  Licensed under Creative Commons Attribution-ShareAlike 4.0 International
+  (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/
+and from the source in section 1, for which forms the corpus uses.
+
+This file is itself licensed CC BY-SA 4.0. Only Wiktionary's headwords and the
+inflected forms in its tables are used, with its diacritics removed; none of
+its definitions are. It is kept separate from ranks.txt, which carries its own
+attribution, and never shares a file with the ODbL lemma lists of section 2 or
+with the glosses of section 4.
+
+The hand decisions in app/tools/dictgen/corrections/ar.lemmas.txt are this
+project's own work.
+
+Pronunciation data, Arabic — CC BY-SA 4.0
+
+Files:  app/public/packs/ar/readings.txt
+
+Derived from the same Wiktionary extract, CC BY-SA 4.0: each headword written
+with its short vowels, as Wiktionary's canonical form gives it, one per
+headword, chosen by scoring against this project's own glosses. Its
+definitions are used only for that choice and are not shipped. This file is
+itself licensed CC BY-SA 4.0, and is kept apart from lemmas.txt, which carries
+its own attribution, and from the glosses of section 4. The readings in
+app/tools/dictgen/corrections/ar.readings.txt, for words Wiktionary has no
+vowelled entry for, are this project's own work, and are shipped in the same
+file under the same licence.
+
+Word selection, Arabic — counted from the Tanzil Quran text, not shipped
+
+Which words of the Quran the Arabic pack has an entry for was decided by
+counting them in:
+
+  Tanzil Quran Text (Simple Clean, Version 1.1)
+  Copyright (C) 2007-2026 Tanzil Project — https://tanzil.net/
+  Licensed under Creative Commons Attribution 3.0
+
+The text is read at build time, verbatim and with its copyright block, only to
+count how often each word occurs; no part of it is modified, stored in this
+repository or shipped in any pack. The counts are recorded beside each word
+in app/tools/dictgen/adopted/ar.tsv. The glosses those words received are
+section 4's, generated from the word list alone.
+
+
+3. Pronunciation and spelling data, Mandarin — CC BY-SA 4.0
+-----------------------------------------------------------
+
+Files:  app/public/packs/zh/readings.txt
+        app/public/packs/zh/variants.txt
+
+Derived from:
+  CC-CEDICT — https://cc-cedict.org/
+  A Chinese-English dictionary providing pinyin readings for Chinese words.
+  Licensed under Creative Commons Attribution-ShareAlike 4.0 International
+  (CC BY-SA 4.0) — https://creativecommons.org/licenses/by-sa/4.0/
+
+Both files are themselves licensed CC BY-SA 4.0. Only the pinyin readings and
+the traditional-spelling column are taken from CC-CEDICT; its English
+definitions are not used, and the glosses in app/public/packs/zh/gloss.en.txt
+are generated independently as described in section 5.
+
+variants.txt states how each headword of the Mandarin pack is written in
+traditional characters, so that a text in traditional characters can be read
+against the same dictionary. Its content is the traditional column of
+CC-CEDICT, selected per headword, and it is kept in a file of its own rather
+than folded into the pack skeleton so that the share-alike licence does not
+reach the unencumbered files beside it. Which spelling is chosen where
+CC-CEDICT offers several is decided by scoring against this project's own
+glosses; that selection is this project's work, but the spellings themselves
+are not, so the whole file carries the upstream licence.
+
+CC-CEDICT is also used at build time to map traditional spellings onto their
+simplified equivalents, which affects which words appear in the Mandarin pack
+and their frequency ranks. app/public/packs/zh/ranks.txt is therefore a derivative of
+both this source and the source in section 1; both are CC BY-SA 4.0, so the two
+are compatible and may share a file.
+
+
+4. Glosses — not derived from any of the above sources
+------------------------------------------------------
+
+Files:  app/public/packs/*/gloss.*.txt
+        app/public/packs/*/lex.txt
+        app/public/packs/*/phrases.txt
+        app/public/packs/*/phrases.*.txt
+        app/public/packs/*/letters.txt
+        app/public/packs/*/letters.*.txt
+
+The glosses are generated at build time by a large language model, from the word
+list alone. They are not copied or translated from any licensed dictionary or
+corpus, and are not subject to the licences above. The phrase lists and their
+glosses are written by hand for this project, from the same starting point.
+
+lex.txt is listed here because it holds no meanings and no ranks: it is the
+word list and its morphology, which is this project's own arrangement of its
+own output.
+
+letters.txt and letters.*.txt are the tables and notes behind letters mode —
+each alphabet's letters, their names and romanisations, and what each sounds
+like, written for each reader — and are written by hand for this project. The
+Mandarin pack's letters.txt is the 214 Kangxi radicals (a list fixed in 1716),
+written out by hand; which radical each character belongs to is not in it but
+in radicals.txt, section 6.
+
+
+5. Application code
+-------------------
+
+Everything outside app/public/packs/ is the application's own code and is not
+affected by the licences above.
+
+
+6. Character radicals, Mandarin — Unicode License v3
+----------------------------------------------------
+
+Files:  app/public/packs/zh/radicals.txt
+
+Derived from:
+  The Unicode Han Database (Unihan), the kRSUnicode field —
+    https://www.unicode.org/reports/tr38/
+  Licensed under the Unicode License v3 — https://www.unicode.org/license.txt
+
+The file lists, for every character the Mandarin pack writes, the Kangxi
+radical Unihan files it under, verbatim. It is kept apart from every other
+file, and carries the licence's full notice in its own header so that the
+notice travels with the data, as the licence asks. That notice reads:
+
+  UNICODE LICENSE V3
+
+  COPYRIGHT AND PERMISSION NOTICE
+
+  Copyright © 1991-2026 Unicode, Inc.
+
+  NOTICE TO USER: Carefully read the following legal agreement. BY
+  DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING DATA FILES, AND/OR
+  SOFTWARE, YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE
+  TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT
+  DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE THE DATA FILES OR SOFTWARE.
+
+  Permission is hereby granted, free of charge, to any person obtaining a
+  copy of data files and any associated documentation (the "Data Files") or
+  software and any associated documentation (the "Software") to deal in the
+  Data Files or Software without restriction, including without limitation
+  the rights to use, copy, modify, merge, publish, distribute, and/or sell
+  copies of the Data Files or Software, and to permit persons to whom the
+  Data Files or Software are furnished to do so, provided that either (a)
+  this copyright and permission notice appear with all copies of the Data
+  Files or Software, or (b) this copyright and permission notice appear in
+  associated Documentation.
+
+  THE DATA FILES AND SOFTWARE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+  KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+  THIRD PARTY RIGHTS.
+
+  IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE
+  BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES,
+  OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS,
+  WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION,
+  ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THE DATA
+  FILES OR SOFTWARE.
+
+  Except as contained in this notice, the name of a copyright holder shall
+  not be used in advertising or otherwise to promote the sale, use or other
+  dealings in these Data Files or Software without prior written
+  authorization of the copyright holder.
+
+
+7. Character parts, Mandarin — GNU LGPL 3.0 or later
+----------------------------------------------------
+
+Files:  app/public/packs/zh/parts.txt
+        app/public/packs/zh/parts.<reader>.txt (es, fr, id, pt)
+
+Derived from:
+  Make Me a Hanzi, dictionary.txt, by Shaunak Kishore and its contributors —
+    https://github.com/skishore/makemeahanzi (commit bddc96d4)
+  itself derived from Unihan and CJKlib.
+  Licensed under the GNU Lesser General Public License, version 3 or (at
+  your option) any later version — https://www.gnu.org/licenses/lgpl-3.0.html
+
+The file says, for every character of the Mandarin pack the source has and
+for every part those characters name, what the character is built from (an
+Ideographic Description Sequence), whether it is a picture, a compound of
+meanings, or a meaning part plus a sound part, which part is which, the
+source's short English note on it, and — only for a character the pack has
+no headword of its own for — the source's English definition. The rows are
+the source's fields, selected and not rewritten; the file's header says so,
+with the date of the change, as the licence asks of a modified copy.
+
+Each parts.<reader>.txt is a translation of two of those columns — the note
+on how the parts make a character (only where it is not a meaning part plus a
+sound part) and the definitions parts.txt keeps — into one reader's language.
+A translation is a modification, so each is likewise its own file under LGPL
+3.0 or later, with both licence texts and its own notice of change, dated, in
+its header.
+
+It is kept apart from every other file and is itself licensed LGPL 3.0 or
+later. The full texts of the GNU LGPL and of the GNU GPL it supplements are in
+the file's own header, so that they travel with the data. The file is plain
+text and is its own source. The application reads it as data; nothing else in
+the application is derived from it.
