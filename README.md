@@ -6,12 +6,12 @@ correction ships as a file rather than as a new build of the app.
 | pack | version | path |
 | --- | --- | --- |
 | ar | 1.0.53 | `v2/ar/` |
-| de | 1.0.101 | `v2/de/` |
-| en | 1.0.161 | `v2/en/` |
-| es | 1.1.81 | `v2/es/` |
-| fr | 1.1.69 | `v2/fr/` |
-| id | 1.1.97 | `v2/id/` |
-| pt | 1.1.55 | `v2/pt/` |
+| de | 1.0.102 | `v2/de/` |
+| en | 1.0.162 | `v2/en/` |
+| es | 1.1.82 | `v2/es/` |
+| fr | 1.1.70 | `v2/fr/` |
+| id | 1.1.98 | `v2/id/` |
+| pt | 1.1.56 | `v2/pt/` |
 | zh | 1.1.103 | `v2/zh/` |
 
 Each pack is a directory of plain text plus a `pack.json` naming every file
