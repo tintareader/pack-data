@@ -5,13 +5,13 @@ correction ships as a file rather than as a new build of the app.
 
 | pack | version | path |
 | --- | --- | --- |
-| ar | 1.0.66 | `v2/ar/` |
-| de | 1.0.108 | `v2/de/` |
-| en | 1.0.168 | `v2/en/` |
-| es | 1.1.87 | `v2/es/` |
-| fr | 1.1.76 | `v2/fr/` |
-| id | 1.1.102 | `v2/id/` |
-| pt | 1.1.61 | `v2/pt/` |
+| ar | 1.0.81 | `v2/ar/` |
+| de | 1.0.124 | `v2/de/` |
+| en | 1.0.203 | `v2/en/` |
+| es | 1.1.109 | `v2/es/` |
+| fr | 1.1.92 | `v2/fr/` |
+| id | 1.1.126 | `v2/id/` |
+| pt | 1.1.75 | `v2/pt/` |
 | zh | 1.1.107 | `v2/zh/` |
 
 Each pack is a directory of plain text plus a `pack.json` naming every file
