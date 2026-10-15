@@ -11,7 +11,7 @@ correction ships as a file rather than as a new build of the app.
 | es | 1.1.137 | `v2/es/` |
 | fr | 1.1.144 | `v2/fr/` |
 | id | 1.1.200 | `v2/id/` |
-| pt | 1.1.117 | `v2/pt/` |
+| pt | 1.1.130 | `v2/pt/` |
 | zh | 1.1.132 | `v2/zh/` |
 
 Each pack is a directory of plain text plus a `pack.json` naming every file
