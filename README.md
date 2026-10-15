@@ -10,7 +10,7 @@ correction ships as a file rather than as a new build of the app.
 | en | 1.0.279 | `v2/en/` |
 | es | 1.1.136 | `v2/es/` |
 | fr | 1.1.143 | `v2/fr/` |
-| id | 1.1.167 | `v2/id/` |
+| id | 1.1.193 | `v2/id/` |
 | pt | 1.1.116 | `v2/pt/` |
 | zh | 1.1.132 | `v2/zh/` |
 
